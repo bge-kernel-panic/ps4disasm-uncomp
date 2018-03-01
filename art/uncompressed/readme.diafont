@@ -1,0 +1,9 @@
+Dialogue font
+=============
+
+Turns out this font is uncompressed, 8x16 characters, 1 bit per pixel.
+
+Use xxd -b -c1 to see it.
+
+Found this using nana and some creative debugger use.  It's now labeled as
+DiaFont in the assembly source.
