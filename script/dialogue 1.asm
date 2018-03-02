@@ -541,21 +541,21 @@
 ; $29
 	dc.b	$F4
 	dc.b	$02
-	dc.b	"Chaz, where have you been?"
+	dc.b	"Chaz, où diable étais-tu?"
 	dc.b	$FC
-	dc.b	"C'mon, let's go!"
+	dc.b	"Allez, grouille!"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"But..."
+	dc.b	"M'enfin, Alys..."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$02
-	dc.b	"We have to see the principal"
+	dc.b	"Nous devons rencontrer le"
 	dc.b	$FC
-	dc.b	"and get the details about this"
+	dc.b	"directeur pour connaître les"
 	dc.b	$FD
-	dc.b	"commission."
+	dc.b	"détails de la mission."
 	dc.b	$FF
 
 ; $2A
@@ -834,11 +834,11 @@
 ; $6D
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Oops! I wandered around and now"
+	dc.b	"Oups! Je me promenais sans but"
 	dc.b	$FC
-	dc.b	"I've gotten separated from Alys."
+	dc.b    "et j'ai perdu Alys."
 	dc.b	$FD
-	dc.b	"I've got to find her..."
+	dc.b	"Je dois la retrouver..."
 	dc.b	$FF
 
 ; $6E

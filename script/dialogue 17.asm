@@ -736,113 +736,115 @@
 	dc.b	$FF
 
 ; $36
-	dc.b	"Chaz, we have work to do!"
+	dc.b	"Chaz, on a du travail!"
 	dc.b	$FC
-	dc.b	"Hurry up and get ready!"
+	dc.b	"Allez, prépare-toi!"
 	dc.b	$FF
 
 ; $37
 	dc.b	$F4
 	dc.b	$02
-	dc.b	"This is your first job since"
+	dc.b	"C'est ta première mission avec"
 	dc.b	$FC
-	dc.b	"you joined the Hunters Guild."
+	dc.b	"la Guilde des Chasseurs."
 	dc.b	$FD
-	dc.b	"You'd better put your heart"
+	dc.b	"Tu devras t'y adonner corps"
 	dc.b	$FC
-	dc.b	"into it!"
+	dc.b	"et âme!"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"So... I'm not a trainee anymore."
+	dc.b	"Alors... je ne suis plus un"
+	dc.b    $FC
+	dc.b    "apprenti?"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$02
-	dc.b	"From this day on,"
+	dc.b	"À partir de maintenant, tu es"
 	dc.b	$FC
-	dc.b	"you are a full-fledged partner!"
+	dc.b	"un associé à part entière!"
 	dc.b	$FD
-	dc.b	"Now come on! Let's go!"
+	dc.b	"Assez bavardé! Allons-y!"
 	dc.b	$FF
 
 ; $38
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Where are we off to this time?"
+    dc.b    "Où allons nous aujourd'hui?"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$02
-	dc.b	"It's a bit far."
+    dc.b    "Ce n'est pas la porte d'à côté."
 	dc.b	$FC
-	dc.b	"We're going to Motavia Academy"
+	dc.b	"Nous allons à l'Académie Motavia"
 	dc.b	$FD
-	dc.b	"in the town of Piata."
+	dc.b    "située dans la ville de Piata."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Wow! So we're going to"
+	dc.b    "Wow! Donc, nous allons visiter"
 	dc.b	$FC
-	dc.b	"the Town of Learning!"
+	dc.b    "la Ville du Savoir!"
 	dc.b	$FD
-	dc.b	"I wonder what's happened there?"
+	dc.b    "Je me demande quel est leur"
+	dc.b    $FC
+	dc.b    "problème?"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$02
-	dc.b	"Who knows? The message said"
+	dc.b	"Va savoir! Leur message disait"
 	dc.b	$FC
-	dc.b	"'Just come.'"
+	dc.b	"seulement, 'Venez vite.'"
 	dc.b	$FD
-	dc.b	"We'll get the details"
+	dc.b	"Nous demanderons plus de"
 	dc.b	$FC
-	dc.b	"once we're there."
+	dc.b	"détails sur place."
 	dc.b	$FF
 
 ; $39
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Since we're going to be there"
+	dc.b	"Comme nous passons par là,"
 	dc.b	$FC
-	dc.b	"anyway, I'd sure like to tour"
+	dc.b	"j'aimerais bien visiter"
 	dc.b	$FD
-	dc.b	"the Academy."
+	dc.b	"l'Académie."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$02
-	dc.b	"Is that all you can think about?"
+	dc.b	"Ma parole, tu ne penses qu'à ça!"
 	dc.b	$FD
-	dc.b	"Get moving or I'll leave you"
-	dc.b	$FC
-	dc.b	"behind!"
+	dc.b	"Bouge-toi ou j'irai seule!"
 	dc.b	$FF
 
 ; $3A
-	dc.b	"AW 2284. Monster attacks"
+	dc.b	"AW 2284. Les attaques de"
 	dc.b	$FF
 
 ; $3B
-	dc.b	"have swelled the ranks of those"
+	dc.b	"monstres encourage l'activité"
 	dc.b	$FF
 
 ; $3C
-	dc.b	"who call themselves 'Hunters.'"
+	dc.b	"des 'Chasseurs' autoproclamés."
 	dc.b	$FF
 
 ; $3D
-	dc.b	"But as the attacks become ever"
+	dc.b	"Mais la fréquence grandissante"
 	dc.b	$FF
 
 ; $3E
-	dc.b	"more frequent and powerful, an"
+	dc.b	"des attaques amène l'élite à"
 	dc.b	$FF
 
 ; $3F
-	dc.b	"elite few begin to wonder what"
+	dc.b	"se demander quelle est cause"
 	dc.b	$FF
 
 ; $40
-	dc.b	"is behind this outbreak... and"
+	dc.b	"de cette resurgence... et quand"
 	dc.b	$FF
 
 ; $41
-	dc.b	"when and how will it all end?"
+	dc.b	"et comment cela va se terminer?"
 	dc.b	$FF
