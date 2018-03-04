@@ -570,7 +570,7 @@
 	dc.b	$FC
 	dc.b	"confirmé que la Vallée de"
 	dc.b	$FD
-	dc.b	"l'éclosion est le point"
+	dc.b	"l'Éclosion est le point"
 	dc.b	$FC
 	dc.b	"d'origine de l'épidémie, et"
 	dc.b	$FD
@@ -799,7 +799,7 @@
 	dc.b	$FD
 	dc.b	"Vous devez êtes Alyz, la"
 	dc.b	$FC
-	dc.b	"chasseure,"
+	dc.b	"chasseresse,"
 	dc.b	$FD
 	dc.b	"et vous, son assistant, Chaz."
 	dc.b	$FD
@@ -807,7 +807,7 @@
 	dc.b	$02
 	dc.b	"Je vous demande pardon, Chaz est"
 	dc.b	$FC
-	dc.b	"mon partenaire à part entière."
+	dc.b	"mon associé à part entière."
 	dc.b	$FD
 	dc.b	"Bien, venons-en au fait."
 	dc.b	$FD
@@ -859,7 +859,7 @@
 	dc.b	$FC
 	dc.b	"étrange que tous ces monstres"
 	dc.b	$FD
-	dc.b	"sont apparus dans l'Académie."
+	dc.b	"soient apparus dans l'Académie."
 	dc.b	$FD
 	dc.b	"Habituellement, ils se tiennent"
 	dc.b	$FC

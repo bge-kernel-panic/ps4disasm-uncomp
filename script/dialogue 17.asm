@@ -748,13 +748,13 @@
 	dc.b	$FC
 	dc.b	"la Guilde des Chasseurs."
 	dc.b	$FD
-	dc.b	"Tu devras t'y adonner corps"
+	dc.b	"Tu devras t'y dédier corps"
 	dc.b	$FC
 	dc.b	"et âme!"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Alors... je ne suis plus un"
+	dc.b	"Comme ça, je ne suis plus un"
 	dc.b    $FC
 	dc.b    "apprenti?"
 	dc.b	$FD
@@ -804,11 +804,11 @@
 ; $39
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Comme nous passons par là,"
+	dc.b	"Comme nous y allons de toute"
 	dc.b	$FC
-	dc.b	"j'aimerais bien visiter"
+	dc.b	"façon, j'aimerais bien faire la"
 	dc.b	$FD
-	dc.b	"l'Académie."
+	dc.b	"visite guidée de l'Académie."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$02
@@ -818,15 +818,15 @@
 	dc.b	$FF
 
 ; $3A
-	dc.b	"AW 2284. Les attaques de"
+	dc.b	"AW 2284. L'épidémie de monstres"
 	dc.b	$FF
 
 ; $3B
-	dc.b	"monstres encourage l'activité"
+	dc.b	"favorise le recrutement dans"
 	dc.b	$FF
 
 ; $3C
-	dc.b	"des 'Chasseurs' autoproclamés."
+	dc.b	"le groupe des 'Chasseurs.'"
 	dc.b	$FF
 
 ; $3D
@@ -834,15 +834,15 @@
 	dc.b	$FF
 
 ; $3E
-	dc.b	"des attaques amène l'élite à"
+	dc.b	"des attaques amène certains"
 	dc.b	$FF
 
 ; $3F
-	dc.b	"se demander quelle est cause"
+	dc.b	"à se demander quelle est cause"
 	dc.b	$FF
 
 ; $40
-	dc.b	"de cette resurgence... et quand"
+	dc.b	"de cette resurgence... quand"
 	dc.b	$FF
 
 ; $41

@@ -1,3 +1,5 @@
+; Careful here, I'm told the game can crash if this is made
+; longer...
 ; 0
 	dc.b	$F4
 	dc.b	$0B
