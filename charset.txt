@@ -1,0 +1,980 @@
+Accent scratch
+
+Small font:  ($27 -> $54)
+
+	charset 'é', 88
+	charset 'ê', 89
+	charset 'è', 90
+	charset 'ë', 91
+	charset 'â', 92
+	charset 'à', 93
+	charset 'î', 94
+	charset 'ï', 95
+	charset 'ô', 96
+	charset 'û', 97
+	charset 'ù', 98
+	charset 'ü', 99
+	charset 'ç', 100
+
+Big font: ($27 -> $36)
+	charset 'é', 74
+	charset 'ê', 75
+	charset 'è', 76
+	charset 'ë', 77
+	charset 'â', 78
+	charset 'à', 79
+	charset 'î', 80
+	charset 'ï', 81
+	charset 'ô', 82
+	charset 'û', 83
+	charset 'ù', 84
+	charset 'ü', 85
+	charset 'ç', 86
+	charset 'É', 87
+	charset 'Ê', 88
+	charset 'È', 89
+	charset 'Ë', 90
+	charset 'Â', 91
+	charset 'À', 92
+	charset 'Î', 93
+	charset 'Ï', 94
+	charset 'Ô', 95
+	charset 'Û', 96
+	charset 'Ù', 97
+	charset 'Ü', 98
+	charset 'Ç', 99
+
+
+; DAGGER
+	dc.b	"Un poignard avec une"
+	dc.b	$FC
+	dc.b	"courte lame."
+	dc.b	$FF
+
+; HUNT-KNIFE
+	dc.b	"Un couteau avec une"
+	dc.b	$FC
+	dc.b	"large lame multi-usage"
+	dc.b	$FF
+
+; BOOMERANG
+	dc.b	"Arme de jet."
+	dc.b	$FF
+
+; LTHR-CLOTH
+	dc.b	"Vêtement en cuir de"
+	dc.b	$FC
+	dc.b	"ver des sables."
+	dc.b	$FF
+
+; LTHR-HELM
+	dc.b	"Un chapeau fait de peau"
+	dc.b	$FC
+	dc.b	"de ver des sables."
+	dc.b	$FF
+
+; LTHR-CROWN
+	dc.b	"Un casque pour femmes fait en"
+	dc.b	$FC
+	dc.b	"peau de ver des sables."
+	dc.b	$FF
+
+; LTHR-BAND
+	dc.b	"Un bandeau fait de peau"
+	dc.b	$FC
+	dc.b	"de ver des sables."
+	dc.b	$FF
+
+; STEL-SWORD
+	dc.b	"Épée faite d'acier."
+	dc.b	$FF
+
+; SLASHER
+	dc.b	"Arme de jet tranchante."
+	dc.b	$FF
+
+; LTHRSHIELD
+	dc.b	"Bouclier de peau de"
+	dc.b	$FC
+	dc.b	"ver des sables."
+	dc.b	$FF
+
+; CRBN-SUIT
+	dc.b	"Vêtement protecteur en"
+	dc.b	$FC
+	dc.b	"fibres de carbone."
+	dc.b	$FF
+
+; CRBNSHIELD
+	dc.b	"Bouclier de fibres de"
+	dc.b	$FC
+	dc.b	"carbone sur acier."
+	dc.b	$FF
+
+; CRBN-HELM
+	dc.b	"Casque fait de fibres"
+	dc.b	$FC
+	dc.b	"de carbone."
+	dc.b	$FF
+
+; CRBN-CROWN
+	dc.b	"Casque pour femme fait"
+	dc.b	$FC
+	dc.b	"de fibres de carbone."
+	dc.b	$FF
+
+; CIRCLET
+	dc.b	"Un bandeau fait de"
+	dc.b	$FC
+	dc.b	"fibres de carbone."
+	dc.b	$FF
+
+; WOOD-CANE
+	dc.b	"Canne faite de bois"
+	dc.b	$FC
+	dc.b	"de l'arbre de Laeruma."
+	dc.b	$FF
+
+; WHITEMANTL
+	dc.b	"Manteau empli de magie"
+	dc.b	$FC
+	dc.b	"défensive."
+	dc.b	$FF
+
+; TITN-SWORD
+	dc.b	"Une épée faite d'un"
+	dc.b	$FC
+	dc.b	"alliage de titane."
+	dc.b	$FF
+
+; TITNDAGGER
+	dc.b	"Un poignard fait d'un"
+	dc.b	$FC
+	dc.b	"alliage de titane."
+	dc.b	$FF
+
+; TITNSLASHR
+	dc.b	"Un shuriken fait d'un"
+	dc.b	$FC
+	dc.b	"alliage de titane."
+	dc.b	$FF
+
+; TITN-AXE
+	dc.b	"Une hache faite d'un"
+	dc.b	$FC
+	dc.b	"alliage de titane."
+	dc.b	$FF
+
+; BROAD-AXE
+	dc.b	"Une grande hache faite"
+	dc.b	$FC
+	dc.b	"en alliage de titane."
+	dc.b	$FF
+
+; TITN-MAIL
+	dc.b	"Cotte de maille en"
+	dc.b	$FC
+	dc.b	"alliage de titane."
+	dc.b	$FF
+
+; TITNSHIELD
+	dc.b	"Bouclier fait d'un"
+	dc.b	$FC
+	dc.b	"alliage de titane."
+	dc.b	$FF
+
+; TITN-HELM
+	dc.b	"Casque fait d'un"
+	dc.b	$FC
+	dc.b	"alliage de titane."
+	dc.b	$FF
+
+; TITN-CROWN
+	dc.b	"Casque pour femme en"
+	dc.b	$FC
+	dc.b	"alliage de titane."
+	dc.b	$FF
+
+; NOTHING
+	dc.b	$FF
+
+; GRPT-SUIT
+	dc.b	"Vêtement protecteur fait"
+	dc.b	$FC
+	dc.b	"en fibres de graphite."
+	dc.b	$FF
+
+; GRPTSHIELD
+	dc.b	"Bouclier fait de"
+	dc.b	$FC
+	dc.b	"fibres de graphite."
+	dc.b	$FF
+
+; CRMC-SWORD
+	dc.b	"Épée en ceramique."
+	dc.b	$FF
+
+; GRPT-CROWN
+	dc.b	"Casque pour femme en"
+	dc.b	$FC
+	dc.b	"fibres de graphite."
+	dc.b	$FF
+
+; CLAW
+	dc.b	"Griffes acérées en"
+	dc.b	$FC
+	dc.b	"alliage de titane."
+	dc.b	$FF
+
+; CRMC-KNIFE
+	dc.b	"Poignard en céramique."
+	dc.b	$FF
+
+; CRMCSHIELD
+	dc.b	"Bouclier fait avec de"
+	dc.b	$FC
+	dc.b	"la céramique."
+	dc.b	$FF
+
+; LASRSLASHR
+	dc.b	"Un shuriken émettant"
+	dc.b	$FC
+	dc.b	"un laser."
+	dc.b	$FF
+
+; SABER-CLAW
+	dc.b	"Griffes plus acérées,"
+	dc.b	$FC
+	dc.b	"en alliage de titane."
+	dc.b	$FF
+
+; STRUGGL-AX
+	dc.b	"Une grande et lourde hache,"
+	dc.b	$FC
+	dc.b	"faite pour la guerre."
+	dc.b	$FF
+
+; CRMC-MAIL
+	dc.b	"Armure en céramique,"
+	dc.b	$FC
+	dc.b	"résistante à la chaleur."
+	dc.b	$FF
+
+; CRMC-HELM
+	dc.b	"Casque en céramique."
+	dc.b	$FF
+
+; LASR-SWORD
+	dc.b	"Épée laser."
+	dc.b	$FC
+	dc.b	"Pas une imitation."
+	dc.b	$FF
+
+; LASR-CLAW
+	dc.b	"Griffes émettant un"
+	dc.b	$FC
+	dc.b	"laser."
+	dc.b	$FF
+
+; LASRBARRIR
+	dc.b	"Barrière faite de"
+	dc.b	$FC
+	dc.b	"rayons laser."
+	dc.b	$FF
+
+; IMPACTER
+	dc.b	"Fusil tirant des"
+	dc.b	$FC
+	dc.b	"salves d'air."
+	dc.b	$FF
+
+; TITN-ARMOR
+	dc.b	"Armure pour androïde."
+	dc.b	$FC
+	dc.b	"Faite en titane."
+	dc.b	$FF
+
+; HEAD-GEAR
+	dc.b	"Casque pour androïde."
+	dc.b	$FC
+	dc.b	"Fait en acier."
+	dc.b	$FF
+
+; STUN-SHOT
+	dc.b	"Fusil tirant des"
+	dc.b	$FC
+	dc.b	"ondes sonores."
+	dc.b	$FF
+
+; LASR-AXE
+	dc.b	"Hache emettant des"
+	dc.b	$FC
+	dc.b	"rayons laser."
+	dc.b	$FF
+
+; LASR-KNIFE
+	dc.b	"Poignard emettant"
+	dc.b	$FC
+	dc.b	"des rayons laser."
+	dc.b	$FF
+
+; CRMC-ARMOR
+	dc.b	"Armure pour androïdes"
+	dc.b	$FC
+	dc.b	"en ceramique."
+	dc.b	$FF
+
+; TITN-GEAR
+	dc.b	"Casque pour androïdes"
+	dc.b	$FC
+	dc.b	"en titane."
+	dc.b	$FF
+
+; PSY-MAIL
+	dc.b	"Armure d'acier imbue"
+	dc.b	$FC
+	dc.b	"de magie défensive."
+	dc.b	$FF
+
+; PSY-SHIELD
+	dc.b	"Bouclier d'acier imbu"
+	dc.b	$FC
+	dc.b	"de magie défensive."
+	dc.b	$FF
+
+; PSY-CROWN
+	dc.b	"Casque d'acier imbu"
+	dc.b	$FC
+	dc.b	"de magie défensive."
+	dc.b	$FF
+
+; PSY-CIRCLT
+	dc.b	"Bandeau d'acier imbu"
+	dc.b	$FC
+	dc.b	"de magie défensive."
+	dc.b	$FF
+
+; FORCE-CANE
+	dc.b	"Canne renforcée par la magie."
+	dc.b	$FF
+
+; PSY-ROBE
+	dc.b	"Toge de magicien imbue"
+	dc.b	$FC
+	dc.b	"de magie défensive."
+	dc.b	$FF
+
+; PSYCO-WAND
+	dc.b	"Baguette qui peut nullifier"
+	dc.b	$FC
+	dc.b	"la magie défensive."
+	dc.b	$FF
+
+; FRADEMANTL
+	dc.b	"On ignore tout de"
+	dc.b	$FC
+	dc.b	"cet objet."
+	dc.b	$FF
+
+; WAVE-SHOT
+	dc.b	"Arme émettant des ondes"
+	dc.b	$FC
+	dc.b	"sonores destructrices."
+	dc.b	$FF
+
+; SPACEDARMR
+	dc.b	"Armure d'androïde"
+	dc.b	$FC
+	dc.b	"doublement blindée."
+	dc.b	$FF
+
+; CRMC-GEAR
+	dc.b	"Casque pour androïdes"
+	dc.b	$FC
+	dc.b	"en céramique."
+	dc.b	$FF
+
+; PLSM-RIFLE
+	dc.b	"Fusil à particule"
+	dc.b	$FC
+	dc.b	"émmetant des protons."
+	dc.b	$FF
+
+; PULSE-LASR
+	dc.b	"Fusil tirant des"
+	dc.b	$FC
+	dc.b	"pulsasions laser."
+	dc.b	$FF
+
+; PLSM-SWORD
+	dc.b	"Epée émettant du plasma."
+	dc.b	$FF
+
+; PLSM-CLAW
+	dc.b	"Griffes émettant du"
+	dc.b	$FC
+	dc.b	"plasma."
+	dc.b	$FF
+
+; PLSMDAGGER
+	dc.b	"Poignard émettant du"
+	dc.b	$FC
+	dc.b	"plasma."
+	dc.b	$FF
+
+; PLSM-FIELD
+	dc.b	"Barrière fonctionnant"
+	dc.b	$FC
+	dc.b	"avec émetteur plasma."
+	dc.b	$FF
+
+; SILV-ROD
+	dc.b	"Bâton fait de Laconia"
+	dc.b	$FC
+	dc.b	"inférieur."
+	dc.b	$FF
+
+; SILV-MANTL
+	dc.b	"Manteau tissé de fibres"
+	dc.b	$FC
+	dc.b	"de Laconia inférieur"
+	dc.b	$FF
+
+; SILVCIRCLT
+	dc.b	"Bandeau fait de Laconia"
+	dc.b	$FC
+	dc.b	"inférieur"
+	dc.b	$FF
+
+; SILV-MAIL
+	dc.b	"Armure en Laconia"
+	dc.b	$FC
+	dc.b	"inférieur."
+	dc.b	$FF
+
+; SILVSHIELD
+	dc.b	"Bouclier fait de"
+	dc.b	$FC
+	dc.b	"Laconia inférieur."
+	dc.b	$FF
+
+; SILV-HELM
+	dc.b	"Casque fait de"
+	dc.b	$FC
+	dc.b	"Laconia inférieur."
+	dc.b	$FF
+
+; SILV-CROWN
+	dc.b	"Casque pour femme en"
+	dc.b	$FC
+	dc.b	"Laconia inférieur."
+	dc.b	$FF
+
+; ZIRC-GEAR
+	dc.b	"Casque pour androïdes"
+	dc.b	$FC
+	dc.b	"fait de métal ignifuge."
+	dc.b	$FF
+
+; NAPALMSHOT
+	dc.b	"Canon incendiaire."
+	dc.b	$FF
+
+; ZIRCOARMER
+	dc.b	"Armure pour androïdes"
+	dc.b	$FC
+	dc.b	"faite de métal ignifuge"
+	dc.b	$FF
+
+; FLAMESWORD
+	dc.b	"Épée imbue du pouvoir"
+	dc.b	$FC
+	dc.b	"FLAELI."
+	dc.b	$FF
+
+; THUNDRCLAW
+	dc.b	"Griffes imbues du"
+	dc.b	$FC
+	dc.b	"pouvoir TANDLE."
+	dc.b	$FF
+
+; TORNDDAGGR
+	dc.b	"Poignard imbu du"
+	dc.b	$FC
+	dc.b	"pouvoir HEWN."
+	dc.b	$FF
+
+; DREAM-ROD
+	dc.b	"Bâton imbu du pouvoir"
+	dc.b	$FC
+	dc.b	"BINDWA."
+	dc.b	$FF
+
+; PHANTAROBE
+	dc.b	"Toge créeant une"
+	dc.b	$FC
+	dc.b	"illusion du porteur."
+	dc.b	$FF
+
+; SILVR-TUSK
+	dc.b	"Trésor secret des"
+	dc.b	$FC
+	dc.b	"chats musqués."
+	dc.b	$FF
+
+; PULSEVULCN
+	dc.b	"Arme tirant des"
+	dc.b	$FC
+	dc.b	"rayons électroniques."
+	dc.b	$FF
+
+; COMPO-ARMR
+	dc.b	"Armure pour androïdes"
+	dc.b	$FC
+	dc.b	"en matériaux composites."
+	dc.b	$FF
+
+; COMPO-GEAR
+	dc.b	"Casque pour androïdes"
+	dc.b	$FC
+	dc.b	"en matériaux composites."
+	dc.b	$FF
+
+; RFLC-MAIL
+	dc.b	"Armure résistante aux"
+	dc.b	$FC
+	dc.b	"techniques et à la magie."
+	dc.b	$FF
+
+; RFLCSHIELD
+	dc.b	"Bouclier résistant aux"
+	dc.b	$FC
+	dc.b	"techniques et à la magie."
+	dc.b	$FF
+
+; RFLC-ROBE
+	dc.b	"Toge résistante aux"
+	dc.b	$FC
+	dc.b	"techniques et à la magie."
+	dc.b	$FF
+
+; LACO-SWORD
+	dc.b	"Épee faite en"
+	dc.b	$FC
+	dc.b	"Laconia supérieur."
+	dc.b	$FF
+
+; LACODAGGER
+	dc.b	"Poignard fait en"
+	dc.b	$FC
+	dc.b	"Laconia supérieur."
+	dc.b	$FF
+
+; LACO-CLAW
+	dc.b	"Griffes faites en"
+	dc.b	$FC
+	dc.b	"Laconia supérieur."
+	dc.b	$FF
+
+; LACOSLASHR
+	dc.b	"Shuriken fait en"
+	dc.b	$FC
+	dc.b	"Laconia supérieur."
+	dc.b	$FF
+
+; GUARD-ROD
+	dc.b	"On ignore tout de"
+	dc.b	$FC
+	dc.b	"cet objet."
+	dc.b	$FF
+
+; PLSMLAUNCH
+	dc.b	"Grand fusil à particules."
+	dc.b	$FF
+
+; ELST-ARMOR
+	dc.b	"Armure pour androïdes"
+	dc.b	$FC
+	dc.b	"hautement élastique."
+	dc.b	$FF
+
+; ELST-GEAR
+	dc.b	"Casque pour androïdes"
+	dc.b	$FC
+	dc.b	"hautement élastique."
+	dc.b	$FF
+
+; LACO-ROD
+	dc.b	"Bâton en Laconia."
+	dc.b	$FC
+	dc.b	"Imbue de EFESS."
+	dc.b	$FF
+
+; GENOCYCLAW
+	dc.b	"Griffes imbues de la"
+	dc.b	$FC
+	dc.b	"magie DIEM."
+	dc.b	$FF
+
+; SWIFT-HELM
+	dc.b	"Casque qui rend"
+	dc.b	$FC
+	dc.b	"l'utilisateur plus vif."
+	dc.b	$FF
+
+; MOONSLASHR
+	dc.b	"Shuriken contenant la"
+	dc.b	$FC
+	dc.b	"lumière de la lune."
+	dc.b	$FF
+
+; POW-SHIELD
+	dc.b	"On ignore tout de"
+	dc.b	$FC
+	dc.b	"cet objet."
+	dc.b	$FF
+
+; LACO-MAIL
+	dc.b	"Armure faite de"
+	dc.b	$FC
+	dc.b	"Laconia supérieur."
+	dc.b	$FF
+
+; LACO-HELM
+	dc.b	"Casque fait de"
+	dc.b	$FC
+	dc.b	"Laconia supérieur."
+	dc.b	$FF
+
+; LACO-CROWN
+	dc.b	"Casque pour femme en"
+	dc.b	$FC
+	dc.b	"Laconia supérieur."
+	dc.b	$FF
+
+; LACOCIRCLT
+	dc.b	"Bandeau fait de"
+	dc.b	$FC
+	dc.b	"Laconia supérieur."
+	dc.b	$FF
+
+; LACOSHIELD
+	dc.b	"Bouclier fait de"
+	dc.b	$FC
+	dc.b	"Laconia supérieur."
+	dc.b	$FF
+
+; CYBER-SUIT
+	dc.b	"Costume augmentant"
+	dc.b	$FC
+	dc.b	"la force du porteur."
+	dc.b	$FF
+
+; GUARDSWORD
+	dc.b	"On ignore tout de"
+	dc.b	$FC
+	dc.b	"cette arme."
+	dc.b	$FF
+
+; PHOTNERASR
+	dc.b	"On ignore tout de"
+	dc.b	$FC
+	dc.b	"cette arme."
+	dc.b	$FF
+
+; LACO-ARMOR
+	dc.b	"Armure pour androïdes"
+	dc.b	$FC
+	dc.b	"en Laconia supérieur."
+	dc.b	$FF
+
+; LACO-GEAR
+	dc.b	"Casque pour androïdes"
+	dc.b	$FC
+	dc.b	"en Laconia supérieur."
+	dc.b	$FF
+
+; MAHLAYDGGR
+	dc.b	"Poignard fabriqué par"
+	dc.b	$FC
+	dc.b	"Hahn et son père."
+	dc.b	$FF
+
+; GUARD-CLAW
+	dc.b	"On ignore tout de"
+	dc.b	$FC
+	dc.b	"cette arme."
+	dc.b	$FF
+
+; GUARDARMOR
+	dc.b	"On ignore tout de"
+	dc.b	$FC
+	dc.b	"cette armure."
+	dc.b	$FF
+
+; GUARD-ROBE
+	dc.b	"On ignore tout de"
+	dc.b	$FC
+	dc.b	"cette toge."
+	dc.b	$FF
+
+; GUARD-MAIL
+	dc.b	"On ignore tout de"
+	dc.b	$FC
+	dc.b	"cette armure."
+	dc.b	$FF
+
+; NOTHING
+	dc.b	"On ignore tout de"
+	dc.b	$FC
+	dc.b	"cette arme."
+	dc.b	$FF
+
+; ELSYDEON
+	dc.b	"On ignore tout de"
+	dc.b	$FC
+	dc.b	"cette arme."
+	dc.b	$FF
+
+; LACO-AXE
+	dc.b	"Hache faite en"
+	dc.b	$FC
+	dc.b	"Laconia supérieur."
+	dc.b	$FF
+
+; SONICBUSTR
+	dc.b	"Fusil émettant des"
+	dc.b	$FC
+	dc.b	"ondes ultrasoniques."
+	dc.b	$FF
+
+; DEFEAT-AXE
+	dc.b	"On ignore tout de"
+	dc.b	$FC
+	dc.b	"cette arme."
+	dc.b	$FF
+
+; NOTHING
+	dc.b	$FF
+
+; MAHLAYMAIL
+	dc.b	"Armure fabriquée par"
+	dc.b	$FC
+	dc.b	"Hahn et son père."
+	dc.b	$FF
+
+; MONOMATE
+	dc.b	"Remède faible qui"
+	dc.b	$FC
+	dc.b	"rétablit les PV."
+	dc.b	$FF
+
+; DIMATE
+	dc.b	"Remède qui retablit"
+	dc.b	$FC
+	dc.b	"les PV."
+	dc.b	$FF
+
+; TRIMATE
+	dc.b	"Remède puissant qui"
+	dc.b	$FC
+	dc.b	"retablit les HP."
+	dc.b	$FF
+
+; ANTIDOTE
+	dc.b	"Remède contre le"
+	dc.b	$FC
+	dc.b	"poison."
+	dc.b	$FF
+
+; CURE-PARAL
+	dc.b	"Remède contre la"
+	dc.b	$FC
+	dc.b	"paralysie."
+	dc.b	$FF
+
+; MOON-DEW
+	dc.b	"Parfum jaune"
+	dc.b	$FC
+	dc.b	"très mystérieux."
+	dc.b	$FF
+
+; STAR-DEW
+	dc.b	"Parfum bleu"
+	dc.b	$FC
+	dc.b	"très mystérieux."
+	dc.b	$FF
+
+; TELEPIPE
+	dc.b	"Artéfact imbu de"
+	dc.b	$FC
+	dc.b	"magie RYUKA."
+	dc.b	$FF
+
+; ESCAPIPE
+	dc.b	"Artéfact imbu de"
+	dc.b	$FC
+	dc.b	"magie HINAS."
+	dc.b	$FF
+
+; SOL-DEW
+	dc.b	"Parfum rouge"
+	dc.b	$FC
+	dc.b	"très mystérieux."
+	dc.b	$FF
+
+; GUARDSHILD
+	dc.b	"On ignore tout de"
+	dc.b	$FC
+	dc.b	"cet objet."
+	dc.b	$FF
+
+; MAHLAYSHLD
+	dc.b	"Bouclier créé par"
+	dc.b	$FC
+	dc.b	"Hahn et son père."
+	dc.b	$FF
+
+; SHADWBLADE
+	dc.b	"On ignore tout de"
+	dc.b	$FC
+	dc.b	"cet objet."
+	dc.b	$FF
+
+; ALIS-SWORD
+	dc.b	"Epee légendaire qu'une"
+	dc.b	$FC
+	dc.b	"heroïne a utilisée jadis."
+	dc.b	$FF
+
+; DYNAMITE
+	dc.b	"Matière hautement"
+	dc.b	$FC
+	dc.b	"explosive."
+	dc.b	$FF
+
+; NOTHING
+	dc.b	"Objet permettant de"
+	dc.b	$FC
+	dc.b	"se repérer."
+	dc.b	$FF
+
+; ALSHLINE
+	dc.b	"Remède qui annule la"
+	dc.b	$FC
+	dc.b	"pétrification."
+	dc.b	$FF
+
+; ECLPSTORCH
+	dc.b	"On ignore tout de"
+	dc.b	$FC
+	dc.b	"cet objet."
+	dc.b	$FF
+
+; AERO-PRISM
+	dc.b	"On ignore tout de"
+	dc.b	$FC
+	dc.b	"cet objet."
+	dc.b	$FF
+
+; REPAIR-KIT
+	dc.b	"Kit de réparation"
+	dc.b	$FC
+	dc.b	"pour androïdes."
+	dc.b	$FF
+
+; SHORTCAKE
+	dc.b	"Gâteau vendu dans"
+	dc.b	$FC
+	dc.b	"la boulangerie d'Aiedo."
+	dc.b	$FF
+
+; PENGU-FEED
+	dc.b	"Objet pouvant appeler"
+	dc.b	$FC
+	dc.b	"le pingouin de Dezolis."
+	dc.b	$FF
+
+; PEROLYMATE
+	dc.b	"Galettes banales"
+	dc.b	$FC
+	dc.b	"moyennement nutritives."
+	dc.b	$FF
+
+; PENNANT
+	dc.b	"Un fanion brodé du"
+	dc.b	$FC
+	dc.b	"nom Termi."
+	dc.b	$FF
+
+; WOODCARVIN
+	dc.b	"Une poupée de ver"
+	dc.b	$FC
+	dc.b	"des sables en bois."
+	dc.b	$FF
+
+; LAND-ROVER
+	dc.b	"Vehicule blindé qui passe dans"
+	dc.b	$FC
+	dc.b	"les sables mouvants."
+	dc.b	$FF
+
+; ICE-DIGGER
+	dc.b	"Vehicule qui passe à travers"
+	dc.b	$FC
+	dc.b	"murs de glace."
+	dc.b	$FF
+
+; HYDROFOIL
+	dc.b	"Hydroptère qui peut"
+	dc.b	$FC
+	dc.b	"naviguer sur l'eau."
+	dc.b	$FF
+
+; CONTROLKEY
+	dc.b	"Clé de démarrage du"
+	dc.b	$FC
+	dc.b	"Centre des Machines."
+	dc.b	$FF
+
+; CANCELLER
+	dc.b	"Élimine les emissions"
+	dc.b	$FC
+	dc.b	"d'énergie."
+	dc.b	$FF
+
+; PALMA-RING
+	dc.b	"On ignore tout de"
+	dc.b	$FC
+	dc.b	"cet objet."
+	dc.b	$FF
+
+; MOTA-RING
+	dc.b	"On ignore tout de"
+	dc.b	$FC
+	dc.b	"cet objet."
+	dc.b	$FF
+
+; DEZO-RING
+	dc.b	"On ignore tout de"
+	dc.b	$FC
+	dc.b	"cet objet."
+	dc.b	$FF
+
+; RYKR-RING
+	dc.b	"On ignore tout de"
+	dc.b	$FC
+	dc.b	"cet objet."
+	dc.b	$FF
+
+; ALGO-RING
+	dc.b	"On ignore tout de"
+	dc.b	$FC
+	dc.b	"cet objet."
+	dc.b	$FF
+
+; MAHLAYRING
+	dc.b	"Un anneau fabriqué par"
+	dc.b	$FC
+	dc.b	"Hahn et son père."
+	dc.b	$FF
