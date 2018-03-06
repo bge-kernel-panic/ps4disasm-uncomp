@@ -921,7 +921,7 @@
 	dc.b	$FD
 	dc.b	"Bon travail."
 	dc.b	$FC
-	dc.b	"Vos habilités sont indubitables."
+	dc.b	"Vous êtes très compétents."
 	dc.b	$FD
 	dc.b	"Vous trouverez votre cachet"
 	dc.b	$FC
