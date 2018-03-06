@@ -103,7 +103,7 @@
 	dc.b	$FF
 
 ; $B
-	dc.b	"Je vous ai déjà vu quelque"
+	dc.b	"Je vous ai déjà vus quelque"
 	dc.b	$FC
 	dc.b	"part... Qui êtes-vous?"
 	dc.b	$FF
