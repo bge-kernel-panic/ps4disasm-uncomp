@@ -31,7 +31,7 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$03
-	dc.b	"Ah! Heu, et bien..."
+	dc.b	"Ah! Euh, et bien..."
 	dc.b	$FF
 
 ; $3
@@ -642,7 +642,7 @@
 	dc.b	$FF
 
 ; $31
-	dc.b	"Ce chien est revenu de dieu"
+	dc.b	"Ce chien est revenu de Dieu"
 	dc.b	$FC
 	dc.b	"sait où, mais il est toujours"
 	dc.b	$FD
@@ -680,7 +680,7 @@
 
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Hé! Au pied!"
+	dc.b	"Hé! Viens ici!"
 	dc.b	$FF
 
 ; $36
