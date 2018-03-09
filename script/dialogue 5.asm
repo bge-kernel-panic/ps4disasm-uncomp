@@ -21,7 +21,7 @@
 	dc.b	$FC
 	dc.b	"Hahn!"
 	dc.b	$FD
-	dc.b	"Saya sera trÃ¨s heureuse de"
+	dc.b	"Saya sera très heureuse de"
 	dc.b	$FC
 	dc.b	"te revoir! Va!"
 	dc.b	$FD
@@ -53,11 +53,11 @@
 	dc.b	$FD
 	dc.b	"est telle un labyrinthe."
 	dc.b	$FD
-	dc.b	"De plus, l'entrÃ©e de Tonoe"
+	dc.b	"De plus, l'entrée de Tonoe"
 	dc.b	$FC
-	dc.b	"est bloquÃ© par un rocher."
+	dc.b	"est bloqué par un rocher."
 	dc.b	$FD
-	dc.b	"C'est ce qu'on dit derniÃ¨rement."
+	dc.b	"C'est ce qu'on dit dernièrement."
 	dc.b	$FF
 
 ; $6
@@ -67,9 +67,9 @@
 	dc.b	$FD
 	dc.b	"est telle un labyrinthe."
 	dc.b	$FD
-	dc.b	"Vous devez vraiment Ãªtre trÃ¨s"
+	dc.b	"Vous devez vraiment être très"
 	dc.b	$FC
-	dc.b	"curieux pour vouloir aller Ã "
+	dc.b	"curieux pour vouloir aller à"
 	dc.b	$FD
 	dc.b	"un tel endroit."
 	dc.b	$FF
@@ -79,7 +79,7 @@
 	dc.b	$42, $01
 	dc.b	"Le citoyen du village qui a eu"
 	dc.b	$FC
-	dc.b	"le plus de succÃ¨s, c'est sans"
+	dc.b	"le plus de succès, c'est sans"
 	dc.b	$FD
 	dc.b	"doute Hahn, le fils unique"
 	dc.b	$FC
@@ -87,7 +87,7 @@
 	dc.b	$FD
 	dc.b	"Il est professeur adjoint"
 	dc.b	$FC
-	dc.b	"Ã  l'AcadÃ©mie Motavia."
+	dc.b	"à l'Académie Motavia."
 	dc.b	$FD
 	dc.b	"Nous sommes tellement fiers!"
 	dc.b	$FD
@@ -97,7 +97,7 @@
 ; $8
 	dc.b	"Le citoyen du village qui a eu"
 	dc.b	$FC
-	dc.b	"le plus de succÃ¨s, c'est sans"
+	dc.b	"le plus de succès, c'est sans"
 	dc.b	$FD
 	dc.b	"doute Hahn, le fils unique"
 	dc.b	$FC
@@ -105,19 +105,19 @@
 	dc.b	$FD
 	dc.b	"Il est professeur adjoint"
 	dc.b	$FC
-	dc.b	"Ã  l'AcadÃ©mie Motavia."
+	dc.b	"à l'Académie Motavia."
 	dc.b	$FD
 	dc.b	"Nous sommes tellement fiers!"
 	dc.b	$FF
 
 ; $9
-	dc.b	"Ce lac? Il est apparu Ã  cause"
+	dc.b	"Ce lac? Il est apparu à cause"
 	dc.b	$FC
-	dc.b	"d'une mÃ©tÃ©orite qui est"
+	dc.b	"d'une météorite qui est"
 	dc.b	$FD
-	dc.b	"tombÃ©e sur la planÃ¨te."
+	dc.b	"tombée sur la planète."
 	dc.b	$FD
-	dc.b	"La cratÃ¨re s'est empli d'eau"
+	dc.b	"La cratère s'est empli d'eau"
 	dc.b	$FC
 	dc.b	"il y a des lunes."
 	dc.b	$FD
@@ -125,21 +125,21 @@
 	dc.b	$FF
 
 ; $A
-	dc.b	"Vous voyez cette petite Ã®le"
+	dc.b	"Vous voyez cette petite île"
 	dc.b	$FC
-	dc.b	"au milieu du lac, lÃ -bas?"
+	dc.b	"au milieu du lac, là-bas?"
 	dc.b	$FD
-	dc.b	"La construction sur cette Ã®le"
+	dc.b	"La construction sur cette île"
 	dc.b	$FC
 	dc.b	"porte le nom de Temple du"
 	dc.b	$FD
 	dc.b	"Soldat depuis des lunes."
 	dc.b	$FD
-	dc.b	"Une fois, j'ai nagÃ© jusque lÃ ,"
+	dc.b	"Une fois, j'ai nagé jusque là,"
 	dc.b	$FC
-	dc.b	"mais c'Ã©tait plein de monstres!"
+	dc.b	"mais c'était plein de monstres!"
 	dc.b	$FD
-	dc.b	"J'ai eu peur et je suis retournÃ©"
+	dc.b	"J'ai eu peur et je suis retourné"
 	dc.b	$FC
 	dc.b	"chez moi."
 	dc.b	$FF
@@ -155,7 +155,7 @@
 	dc.b	$11, $01
 	dc.b	"Nous observons le ciel pour"
 	dc.b	$FC
-	dc.b	"pouvoir prÃ©dire quel temps"
+	dc.b	"pouvoir prédire quel temps"
 	dc.b	$FD
 	dc.b	"il fera demain."
 	dc.b	$FF
@@ -163,7 +163,7 @@
 ; $D
 	dc.b	"L'autre jour, il y avait des"
 	dc.b	$FC
-	dc.b	"tonnes de fumÃ©e venant de"
+	dc.b	"tonnes de fumée venant de"
 	dc.b	$FD
 	dc.b	"l'ouest!"
 	dc.b	$FD
@@ -186,20 +186,20 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$03
-	dc.b	"Saya! Tu m'as manquÃ©!"
+	dc.b	"Saya! Tu m'as manqué!"
 	dc.b	$FD
-	dc.b	"Laisse-moi te prÃ©senter."
+	dc.b	"Laisse-moi te présenter."
 	dc.b	$F7
 
 	dc.b	$F4
 	dc.b	$03
 	dc.b	"C'est Saya, ma...hum..."
 	dc.b	$FC
-	dc.b	"fi..fiancÃ©e."
+	dc.b	"fi..fiancée."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$02
-	dc.b	"FiancÃ©e!?"
+	dc.b	"Fiancée!?"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$0C
@@ -245,14 +245,14 @@
 
 	dc.b	$F4
 	dc.b	$03
-	dc.b	"Ne t'inquiÃ¨te pas, tout ira"
+	dc.b	"Ne t'inquiète pas, tout ira"
 	dc.b	$FD
 	dc.b	"bien."
 	dc.b	$F7
 
 	dc.b	$F4
 	dc.b	$0C
-	dc.b	"Mais si quelque chose de fÃ¢cheux"
+	dc.b	"Mais si quelque chose de fâcheux"
 	dc.b	$FC
 	dc.b	"t'arrivait, je..."
 	dc.b	$FD
@@ -285,11 +285,11 @@
 	dc.b	$0C
 	dc.b	"Ah, qu'un sort aussi funeste"
 	dc.b	$FC
-	dc.b	"ait Ã©tÃ© rÃ©servÃ© Ã  Alys..."
+	dc.b	"ait été réservé à Alys..."
 	dc.b	$FD
 	dc.b	"Garde le moral, Chaz, et"
 	dc.b	$FC
-	dc.b	"meilleurs voeux de succÃ¨s."
+	dc.b	"meilleurs voeux de succès."
 	dc.b	$FF
 
 ; $11
@@ -297,23 +297,23 @@
 	dc.b	$63, $02
 	dc.b	$FA
 	dc.b	$42, $01
-	dc.b	"Ma maÃ®tresse, Saya, est"
+	dc.b	"Ma maîtresse, Saya, est"
 	dc.b	$FC
 	dc.b	"gentille et belle. Je l'adore!"
 	dc.b	$FF
 
 ; $12
-	dc.b	"La maÃ®tresse nous a demandÃ©"
+	dc.b	"La maîtresse nous a demandé"
 	dc.b	$FC
-	dc.b	"d'Ã©tudier de nous mÃªme un temps."
+	dc.b	"d'étudier de nous même un temps."
 	dc.b	$FD
 	dc.b	"On s'ennuie quand elle n'est"
 	dc.b	$FC
-	dc.b	"lÃ ..."
+	dc.b	"là..."
 	dc.b	$FF
 
 ; $13
-	dc.b	"HÃ©, la femme avec le costume"
+	dc.b	"Hé, la femme avec le costume"
 	dc.b	$FC
 	dc.b	"rouge n'est plus avec vous?"
 	dc.b	$FF
@@ -331,13 +331,13 @@
 	dc.b	$FF
 
 ; $15
-	dc.b	"La maÃ®tresse nous a demandÃ©"
+	dc.b	"La maîtresse nous a demandé"
 	dc.b	$FC
-	dc.b	"d'Ã©tudier de nous mÃªme un temps."
+	dc.b	"d'étudier de nous même un temps."
 	dc.b	$FD
 	dc.b	"On s'ennuie quand elle n'est"
 	dc.b	$FC
-	dc.b	"lÃ ..."
+	dc.b	"là..."
 	dc.b	$FF
 
 ; $16
@@ -345,7 +345,7 @@
 	dc.b	$FC
 	dc.b	"et on l'air tristes."
 	dc.b	$FD
-	dc.b	"Qu'est-ce qui s'est passÃ©?"
+	dc.b	"Qu'est-ce qui s'est passé?"
 	dc.b	$FF
 
 ; $17
@@ -353,11 +353,11 @@
 	dc.b	$63, $02
 	dc.b	$FA
 	dc.b	$42, $01
-	dc.b	"Je crois que les rÃ©cents"
+	dc.b	"Je crois que les récents"
 	dc.b	$FC
-	dc.b	"dÃ©sastres environnementaux sont"
+	dc.b	"désastres environnementaux sont"
 	dc.b	$FD
-	dc.b	"causÃ©s dÃ©libÃ©rÃ©ment..."
+	dc.b	"causés délibérément..."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
@@ -365,13 +365,13 @@
 	dc.b	$FF
 
 ; $18
-	dc.b	"Ouais, elle est blessÃ©e, mais"
+	dc.b	"Ouais, elle est blessée, mais"
 	dc.b	$FC
 	dc.b	"Saya est vraiment gentille"
 	dc.b	$FD
-	dc.b	"de rester aux cÃ´tÃ©s de la chas-"
+	dc.b	"de rester aux côtés de la chas-"
 	dc.b	$FC
-	dc.b	"seresse engagÃ©e par son fiancÃ©!"
+	dc.b	"seresse engagée par son fiancé!"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
@@ -383,7 +383,7 @@
 	dc.b	$FC
 	dc.b	"heure est venue, jeune ou vieux."
 	dc.b	$FD
-	dc.b	"Je suis dÃ©solÃ© d'avoir dit de"
+	dc.b	"Je suis désolé d'avoir dit de"
 	dc.b	$FC
 	dc.b	"telles horreurs l'autre jour."
 	dc.b	$FF
@@ -395,7 +395,7 @@
 	dc.b	$42, $01
 	dc.b	"Quand je serai grande, je veux"
 	dc.b	$FC
-	dc.b	"Ãªtre comme ma maÃ®tresse Saya!"
+	dc.b	"être comme ma maîtresse Saya!"
 	dc.b	$FD
 	dc.b	"Mais je ne voudrais pas d'un"
 	dc.b	$FC
@@ -411,15 +411,15 @@
 ; $1B
 	dc.b	"Est-ce que la femme en costume"
 	dc.b	$FC
-	dc.b	"rouge est malade? J'espÃ¨re"
+	dc.b	"rouge est malade? J'espère"
 	dc.b	$FD
-	dc.b	"qu'elle ira mieux bientÃ´t!"
+	dc.b	"qu'elle ira mieux bientôt!"
 	dc.b	$FF
 
 ; $1C
 	dc.b	"C'est vrai que la femme en"
 	dc.b	$FC
-	dc.b	"costume rouge n'est plus lÃ ?"
+	dc.b	"costume rouge n'est plus là?"
 	dc.b	$FF
 
 ; $1D
@@ -429,7 +429,7 @@
 	dc.b	$42, $01
 	dc.b	"Je...Je dois aller au petit"
 	dc.b	$FC
-	dc.b	"coin, mais je dois tenir jusqu'Ã "
+	dc.b	"coin, mais je dois tenir jusqu'à"
 	dc.b	$FD
 	dc.b	"la fin des classes."
 	dc.b	$FD
@@ -439,7 +439,7 @@
 	dc.b	$FF
 
 ; $1E
-	dc.b	"Peut-Ãªtre je devrais aller au"
+	dc.b	"Peut-être je devrais aller au"
 	dc.b	$FC
 	dc.b	"petit coin maintenant, comme"
 	dc.b	$FD
@@ -449,11 +449,11 @@
 ; $1F
 	dc.b	"Oh non! Tes yeux sont rouges!"
 	dc.b	$FC
-	dc.b	"On s'est moquÃ© de toi, non?"
+	dc.b	"On s'est moqué de toi, non?"
 	dc.b	$FF
 
 ; $20
-	dc.b	"Si seulement notre fils Ã©tait"
+	dc.b	"Si seulement notre fils était"
 	dc.b	$FC
 	dc.b	"aussi brillant que Hahn."
 	dc.b	$FF
@@ -461,9 +461,9 @@
 ; $21
 	dc.b	"C'est sans espoir, n'est-ce pas?"
 	dc.b	$FD
-	dc.b	"AprÃ¨s tout, il est le fils d'une"
+	dc.b	"Après tout, il est le fils d'une"
 	dc.b	$FC
-	dc.b	"telle mÃ¨re..."
+	dc.b	"telle mère..."
 	dc.b	$FF
 
 ; $22
@@ -473,39 +473,39 @@
 	dc.b	$42, $01
 	dc.b	"Hahn!"
 	dc.b	$FD
-	dc.b	"Tu as du culÃ´t de venir chez"
+	dc.b	"Tu as du culôt de venir chez"
 	dc.b	$FC
 	dc.b	"moi,"
 	dc.b	$FD
-	dc.b	"surtout que je t'ai dÃ©shÃ©ritÃ©!"
+	dc.b	"surtout que je t'ai déshérité!"
 	dc.b	$FD
 	dc.b	"Tu n'aide pas dans l'entreprise"
 	dc.b	$FC
-	dc.b	"familiale, tu perds to temps Ã "
+	dc.b	"familiale, tu perds to temps à"
 	dc.b	$FD
-	dc.b	"Ã©tudier!"
+	dc.b	"étudier!"
 	dc.b	$FD
-	dc.b	"Ã‡a rime Ã  quoi, tout Ã§a?"
+	dc.b	"Ça rime à quoi, tout ça?"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$03
-	dc.b	"P'pa, toute la planÃ¨te est en"
+	dc.b	"P'pa, toute la planète est en"
 	dc.b	$FC
 	dc.b	"danger!"
 	dc.b	$FD
 	dc.b	"Je veux faire tout ce que je"
 	dc.b	$FC
-	dc.b	"peux, grÃ¢ce Ã  la science!"
+	dc.b	"peux, grâce à la science!"
 	dc.b	$FD
-	dc.b	"C'est pour Ã§a que j'Ã©tudie!"
+	dc.b	"C'est pour ça que j'étudie!"
 	dc.b	$FF
 
 ; $23
-	dc.b	"Hahn en est venu Ã  Ãªtre trÃ¨s"
+	dc.b	"Hahn en est venu à être très"
 	dc.b	$FC
 	dc.b	"insolent."
 	dc.b	$FD
-	dc.b	"On dirait qu'il apprenait Ã "
+	dc.b	"On dirait qu'il apprenait à"
 	dc.b	$FC
 	dc.b	"marcher qu'hier encore."
 	dc.b	$FF
@@ -515,9 +515,9 @@
 	dc.b	$FC
 	dc.b	"par mes grand-parents."
 	dc.b	$FD
-	dc.b	"Mais c'est terminÃ© maintenant,"
+	dc.b	"Mais c'est terminé maintenant,"
 	dc.b	$FC
-	dc.b	"peut-Ãªtre c'est pour le mieux"
+	dc.b	"peut-être c'est pour le mieux"
 	dc.b	$FF
 
 ; $25
@@ -529,19 +529,19 @@
 	dc.b	$FC
 	dc.b	"nous!"
 	dc.b	$FD
-	dc.b	"Ton pÃ¨re parle rÃ»dement, mais au"
+	dc.b	"Ton père parle rûdement, mais au"
 	dc.b	$FC
-	dc.b	"fond, il est trÃ¨s fier de toi."
+	dc.b	"fond, il est très fier de toi."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$03
-	dc.b	"Je sais Ã§a, m'man...Mais ma"
+	dc.b	"Je sais ça, m'man...Mais ma"
 	dc.b	$FC
-	dc.b	"dÃ©cision est finale!"
+	dc.b	"décision est finale!"
 	dc.b	$FF
 
 ; $26
-	dc.b	"ChÃ©ri, Hahn n'est plus un"
+	dc.b	"Chéri, Hahn n'est plus un"
 	dc.b	$FC
 	dc.b	"enfant."
 	dc.b	$FF
@@ -551,17 +551,17 @@
 	dc.b	$FC
 	dc.b	"de nouveau..."
 	dc.b	$FD
-	dc.b	"Reviens faire acte de prÃ©sence"
+	dc.b	"Reviens faire acte de présence"
 	dc.b	$FC
-	dc.b	"de temps Ã  autre."
+	dc.b	"de temps à autre."
 	dc.b	$FF
 
 ; $28
-	dc.b	"Le pÃ¨re de Hahn dis comme Ã§a,"
+	dc.b	"Le père de Hahn dis comme ça,"
 	dc.b	$FC
 	dc.b	"mais..."
 	dc.b	$FD
-	dc.b	"C'est grÃ¢ce aux textes que"
+	dc.b	"C'est grâce aux textes que"
 	dc.b	$FC
 	dc.b	"Hahn nous envoie qu'il a pu"
 	dc.b	$FD
@@ -583,17 +583,17 @@
 	dc.b	$0C
 	dc.b	"Qu'est-ce que c'est que cette"
 	dc.b	$FC
-	dc.b	"maladie Ã©trange?!"
+	dc.b	"maladie étrange?!"
 	dc.b	$FD
 	dc.b	"Je n'ai jamais vu quelqu'unI've never seen anyone seem to"
 	dc.b	$FC
-	dc.b	"se tordre de douleur comme Ã§a."
+	dc.b	"se tordre de douleur comme ça."
 	dc.b	$FD
 	dc.b	"C'est un miracle qu'elle soit"
 	dc.b	$FC
 	dc.b	"toujours consciente."
 	dc.b	$FD
-	dc.b	"Elle est vraiment trÃ¨s obstinÃ©e!"
+	dc.b	"Elle est vraiment très obstinée!"
 	dc.b	$FF
 
 ; $2B
@@ -601,7 +601,7 @@
 	dc.b	$22
 	dc.b	"Aaaa...Chaz...ne fais pas une"
 	dc.b	$FC
-	dc.b	"telle tÃªte...ouch...aaa!"
+	dc.b	"telle tête...ouch...aaa!"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
@@ -636,17 +636,17 @@
 	dc.b	$FD
 	dc.b	"Nous ne l'avons pas nourri"
 	dc.b	$FC
-	dc.b	"derniÃ¨rement. Il est parti."
+	dc.b	"dernièrement. Il est parti."
 	dc.b	$FD
-	dc.b	"Je crois qu'il est allÃ© au nord."
+	dc.b	"Je crois qu'il est allé au nord."
 	dc.b	$FF
 
 ; $31
 	dc.b	"Ce chien est revenu de Dieu"
 	dc.b	$FC
-	dc.b	"sait oÃ¹, mais il est toujours"
+	dc.b	"sait où, mais il est toujours"
 	dc.b	$FD
-	dc.b	"le mÃªme."
+	dc.b	"le même."
 	dc.b	$FC
 	dc.b	"Toujours aussi glouton!"
 	dc.b	$FF
@@ -662,7 +662,7 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Wow, trÃ¨s enrobÃ©, ce chien!"
+	dc.b	"Wow, très enrobé, ce chien!"
 	dc.b	$FF
 
 ; $34
@@ -675,12 +675,12 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"HÃ©! Au pied!"
+	dc.b	"Hé! Au pied!"
 	dc.b	$F7
 
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"HÃ©! Viens ici!"
+	dc.b	"Hé! Viens ici!"
 	dc.b	$FF
 
 ; $36
@@ -690,11 +690,11 @@
 	dc.b	$01
 	dc.b	"D'accord, voici ton mets"
 	dc.b	$FC
-	dc.b	"prÃ©fÃ©rÃ©, du gÃ¢teau."
+	dc.b	"préféré, du gâteau."
 	dc.b	$FD
-	dc.b	"VoilÃ  notre chance."
+	dc.b	"Voilà notre chance."
 	dc.b	$FD
-	dc.b	"DÃ©pÃ¨chons-nous de le ramener"
+	dc.b	"Dépèchons-nous de le ramener"
 	dc.b	$FC
-	dc.b	"Ã  Aiedo!!"
+	dc.b	"à Aiedo!!"
 	dc.b	$FF

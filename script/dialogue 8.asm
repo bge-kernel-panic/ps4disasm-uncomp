@@ -1,5 +1,5 @@
 ; 0
-	dc.b	"Vous Ãªtes ici Ã  Nalya, mais"
+	dc.b	"Vous êtes ici à Nalya, mais"
 	dc.b	$FC
 	dc.b	"je ne crois pas qu'on puisse"
 	dc.b	$FD
@@ -9,13 +9,13 @@
 ; $1
 	dc.b	"Il y a trois mois, une grosse"
 	dc.b	$FD
-	dc.b	"mÃ©tÃ©orite est tombÃ©e prÃ¨s de"
+	dc.b	"météorite est tombée près de"
 	dc.b	$FC
 	dc.b	"la ville..."
 	dc.b	$FD
-	dc.b	"Et voyez le rÃ©sultat!"
+	dc.b	"Et voyez le résultat!"
 	dc.b	$FD
-	dc.b	"Qu'avons nous fait pour mÃ©riter"
+	dc.b	"Qu'avons nous fait pour mériter"
 	dc.b	$FC
 	dc.b	"un tel sort?"
 	dc.b	$FF
@@ -27,21 +27,21 @@
 	dc.b	$FD
 	dc.b	"Probablement qu'il vaudrait"
 	dc.b	$FC
-	dc.b	"mieux dÃ©mÃ©nager quelque part"
+	dc.b	"mieux déménager quelque part"
 	dc.b	$FD
 	dc.b	"comme Aiedo."
 	dc.b	$FF
 
 ; $3
-	dc.b	"C'Ã©tait notre maison..."
+	dc.b	"C'était notre maison..."
 	dc.b	$FD
 	dc.b	"Oh, bien, on devrait se compter"
 	dc.b	$FC
-	dc.b	"chanceux d'Ãªtre toujours vivant."
+	dc.b	"chanceux d'être toujours vivant."
 	dc.b	$FF
 
 ; $4
-	dc.b	"HÃ©, on ne dirait pas qu'il y a"
+	dc.b	"Hé, on ne dirait pas qu'il y a"
 	dc.b	$FC
 	dc.b	"une machine dans ce grand trou?"
 	dc.b	$FD
@@ -49,7 +49,7 @@
 	dc.b	$FC
 	dc.b	"mais malheureusement, c'est un"
 	dc.b	$FD
-	dc.b	"peu Ã©peurant et personne ne"
+	dc.b	"peu épeurant et personne ne"
 	dc.b	$FC
 	dc.b	"se porte volontaire."
 	dc.b	$FF
@@ -59,19 +59,19 @@
 	dc.b	$FC
 	dc.b	"chambre."
 	dc.b	$FD
-	dc.b	"C'est pour Ã§a que nous dormons"
+	dc.b	"C'est pour ça que nous dormons"
 	dc.b	$FC
 	dc.b	"dans celle-ci."
 	dc.b	$FF
 
 ; $6
-	dc.b	"Maman! Le vent me gÃ¨le!"
+	dc.b	"Maman! Le vent me gèle!"
 	dc.b	$FF
 
 ; $7
 	dc.b	"Nous n'avons pas l'argent pour"
 	dc.b	$FC
-	dc.b	"rÃ©parer la maison..."
+	dc.b	"réparer la maison..."
 	dc.b	$FD
 	dc.b	"Qu'adviendra-t-il de nous?"
 	dc.b	$FF
@@ -79,29 +79,29 @@
 ; $8
 	dc.b	"Je suis heureux que cette maison"
 	dc.b	$FC
-	dc.b	"ait Ã©tÃ© Ã©pargnÃ©e, mais on se"
+	dc.b	"ait été épargnée, mais on se"
 	dc.b	$FD
 	dc.b	"fait constamment harceler."
 	dc.b	$FD
 	dc.b	"Avoir su que ce serait ainsi,"
 	dc.b	$FD
-	dc.b	"j'aurais prÃ©fÃ©rÃ© que tout soit"
+	dc.b	"j'aurais préféré que tout soit"
 	dc.b	$FC
-	dc.b	"dÃ©truit!"
+	dc.b	"détruit!"
 	dc.b	$FF
 
 ; $9
 	dc.b	"La dame qui habite de l'autre"
 	dc.b	$FC
-	dc.b	"cÃ´tÃ© de la rue est constamment"
+	dc.b	"côté de la rue est constamment"
 	dc.b	$FD
 	dc.b	"de mauvaise humeur, elle qui"
 	dc.b	$FC
-	dc.b	"Ã©tait si gentille auparavant!"
+	dc.b	"était si gentille auparavant!"
 	dc.b	$FD
 	dc.b	"Je ne peux plus faire confiance"
 	dc.b	$FC
-	dc.b	"Ã  quiconque de nos jours!"
+	dc.b	"à quiconque de nos jours!"
 	dc.b	$FF
 
 ; $A
@@ -111,47 +111,47 @@
 	dc.b	$FF
 
 ; $B
-	dc.b	"Cette maison fut Ã©pargnÃ©e, mais"
+	dc.b	"Cette maison fut épargnée, mais"
 	dc.b	$FC
-	dc.b	"Ã  voir ce qui risque d'arriver,"
+	dc.b	"à voir ce qui risque d'arriver,"
 	dc.b	$FD
 	dc.b	"j'ai l'impression qu'il vaudrait"
 	dc.b	$FC
-	dc.b	"mieux dÃ©mÃ©nager."
+	dc.b	"mieux déménager."
 	dc.b	$FF
 
 ; $C
-	dc.b	"Je ne sais pas oÃ¹ nous pourrions"
+	dc.b	"Je ne sais pas où nous pourrions"
 	dc.b	$FC
 	dc.b	"aller."
 	dc.b	$FD
-	dc.b	"C'est dÃ»r de quitter l'endroit"
+	dc.b	"C'est dûr de quitter l'endroit"
 	dc.b	$FC
-	dc.b	"oÃ¹ on a vÃ©cu si longtemps."
+	dc.b	"où on a vécu si longtemps."
 	dc.b	$FF
 
 ; $D
-	dc.b	"Pourquoi ma maison a Ã©tÃ©"
+	dc.b	"Pourquoi ma maison a été"
 	dc.b	$FC
-	dc.b	"dÃ©truite, et celle de l'autre"
+	dc.b	"détruite, et celle de l'autre"
 	dc.b	$FD
-	dc.b	"cÃ´tÃ© de la rue, Ã©pargnÃ©e!?"
+	dc.b	"côté de la rue, épargnée!?"
 	dc.b	$FD
 	dc.b	"C'est injuste!"
 	dc.b	$FC
 	dc.b	"Vous ne croyez pas?"
 	dc.b	$FD
-	dc.b	"Ã‡a me met en rogne!"
+	dc.b	"Ça me met en rogne!"
 	dc.b	$FF
 
 ; $E
-	dc.b	"HÃ©, du calme, il vaut mieux"
+	dc.b	"Hé, du calme, il vaut mieux"
 	dc.b	$FC
-	dc.b	"se rÃ©signer Ã  notre sort."
+	dc.b	"se résigner à notre sort."
 	dc.b	$FD
-	dc.b	"Ma femme n'Ã©tait pas comme"
+	dc.b	"Ma femme n'était pas comme"
 	dc.b	$FC
-	dc.b	"Ã§a avant..."
+	dc.b	"ça avant..."
 	dc.b	$FF
 
 ; $F
@@ -159,41 +159,41 @@
 	dc.b	$FC
 	dc.b	"nouveau, non?"
 	dc.b	$FD
-	dc.b	"Je veux Ãªtre avec mes amis et"
+	dc.b	"Je veux être avec mes amis et"
 	dc.b	$FC
 	dc.b	"qu'on joue ensemble!"
 	dc.b	$FF
 
 ; $10
-	dc.b	"Figurez-vous que suite Ã  la"
+	dc.b	"Figurez-vous que suite à la"
 	dc.b	$FC
-	dc.b	"chute de la mÃ©tÃ©orite,"
+	dc.b	"chute de la météorite,"
 	dc.b	$FD
-	dc.b	"une sorte d'armÃ©e s'est prÃ©cipi-"
+	dc.b	"une sorte d'armée s'est précipi-"
 	dc.b	$FC
-	dc.b	"tÃ©e sur le pont situÃ© Ã  l'ouest."
+	dc.b	"tée sur le pont situé à l'ouest."
 	dc.b	$FD
 	dc.b	"Ensuite, alors qu'on croyait"
 	dc.b	$FC
-	dc.b	"qu'elle Ã©tait partie Ã  l'ouest,"
+	dc.b	"qu'elle était partie à l'ouest,"
 	dc.b	$FD
-	dc.b	"nous avons dÃ©couvert que le pont"
+	dc.b	"nous avons découvert que le pont"
 	dc.b	$FC
-	dc.b	"Ã©tait dÃ©truit."
+	dc.b	"était détruit."
 	dc.b	$FD
 	dc.b	"Je me demande s'ils venaient"
 	dc.b	$FC
 	dc.b	"d'Aiedo?"
 	dc.b	$FD
-	dc.b	"Qui diable Ã©taient-ils!?"
+	dc.b	"Qui diable étaient-ils!?"
 	dc.b	$FF
 
 ; $11
-	dc.b	"Tu recommence Ã  dire des"
+	dc.b	"Tu recommence à dire des"
 	dc.b	$FC
-	dc.b	"Ã¢neries!"
+	dc.b	"âneries!"
 	dc.b	$FD
-	dc.b	"Est-ce que la mÃ©tÃ©orite t'as"
+	dc.b	"Est-ce que la météorite t'as"
 	dc.b	$FC
 	dc.b	"rendu stupide?"
 	dc.b	$FF
@@ -214,9 +214,9 @@
 ; $14
 	dc.b	"Il y a une grosse ville, Aiedo,"
 	dc.b	$FC
-	dc.b	"juste Ã  l'ouest, et mes parents"
+	dc.b	"juste à l'ouest, et mes parents"
 	dc.b	$FD
-	dc.b	"ont une maison lÃ -bas."
+	dc.b	"ont une maison là-bas."
 	dc.b	$FC
 	dc.b	"Alors je tente de convaincre"
 	dc.b	$FD
@@ -380,7 +380,7 @@
 ; $47
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Il y a des...lumiÃ¨res qui"
+	dc.b	"Il y a des...lumières qui"
 	dc.b	$FC
 	dc.b	"clignotent."
 	dc.b	$FD
@@ -388,7 +388,7 @@
 	dc.b	$06
 	dc.b	"Je sais ce que c'est."
 	dc.b	$FC
-	dc.b	"Ã‰carte-toi, Chaz!"
+	dc.b	"Écarte-toi, Chaz!"
 	dc.b	$F7
 
 	dc.b	$F4
@@ -397,15 +397,15 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$06
-	dc.b	"C'est un code de sÃ©curitÃ©"
+	dc.b	"C'est un code de sécurité"
 	dc.b	$FC
-	dc.b	"assez difficile Ã  pirater,"
+	dc.b	"assez difficile à pirater,"
 	dc.b	$FD
-	dc.b	"mais... voilÃ !"
+	dc.b	"mais... voilà!"
 	dc.b	$FD
-	dc.b	"Maintenant nous pouvons accÃ©der"
+	dc.b	"Maintenant nous pouvons accéder"
 	dc.b	$FC
-	dc.b	"aux mÃ©moires de l'ordinateur!"
+	dc.b	"aux mémoires de l'ordinateur!"
 	dc.b	$F7
 
 	dc.b	$F2, $00
@@ -430,7 +430,7 @@
 	dc.b	$01
 	dc.b	"Mais...il me semble que Parma a"
 	dc.b	$FC
-	dc.b	"Ã©tÃ© dÃ©truite il y a mille ans!?"
+	dc.b	"été détruite il y a mille ans!?"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$06
@@ -440,23 +440,23 @@
 	dc.b	$01
 	dc.b	"Oui...on me l'a dit alors que"
 	dc.b	$FC
-	dc.b	"j'Ã©tais Ã  l'AcadÃ©mie."
+	dc.b	"j'étais à l'Académie."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$06
-	dc.b	"Parma, la premiÃ¨re planÃ¨te du"
+	dc.b	"Parma, la première planète du"
 	dc.b	$FC
-	dc.b	"systÃ¨me solaire Algo,"
+	dc.b	"système solaire Algo,"
 	dc.b	$FD
-	dc.b	"fut dÃ©truite en AW 1284 quand"
+	dc.b	"fut détruite en AW 1284 quand"
 	dc.b	$FC
 	dc.b	"Gaira, un satellite artificiel,"
 	dc.b	$FD
-	dc.b	"l'a percutÃ©e..."
+	dc.b	"l'a percutée..."
 	dc.b	$FD
 	dc.b	"De nos jour, tout ce qu'il en"
 	dc.b	$FC
-	dc.b	"reste, ce sont ces astÃ©roÃ¯des."
+	dc.b	"reste, ce sont ces astéroïdes."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
@@ -464,29 +464,29 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$06
-	dc.b	"D'aprÃ¨s ces mÃ©moires..."
+	dc.b	"D'après ces mémoires..."
 	dc.b	$FC
 	dc.b	"Juste avant l'explosion, des"
 	dc.b	$FD
-	dc.b	"gens sont arrivÃ©s Ã  Ã©chapper"
+	dc.b	"gens sont arrivés à échapper"
 	dc.b	$FC
-	dc.b	"Ã  la catastrophe..."
+	dc.b	"à la catastrophe..."
 	dc.b	$FD
-	dc.b	"Ce vaisseau fut endommagÃ©, et"
+	dc.b	"Ce vaisseau fut endommagé, et"
 	dc.b	$FC
-	dc.b	"fut capturÃ© en orbite autour de"
+	dc.b	"fut capturé en orbite autour de"
 	dc.b	$FD
 	dc.b	"Motavia."
 	dc.b	$FD
-	dc.b	"Il a flottÃ© dans l'espace"
+	dc.b	"Il a flotté dans l'espace"
 	dc.b	$FC
-	dc.b	"et tous les humains Ã  bord sont"
+	dc.b	"et tous les humains à bord sont"
 	dc.b	$FD
 	dc.b	"morts. Mais l'ordinateur a pu"
 	dc.b	$FC
-	dc.b	"rester en marche grÃ¢ce Ã  ses"
+	dc.b	"rester en marche grâce à ses"
 	dc.b	$FD
-	dc.b	"fonctions d'auto-rÃ©paration."
+	dc.b	"fonctions d'auto-réparation."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
@@ -494,19 +494,19 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$06
-	dc.b	"D'aprÃ¨s le plan de vol..."
+	dc.b	"D'après le plan de vol..."
 	dc.b	$FC
-	dc.b	"l'orbite a dÃ©clinÃ© graduellement"
+	dc.b	"l'orbite a décliné graduellement"
 	dc.b	$FD
 	dc.b	"durant ces derniers mille ans..."
 	dc.b	$FD
-	dc.b	"et le vaisseau s'est Ã©crasÃ© ici!"
+	dc.b	"et le vaisseau s'est écrasé ici!"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
 	dc.b	"Alors...tous les Parmaniens ont"
 	dc.b	$FC
-	dc.b	"pÃ©ri?!"
+	dc.b	"péri?!"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$06
@@ -516,19 +516,19 @@
 	dc.b	$FD
 	dc.b	"Apparamment, d'autres vaisseaux"
 	dc.b	$FC
-	dc.b	"semblables ont pu s'Ã©chapper."
+	dc.b	"semblables ont pu s'échapper."
 	dc.b	$FD
-	dc.b	"La plupart ont attÃ©ri sur"
+	dc.b	"La plupart ont attéri sur"
 	dc.b	$FC
 	dc.b	"Motavia ou Dezolis, mais il"
 	dc.b	$FD
 	dc.b	"semble que certains se sont"
 	dc.b	$FC
-	dc.b	"dirigÃ©s hors du systÃ¨me solaire."
+	dc.b	"dirigés hors du système solaire."
 	dc.b	$FD
 	dc.b	"Je n'ai pas de chiffre exact,"
 	dc.b	$FC
-	dc.b	"mais ce doit Ãªtre de l'ordre"
+	dc.b	"mais ce doit être de l'ordre"
 	dc.b	$FD
 	dc.b	"d'une dizaine de vaisseau."
 	dc.b	$FD
@@ -544,7 +544,7 @@
 ; $48
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Ce doit Ãªtre un vaisseau qui"
+	dc.b	"Ce doit être un vaisseau qui"
 	dc.b	$FC
 	dc.b	"a fui Parma..."
 	dc.b	$FF
@@ -590,9 +590,9 @@
 
 ; $56
 	dc.b	$F3
-	dc.b	"Ne dis pas d'Ã¢neries!"
+	dc.b	"Ne dis pas d'âneries!"
 	dc.b	$FD
 	dc.b	"Tu crois que tu peux nous"
 	dc.b	$FC
-	dc.b	"demander Ã§a aprÃ¨s avoir fuguÃ©?!"
+	dc.b	"demander ça après avoir fugué?!"
 	dc.b	$FF

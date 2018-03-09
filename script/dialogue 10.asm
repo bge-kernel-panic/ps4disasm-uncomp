@@ -56,7 +56,7 @@
 	dc.b	$FF
 
 ; $13
-	dc.b	"Je me sens en sÃ©curitÃ© ici, car"
+	dc.b	"Je me sens en sécurité ici, car"
 	dc.b	$FC
 	dc.b	"il n'y a pas trop de gens"
 	dc.b	$FD
@@ -64,11 +64,11 @@
 	dc.b	$FF
 
 ; $14
-	dc.b	"Cette ordure a fuguÃ© avec ma"
+	dc.b	"Cette ordure a fugué avec ma"
 	dc.b	$FC
 	dc.b	"fille!"
 	dc.b	$FD
-	dc.b	"Ã‡a me mets en rogne juste d'y"
+	dc.b	"Ça me mets en rogne juste d'y"
 	dc.b	$FC
 	dc.b	"penser!"
 	dc.b	$FF
@@ -76,13 +76,13 @@
 ; $15
 	dc.b	"10-15 J'ai entendu dire que la"
 	dc.b	$FC
-	dc.b	"ville de Nalya a des problÃ¨mes."
+	dc.b	"ville de Nalya a des problèmes."
 	dc.b	$FD
-	dc.b	"J'espÃ¨re que ma fille va bien!"
+	dc.b	"J'espère que ma fille va bien!"
 	dc.b	$FC
-	dc.b	"Je suis si inquiÃ¨te."
+	dc.b	"Je suis si inquiète."
 	dc.b	$FD
-	dc.b	"Allez, arrÃªte de de faire la"
+	dc.b	"Allez, arrête de de faire la"
 	dc.b	$FC
 	dc.b	"gueule. On devrait l'inviter."
 	dc.b	$FF
@@ -94,9 +94,9 @@
 	dc.b	$FC
 	dc.b	"merci pour le repas que vous"
 	dc.b	$FD
-	dc.b	"m'avez cuisinÃ© l'autre jour."
+	dc.b	"m'avez cuisiné l'autre jour."
 	dc.b	$FC
-	dc.b	"C'Ã©tait vraiment dÃ©licieux."
+	dc.b	"C'était vraiment délicieux."
 	dc.b	$FD
 	dc.b	"Je vais laver les contenant et"
 	dc.b	$FC
@@ -112,7 +112,7 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$02
-	dc.b	"HÃ©, Ã§a suffit, vous deux."
+	dc.b	"Hé, ça suffit, vous deux."
 	dc.b	$FC
 	dc.b	"Pourquoi est-ce suprenant?"
 	dc.b	$FF
@@ -120,25 +120,25 @@
 ; $17
 	dc.b	"Vous voulez dire Alys, celle"
 	dc.b	$FC
-	dc.b	"qui vit Ã  l'arriÃ¨re?"
+	dc.b	"qui vit à l'arrière?"
 	dc.b	$FD
 	dc.b	"Oh oui, elle est gentille!"
 	dc.b	$FD
 	dc.b	"Je crois qu'elle a une mission"
 	dc.b	$FC
-	dc.b	"assez pÃ©rilleuse en ce moment."
+	dc.b	"assez périlleuse en ce moment."
 	dc.b	$FD
 	dc.b	"Elle est vraiment gentille avec"
 	dc.b	$FC
 	dc.b	"les enfants, et quand elle s'y"
 	dc.b	$FD
-	dc.b	"applique, elle peut rÃ©ussir"
+	dc.b	"applique, elle peut réussir"
 	dc.b	$FC
 	dc.b	"n'importe quoi, la cuisine,"
 	dc.b	$FD
-	dc.b	"le combat ou la poÃ©sie!"
+	dc.b	"le combat ou la poésie!"
 	dc.b	$FD
-	dc.b	"DÃ¨s son retour, je prendrai sur"
+	dc.b	"Dès son retour, je prendrai sur"
 	dc.b	$FC
 	dc.b	"moi de lui trouver un bon mari!"
 	dc.b	$FF
@@ -147,25 +147,25 @@
 	dc.b	$FF
 
 ; $19
-	dc.b	"Oui, Ã§a a l'air chouette de"
+	dc.b	"Oui, ça a l'air chouette de"
 	dc.b	$FC
 	dc.b	"vivre dans une grande ville,"
 	dc.b	$FD
 	dc.b	"mais on y retrouve des types"
 	dc.b	$FC
-	dc.b	"indÃ©sirables, comme ces"
+	dc.b	"indésirables, comme ces"
 	dc.b	$FD
-	dc.b	"chasseurs, Ã  cause de la guilde"
+	dc.b	"chasseurs, à cause de la guilde"
 	dc.b	$FC
-	dc.b	"et tout Ã§a..."
+	dc.b	"et tout ça..."
 	dc.b	$FD
-	dc.b	"Ce n'est pas l'idÃ©al pour bien"
+	dc.b	"Ce n'est pas l'idéal pour bien"
 	dc.b	$FC
-	dc.b	"Ã©lever des enfants."
+	dc.b	"élever des enfants."
 	dc.b	$FF
 
 ; $1A
-	dc.b	"HÃ©, viens ici, petite peste!"
+	dc.b	"Hé, viens ici, petite peste!"
 	dc.b	$FF
 
 ; $1B
@@ -173,11 +173,11 @@
 	dc.b	$FF
 
 ; $1C
-	dc.b	"Nous venons d'emmÃ©nager depuis"
+	dc.b	"Nous venons d'emménager depuis"
 	dc.b	$FC
 	dc.b	"Nalya."
 	dc.b	$FD
-	dc.b	"Ma femme est allÃ©e faire les"
+	dc.b	"Ma femme est allée faire les"
 	dc.b	$FC
 	dc.b	"courses et n'est pas encore"
 	dc.b	$FD
@@ -201,15 +201,15 @@
 	dc.b	$FD
 	dc.b	"l'autre fois."
 	dc.b	$FD
-	dc.b	"En Ã©change, je lirai votre"
+	dc.b	"En échange, je lirai votre"
 	dc.b	$FC
 	dc.b	"avenir gratuitement..."
 	dc.b	$FD
-	dc.b	"HÃ© hÃ©..."
+	dc.b	"Hé hé..."
 	dc.b	$FD
 	dc.b	"Ah..."
 	dc.b	$FD
-	dc.b	"Non...pas Ã§a..."
+	dc.b	"Non...pas ça..."
 	dc.b	$FD
 	dc.b	"Je...je ne dois pas bien filer"
 	dc.b	$FC
@@ -221,9 +221,9 @@
 ; $1E
 	dc.b	$F4
 	dc.b	$20
-	dc.b	"DÃ©solÃ©, mais nous sommes fermÃ©s"
+	dc.b	"Désolé, mais nous sommes fermés"
 	dc.b	$FC
-	dc.b	"pour la journÃ©e."
+	dc.b	"pour la journée."
 	dc.b	$FF
 
 ; $1F
@@ -231,23 +231,23 @@
 	dc.b	$20
 	dc.b	"Vous dites? Alys est..."
 	dc.b	$FD
-	dc.b	"J'aurais du l'empÃªcher de"
+	dc.b	"J'aurais du l'empêcher de"
 	dc.b	$FC
 	dc.b	"partir de force..."
 	dc.b	$FF
 
 ; $20
-	dc.b	"Ici, c'est le plus grand marchÃ©"
+	dc.b	"Ici, c'est le plus grand marché"
 	dc.b	$FC
 	dc.b	"de tout Motavia!"
 	dc.b	$FF
 
 ; $21
-	dc.b	"Le marchÃ© d'Aiedo est aussi"
+	dc.b	"Le marché d'Aiedo est aussi"
 	dc.b	$FC
 	dc.b	"impressionant qu'on me l'avait"
 	dc.b	$FD
-	dc.b	"laissÃ© croire!"
+	dc.b	"laissé croire!"
 	dc.b	$FF
 
 ; $22
@@ -265,13 +265,13 @@
 	dc.b	$FF
 
 ; $24
-	dc.b	"Pourquoi diable j'ai achetÃ©"
+	dc.b	"Pourquoi diable j'ai acheté"
 	dc.b	$FC
 	dc.b	"un truc pareil?"
 	dc.b	$FD
 	dc.b	"C'est un peu effrayant comment"
 	dc.b	$FC
-	dc.b	"il est difficile de s'empÃªcher"
+	dc.b	"il est difficile de s'empêcher"
 	dc.b	$FD
 	dc.b	"de magasiner quand on est dans"
 	dc.b	$FC
@@ -281,21 +281,21 @@
 ; $25
 	dc.b	"Ouf!"
 	dc.b	$FD
-	dc.b	"J'ai achetÃ© tellement de choses"
+	dc.b	"J'ai acheté tellement de choses"
 	dc.b	$FC
-	dc.b	"que c'est dÃ»r Ã  transporter!"
+	dc.b	"que c'est dûr à transporter!"
 	dc.b	$FF
 
 ; $26
 	dc.b	"On a fait le voyage jusqu'ici"
 	dc.b	$FC
-	dc.b	"pour magasiner au marchÃ©..."
+	dc.b	"pour magasiner au marché..."
 	dc.b	$FD
-	dc.b	"Mais on a tout flambÃ© avec"
+	dc.b	"Mais on a tout flambé avec"
 	dc.b	$FC
-	dc.b	"les dÃ©penses du voyage."
+	dc.b	"les dépenses du voyage."
 	dc.b	$FD
-	dc.b	"En fait, on a mÃªme plus l'argent"
+	dc.b	"En fait, on a même plus l'argent"
 	dc.b	$FC
 	dc.b	"pour payer nos chambres, mais"
 	dc.b	$FD
@@ -309,15 +309,15 @@
 ; $27
 	dc.b	"Dis, pourquoi ne pas sortir"
 	dc.b	$FC
-	dc.b	"par cette fenÃªtre, la nuit!"
+	dc.b	"par cette fenêtre, la nuit!"
 	dc.b	$FF
 
 ; $28
-	dc.b	"Il y a une autre taverne Ã  la"
+	dc.b	"Il y a une autre taverne à la"
 	dc.b	$FC
 	dc.b	"Guilde des Chasseurs."
 	dc.b	$FD
-	dc.b	"Mais c'est lÃ  que les chasseurs"
+	dc.b	"Mais c'est là que les chasseurs"
 	dc.b	$FC
 	dc.b	"se regroupent."
 	dc.b	$FD
@@ -327,9 +327,9 @@
 	dc.b	$FF
 
 ; $29
-	dc.b	"C'Ã©tait vraiment terrifiant!"
+	dc.b	"C'était vraiment terrifiant!"
 	dc.b	$FD
-	dc.b	"Une Ã©norme armÃ©e a passÃ© prÃ¨s"
+	dc.b	"Une énorme armée a passé près"
 	dc.b	$FC
 	dc.b	"d'Aiedo."
 	dc.b	$FD
@@ -345,7 +345,7 @@
 	dc.b	$FD
 	dc.b	"Il n'y a personne pour me"
 	dc.b	$FC
-	dc.b	"parler mÃªme si je toussote."
+	dc.b	"parler même si je toussote."
 	dc.b	$FD
 	dc.b	"Je suis tellement seul..."
 	dc.b	$FF
@@ -357,11 +357,11 @@
 	dc.b	$FD
 	dc.b	"Si vous venez pour me voir, vous"
 	dc.b	$FC
-	dc.b	"Ãªtes la bien bienvenue."
+	dc.b	"êtes la bien bienvenue."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$02
-	dc.b	"HÃ© hÃ©, peut-Ãªtre je vous"
+	dc.b	"Hé hé, peut-être je vous"
 	dc.b	$FC
 	dc.b	"demanderai de me payer la traite"
 	dc.b	$FD
@@ -375,9 +375,9 @@
 	dc.b	$FF
 
 ; $2D
-	dc.b	"Je m'excuse de l'endroit trÃ¨s"
+	dc.b	"Je m'excuse de l'endroit très"
 	dc.b	$FC
-	dc.b	"malcommode oÃ¹ est situÃ©e ma"
+	dc.b	"malcommode où est située ma"
 	dc.b	$FD
 	dc.b	"boulangerie!"
 	dc.b	$FF
@@ -385,13 +385,13 @@
 ; $2E
 	dc.b	"Notre famille tient cette"
 	dc.b	$FC
-	dc.b	"boulangerie de gÃ©nÃ©ration en"
+	dc.b	"boulangerie de génération en"
 	dc.b	$FD
-	dc.b	"gÃ©nÃ©ration."
+	dc.b	"génération."
 	dc.b	$FD
-	dc.b	"L'humiditÃ© et la tempÃ©rature du"
+	dc.b	"L'humidité et la température du"
 	dc.b	$FC
-	dc.b	"sous-sol nous permet de pÃ©trir"
+	dc.b	"sous-sol nous permet de pétrir"
 	dc.b	$FD
 	dc.b	"le pain plus facilement."
 	dc.b	$FD
@@ -401,7 +401,7 @@
 	dc.b	$FC
 	dc.b	"ne comprends pas pourquoi vous"
 	dc.b	$FD
-	dc.b	"mettez votre comptoir Ã  la cave"
+	dc.b	"mettez votre comptoir à la cave"
 	dc.b	$FC
 	dc.b	"aussi."
 	dc.b	$FF
@@ -409,7 +409,7 @@
 ; $2F
 	dc.b	$FA
 	dc.b	$42, $01
-	dc.b	"HÃ©, si ce n'est pas Alys!"
+	dc.b	"Hé, si ce n'est pas Alys!"
 	dc.b	$FD
 	dc.b	"Vous pensez finalement acheter"
 	dc.b	$FC
@@ -451,7 +451,7 @@
 	dc.b	$FD
 	dc.b	"Devrions-nous relaxer pour le"
 	dc.b	$FC
-	dc.b	"reste de la journÃ©e?"
+	dc.b	"reste de la journée?"
 	dc.b	$F5
 	dc.b	$00, $01
 	dc.b	"Parfait, soyons frais et dispos"
@@ -462,15 +462,15 @@
 ; $32
 	dc.b	"Bon, alors continuons nos"
 	dc.b	$FC
-	dc.b	"activitÃ©s un peu plus longtemps."
+	dc.b	"activités un peu plus longtemps."
 	dc.b	$FF
 
 ; $33
-	dc.b	"Bof, vous appelez Ã§a un marchÃ©!?"
+	dc.b	"Bof, vous appelez ça un marché!?"
 	dc.b	$FD
 	dc.b	"Il n'y a rien d'une quelconque"
 	dc.b	$FC
-	dc.b	"utilitÃ© Ã  vendre!"
+	dc.b	"utilité à vendre!"
 	dc.b	$FF
 
 ; $34
@@ -480,25 +480,25 @@
 	dc.b	$FD
 	dc.b	"est un pur gaspillage si elle"
 	dc.b	$FC
-	dc.b	"est utilisÃ©e sans adresse."
+	dc.b	"est utilisée sans adresse."
 	dc.b	$FF
 
 ; $35
 	dc.b	$FA
 	dc.b	$42, $01
-	dc.b	"Oh, je suis honorÃ© de votre"
+	dc.b	"Oh, je suis honoré de votre"
 	dc.b	$FC
 	dc.b	"visite, Alys."
 	dc.b	$FD
-	dc.b	"Votre prÃ©sence m'inspire Ã  me"
+	dc.b	"Votre présence m'inspire à me"
 	dc.b	$FC
 	dc.b	"surpasser!"
 	dc.b	$FF
 
 ; $36
-	dc.b	"HÃ© Chaz, tu as du culÃ´t de te"
+	dc.b	"Hé Chaz, tu as du culôt de te"
 	dc.b	$FC
-	dc.b	"prÃ©senter ici sans Ãªtre escortÃ©"
+	dc.b	"présenter ici sans être escorté"
 	dc.b	$FD
 	dc.b	"par un adulte!"
 	dc.b	$FF
@@ -506,7 +506,7 @@
 ; $37
 	dc.b	"De nos jours, les chasseurs"
 	dc.b	$FD
-	dc.b	"tirent bien leur Ã©pingle du"
+	dc.b	"tirent bien leur épingle du"
 	dc.b	$FC
 	dc.b	"jeux. Mais les monstres sont"
 	dc.b	$FD
@@ -518,9 +518,9 @@
 	dc.b	$FC
 	dc.b	"toujours actifs."
 	dc.b	$FD
-	dc.b	"Ã‡a paraÃ®t Ã  voir le peu de"
+	dc.b	"Ça paraît à voir le peu de"
 	dc.b	$FC
-	dc.b	"clients qui se prÃ©sentent!"
+	dc.b	"clients qui se présentent!"
 	dc.b	$FF
 
 ; $38
@@ -559,7 +559,7 @@
 ; $3B
 	dc.b	"Vous m'accusez? De quoi?"
 	dc.b	$FC
-	dc.b	"Soyez...soyez sÃ©rieux!"
+	dc.b	"Soyez...soyez sérieux!"
 	dc.b	$FF
 
 ; $3C
@@ -571,17 +571,17 @@
 ; $3E
 	dc.b	"10-3E Aller, plus vite!"
 	dc.b	$FC
-	dc.b	"En silence! DiscrÃ¨tement!"
+	dc.b	"En silence! Discrètement!"
 	dc.b	$FD
-	dc.b	"HÃ©, minute, soeurette!"
+	dc.b	"Hé, minute, soeurette!"
 	dc.b	$FC
 	dc.b	"Ne me laisse pas seul! Ouiiin!"
 	dc.b	$FD
-	dc.b	"Quel Ã©tait ce bruit? Oh!"
+	dc.b	"Quel était ce bruit? Oh!"
 	dc.b	$FD
-	dc.b	"HÃ©, petites pestes!"
+	dc.b	"Hé, petites pestes!"
 	dc.b	$FD
-	dc.b	"HÃ©, toi! Halte!"
+	dc.b	"Hé, toi! Halte!"
 	dc.b	$FC
 	dc.b	"Ne t'avises pas de filer!"
 	dc.b	$FD
@@ -710,7 +710,7 @@
 ; $64
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Bon, tant qu'Ã  l'avoir achetÃ©,"
+	dc.b	"Bon, tant qu'à l'avoir acheté,"
 	dc.b	$FC
 	dc.b	"aussi bien le suspendre sur"
 	dc.b	$FD
@@ -720,19 +720,19 @@
 ; $65
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"C'est un fanion que j'ai achetÃ©"
+	dc.b	"C'est un fanion que j'ai acheté"
 	dc.b	$FC
-	dc.b	"Ã  Termi."
+	dc.b	"à Termi."
 	dc.b	$FD
-	dc.b	"Il porte l'image d'une hÃ©roÃ¯ne"
+	dc.b	"Il porte l'image d'une héroïne"
 	dc.b	$FC
-	dc.b	"sur une colline prÃ¨s de la mer."
+	dc.b	"sur une colline près de la mer."
 	dc.b	$FD
-	dc.b	"Ah, il est aussi Ã©crit, 'Termi.'"
+	dc.b	"Ah, il est aussi écrit, 'Termi.'"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$06
-	dc.b	"C'est de l'argent gÃ¢chÃ©!"
+	dc.b	"C'est de l'argent gâché!"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
@@ -740,13 +740,13 @@
 	dc.b	$FC
 	dc.b	"C'est un souvenir de notre"
 	dc.b	$FD
-	dc.b	"pÃ©riple."
+	dc.b	"périple."
 	dc.b	$FF
 
 ; $66
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Tant qu'Ã  l'avoir achetÃ©, autant"
+	dc.b	"Tant qu'à l'avoir acheté, autant"
 	dc.b	$FC
 	dc.b	"l'exposer!"
 	dc.b	$FF
@@ -754,25 +754,25 @@
 ; $67
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"C'est un ver des sables sculptÃ©"
+	dc.b	"C'est un ver des sables sculpté"
 	dc.b	$FC
-	dc.b	"dans le bois. Je l'ai achetÃ© Ã "
+	dc.b	"dans le bois. Je l'ai acheté à"
 	dc.b	$FD
 	dc.b	"Termi."
 	dc.b	$FD
-	dc.b	"Quel travail de bonne qualitÃ©!"
+	dc.b	"Quel travail de bonne qualité!"
 	dc.b	$FD
-	dc.b	"On peut vraiment apprÃ©cier la"
+	dc.b	"On peut vraiment apprécier la"
 	dc.b	$FC
-	dc.b	"maÃ®trise du sculpteur."
+	dc.b	"maîtrise du sculpteur."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$06
-	dc.b	"Encore de l'argent gaspillÃ©!"
+	dc.b	"Encore de l'argent gaspillé!"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
 	dc.b	"Non, non, tu ne comprends juste"
 	dc.b	$FC
-	dc.b	"pas le romantisme du voyage."
+	dc.b	"pas encore la féérie du voyage."
 	dc.b	$FF

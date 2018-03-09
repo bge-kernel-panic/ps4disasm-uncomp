@@ -1,15 +1,15 @@
 ; 0
-	dc.b	"Vous Ãªtes au village Motavien"
+	dc.b	"Vous êtes au village Motavien"
 	dc.b	$FC
 	dc.b	"de Molcum."
 	dc.b	$FD
 	dc.b	"Les Parmaniens ne sont pas"
 	dc.b	$FC
-	dc.b	"tolÃ©rÃ©s dans notre village."
+	dc.b	"tolérés dans notre village."
 	dc.b	$FF
 
 ; $1
-	dc.b	"Vous n'Ãªtes pas des associÃ©s"
+	dc.b	"Vous n'êtes pas des associés"
 	dc.b	$FC
 	dc.b	"de ce Zio?"
 	dc.b	$FF
@@ -30,9 +30,9 @@
 	dc.w	$0011
 	dc.b	$F4
 	dc.b	$04
-	dc.b	"HÃ©, Alys!"
+	dc.b	"Hé, Alys!"
 	dc.b	$FC
-	dc.b	"Ã‡a fait un bail!"
+	dc.b	"Ça fait un bail!"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
@@ -58,7 +58,7 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$02
-	dc.b	"Ã‡a suffit, vous deux."
+	dc.b	"Ça suffit, vous deux."
 	dc.b	$FD
 	dc.b	"Ceci dit, Rune, que se"
 	dc.b	$FC
@@ -66,13 +66,13 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04
-	dc.b	"Tout Ã§a, c'est l'oeuvre de Zio."
+	dc.b	"Tout ça, c'est l'oeuvre de Zio."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
 	dc.b	"Zio! Je parie que c'est lui qui"
 	dc.b	$FC
-	dc.b	"a pÃ©trifiÃ© les gens de Zema..."
+	dc.b	"a pétrifié les gens de Zema..."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04
@@ -82,15 +82,15 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"EspÃ¨ce de..."
+	dc.b	"Espèce de..."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$02
 	dc.b	"J'ai dit, suffit!"
 	dc.b	$FC
-	dc.b	"On dirait que oÃ¹ qu'on aille,"
+	dc.b	"On dirait que où qu'on aille,"
 	dc.b	$FD
-	dc.b	"tout revient Ã  Zio."
+	dc.b	"tout revient à Zio."
 	dc.b	$FD
 	dc.b	"Qui est-il au juste?"
 	dc.b	$FD
@@ -109,7 +109,7 @@
 	dc.b	$04
 	dc.b	"Vous cherchez de l'Alshline?"
 	dc.b	$FD
-	dc.b	"Il vaudrait mieux aller Ã  Tonoe."
+	dc.b	"Il vaudrait mieux aller à Tonoe."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$03
@@ -119,21 +119,21 @@
 	dc.b	$04
 	dc.b	"Voyons voir...d'ici, c'est quand"
 	dc.b	$FC
-	dc.b	"mÃªme loin."
+	dc.b	"même loin."
 	dc.b	$FD
-	dc.b	"D'abord, allez Ã  l'est jusqu'Ã "
+	dc.b	"D'abord, allez à l'est jusqu'à"
 	dc.b	$FC
 	dc.b	"Krup."
 	dc.b	$FD
-	dc.b	"De lÃ , allez au nord, et vous"
+	dc.b	"De là, allez au nord, et vous"
 	dc.b	$FD
-	dc.b	"trouverez une vallÃ©e qui mÃ¨ne"
+	dc.b	"trouverez une vallée qui mène"
 	dc.b	$FC
-	dc.b	"Ã  Tonoe."
+	dc.b	"à Tonoe."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$03
-	dc.b	"On n'est pas forcÃ© de passer"
+	dc.b	"On n'est pas forcé de passer"
 	dc.b	$FC
 	dc.b	"par Krup, n'est-ce pas?"
 	dc.b	$FD
@@ -143,17 +143,17 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$03
-	dc.b	"Ah, allons directement Ã  Tonoe!"
+	dc.b	"Ah, allons directement à Tonoe!"
 	dc.b	$FC
 	dc.b	"Alys?"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$02
-	dc.b	"Je n'ai pas pris ma dÃ©cision."
+	dc.b	"Je n'ai pas pris ma décision."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04
-	dc.b	"Je vais m'inviter Ã  rejoindre"
+	dc.b	"Je vais m'inviter à rejoindre"
 	dc.b	$FC
 	dc.b	"votre groupe."
 	dc.b	$FD
@@ -162,21 +162,21 @@
 	dc.b	$F9
 	dc.b	$13
 
-	dc.b	"J'ai des choses Ã  faire lÃ -bas"
+	dc.b	"J'ai des choses à faire là-bas"
 	dc.b	$FC
 	dc.b	"moi aussi."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"HÃ©, pas si vite!"
+	dc.b	"Hé, pas si vite!"
 	dc.b	$FD
 	dc.b	$F2, $00
 	dc.w	$0014
 	dc.b	$F4
 	dc.b	$02
-	dc.b	"Nous serions honorÃ© de ta"
+	dc.b	"Nous serions honoré de ta"
 	dc.b	$FC
-	dc.b	"prÃ©sence."
+	dc.b	"présence."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
@@ -184,11 +184,11 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04
-	dc.b	"Bien, tout est rÃ©glÃ©, alors."
+	dc.b	"Bien, tout est réglé, alors."
 	dc.b	$FD
 	dc.b	"Et Petit, tente de ne pas"
 	dc.b	$FC
-	dc.b	"Ãªtre dans les jambes."
+	dc.b	"être dans les jambes."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
@@ -210,17 +210,17 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04
-	dc.b	"Bof, je ne serai pas dÃ©rangeant."
+	dc.b	"Bof, je ne serai pas dérangeant."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$02
-	dc.b	"Tu l'es dÃ©jÃ ."
+	dc.b	"Tu l'es déjà."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$03
 	dc.b	"Euh...Je suis quelque peu"
 	dc.b	$FC
-	dc.b	"embÃªtÃ© par notre objectif."
+	dc.b	"embêté par notre objectif."
 	dc.b	$FF
 
 ; $4
@@ -230,19 +230,19 @@
 	dc.b	$30, $01
 	dc.b	"Ici, c'est Tonoe..."
 	dc.b	$FD
-	dc.b	"HÃ©!"
+	dc.b	"Hé!"
 	dc.b	$FC
-	dc.b	"Comment Ãªtes-vous entrÃ©s?"
+	dc.b	"Comment êtes-vous entrés?"
 	dc.b	$FF
 
 ; $5
 	dc.b	"Ici, c'est Tonoe..."
 	dc.b	$FD
-	dc.b	"HÃ©! Comment Ãªtes-vous arrivÃ©s?"
+	dc.b	"Hé! Comment êtes-vous arrivés?"
 	dc.b	$FD
 	dc.b	"Ah, je vois."
 	dc.b	$FC
-	dc.b	"Vous Ãªtes des amis de Gryz."
+	dc.b	"Vous êtes des amis de Gryz."
 	dc.b	$FD
 	dc.b	"Vous m'avez fait peur!"
 	dc.b	$FF
@@ -266,7 +266,7 @@
 	dc.b	$FC
 	dc.b	"il vaudrait mieux demander au"
 	dc.b	$FD
-	dc.b	"PÃ¨re Dorin!"
+	dc.b	"Père Dorin!"
 	dc.b	$FF
 
 ; $8
@@ -274,7 +274,7 @@
 	dc.b	$FC
 	dc.b	"vous cherchiez?"
 	dc.b	$FD
-	dc.b	"Le PÃ¨re Dorin a rÃ©ponse Ã "
+	dc.b	"Le Père Dorin a réponse à"
 	dc.b	$FC
 	dc.b	"pas mal toute question!"
 	dc.b	$FF
@@ -282,7 +282,7 @@
 ; $9
 	dc.b	"Ouais, j'ai entendu parler"
 	dc.b	$FC
-	dc.b	"de ce qui s'est passÃ© Ã  Molcum!"
+	dc.b	"de ce qui s'est passé à Molcum!"
 	dc.b	$FD
 	dc.b	"Ce maudit Zio!"
 	dc.b	$FF
@@ -292,13 +292,13 @@
 	dc.b	$FC
 	dc.b	"guerre."
 	dc.b	$FD
-	dc.b	"Je refuse de me mÃªler des"
+	dc.b	"Je refuse de me mêler des"
 	dc.b	$FC
 	dc.b	"rixes de tels gens!"
 	dc.b	$FF
 
 ; $B
-	dc.b	"Notre fiertÃ© est l'art du"
+	dc.b	"Notre fierté est l'art du"
 	dc.b	$FC
 	dc.b	"raffinement du Titane."
 	dc.b	$FD
@@ -312,19 +312,19 @@
 ; $C
 	dc.b	"Hors de mon chemin! Et cessez"
 	dc.b	$FC
-	dc.b	"de rÃ´der aux alentours!"
+	dc.b	"de rôder aux alentours!"
 	dc.b	$FF
 
 ; $D
-	dc.b	"Bien sÃ»r, quand on fabrique le"
+	dc.b	"Bien sûr, quand on fabrique le"
 	dc.b	$FC
 	dc.b	"meilleur, on vit beaucoup"
 	dc.b	$FD
-	dc.b	"d'Ã©checs aussi."
+	dc.b	"d'échecs aussi."
 	dc.b	$FD
-	dc.b	"La rÃ©ussite s'obtient Ã  force"
+	dc.b	"La réussite s'obtient à force"
 	dc.b	$FC
-	dc.b	"de nombreux Ã©checs!"
+	dc.b	"de nombreux échecs!"
 	dc.b	$FF
 
 ; $E
@@ -364,13 +364,13 @@
 ; $18
 	dc.b	$F4
 	dc.b	$0F
-	dc.b	"Je suis le PÃ¨re Dorin, marchand"
+	dc.b	"Je suis le Père Dorin, marchand"
 	dc.b	$FC
 	dc.b	"d'information."
 	dc.b	$FD
-	dc.b	"C'est Ã  quel sujet?"
+	dc.b	"C'est à quel sujet?"
 	dc.b	$FD
-	dc.b	"Ã€ propos du secret du"
+	dc.b	"À propos du secret du"
 	dc.b	$FC
 	dc.b	"raffinement du Titane?"
 	dc.b	$F5
@@ -387,31 +387,31 @@
 	dc.b	$FC
 	dc.b	"le chemin vers ce village est"
 	dc.b	$FD
-	dc.b	"bloquÃ© par un rocher?"
+	dc.b	"bloqué par un rocher?"
 	dc.b	$F5
 	dc.b	$00, $01
-	dc.b	"En prÃ©vision d'une attaque"
+	dc.b	"En prévision d'une attaque"
 	dc.b	$FC
 	dc.b	"de Zio,"
 	dc.b	$FD
-	dc.b	"nous nous sommes isolÃ©s."
+	dc.b	"nous nous sommes isolés."
 	dc.b	$FF
 
 ; $1A
-	dc.b	"Alors, voulez-vous connaÃ®tre les"
+	dc.b	"Alors, voulez-vous connaître les"
 	dc.b	$FC
-	dc.b	"mensurations de la trÃ¨s belle"
+	dc.b	"mensurations de la très belle"
 	dc.b	$FD
-	dc.b	"et trÃ¨s renommÃ©e Alys Brangwin,"
+	dc.b	"et très renommée Alys Brangwin,"
 	dc.b	$FD
-	dc.b	"aussi surnommÃ©e Alys Arracheuse"
+	dc.b	"aussi surnommée Alys Arracheuse"
 	dc.b	$FC
 	dc.b	"de Tripes?"
 	dc.b	$F5
 	dc.b	$00, $01
-	dc.b	"VoilÃ  qui est mieux."
+	dc.b	"Voilà qui est mieux."
 	dc.b	$FD
-	dc.b	"Alors, en commenÃ§ant du haut,"
+	dc.b	"Alors, en commençant du haut,"
 	dc.b	$FC
 	dc.b	"trente-six, vingt..."
 	dc.b	$F7
@@ -426,7 +426,7 @@
 	dc.b	$FD
 	dc.b	"Comment osez-vous me frapper"
 	dc.b	$FC
-	dc.b	"sans prÃ©venir!"
+	dc.b	"sans prévenir!"
 	dc.b	$F7
 
 	dc.b	$F4
@@ -437,9 +437,9 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$02
-	dc.b	"EspÃ¨ce de vieux schnock bavard!"
+	dc.b	"Espèce de vieux schnock bavard!"
 	dc.b	$FD
-	dc.b	"Tu vends mes mensurations Ã "
+	dc.b	"Tu vends mes mensurations à"
 	dc.b	$FC
 	dc.b	"tout venant!?"
 	dc.b	$F7
@@ -465,13 +465,13 @@
 	dc.b	$FF
 
 ; $1B
-	dc.b	"Bon. Si vous n'avez rien Ã "
+	dc.b	"Bon. Si vous n'avez rien à"
 	dc.b	$FC
 	dc.b	"me demander, cessez de"
 	dc.b	$FD
 	dc.b	"m'importuner. J'ai beaucoup"
 	dc.b	$FC
-	dc.b	"Ã  faire."
+	dc.b	"à faire."
 	dc.b	$FF
 
 ; $1C
@@ -479,7 +479,7 @@
 	dc.b	$0F
 	dc.b	"Il semblerait que vous ayez"
 	dc.b	$FC
-	dc.b	"Ã©tÃ© bons avec Gryz."
+	dc.b	"été bons avec Gryz."
 	dc.b	$FD
 	dc.b	"Je vous remercie."
 	dc.b	$FF
@@ -493,19 +493,19 @@
 	dc.b	$10
 	dc.b	"Vous savez, je viens de Molcum."
 	dc.b	$FC
-	dc.b	"Malheureusement, Zio a frappÃ©."
+	dc.b	"Malheureusement, Zio a frappé."
 	dc.b	$FD
-	dc.b	"Mon frÃ¨re s'est battu avec"
+	dc.b	"Mon frère s'est battu avec"
 	dc.b	$FC
-	dc.b	"courage, mais il n'Ã©tait pas de"
+	dc.b	"courage, mais il n'était pas de"
 	dc.b	$FD
 	dc.b	"taille."
 	dc.b	$FD
-	dc.b	"Ma mÃ¨re et mon pÃ¨re ont pÃ©ri."
+	dc.b	"Ma mère et mon père ont péri."
 	dc.b	$FD
-	dc.b	"Mon frÃ¨re et moi nous sommes"
+	dc.b	"Mon frère et moi nous sommes"
 	dc.b	$FC
-	dc.b	"Ã©chappÃ©s de justesse..."
+	dc.b	"échappés de justesse..."
 	dc.b	$FF
 
 ; $1E
@@ -513,19 +513,19 @@
 	dc.b	$10
 	dc.b	"Vous savez, je viens de Molcum."
 	dc.b	$FC
-	dc.b	"Malheureusement, Zio a frappÃ©."
+	dc.b	"Malheureusement, Zio a frappé."
 	dc.b	$FD
-	dc.b	"Mon frÃ¨re s'est battu avec"
+	dc.b	"Mon frère s'est battu avec"
 	dc.b	$FC
-	dc.b	"courage, mais il n'Ã©tait pas de"
+	dc.b	"courage, mais il n'était pas de"
 	dc.b	$FD
 	dc.b	"taille."
 	dc.b	$FD
-	dc.b	"Ma mÃ¨re et mon pÃ¨re ont pÃ©ri."
+	dc.b	"Ma mère et mon père ont péri."
 	dc.b	$FD
-	dc.b	"Mon frÃ¨re et moi nous sommes"
+	dc.b	"Mon frère et moi nous sommes"
 	dc.b	$FC
-	dc.b	"Ã©chappÃ©s de justesse..."
+	dc.b	"échappés de justesse..."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$05
@@ -537,7 +537,7 @@
 ; $1F
 	dc.b	$F4
 	dc.b	$10
-	dc.b	"Oh, mon frÃ¨re..."
+	dc.b	"Oh, mon frère..."
 	dc.b	$FF
 
 ; $20
@@ -559,29 +559,29 @@
 ; $22
 	dc.b	"Je ne veux pas me vanter, mais"
 	dc.b	$FC
-	dc.b	"je suis habile Ã  construire"
+	dc.b	"je suis habile à construire"
 	dc.b	$FD
 	dc.b	"des machines.  Par contre, je"
 	dc.b	$FC
 	dc.b	"ne vaux rien en cuisine."
 	dc.b	$FD
-	dc.b	"J'aimerais rÃ©ussir un gÃ¢teau."
+	dc.b	"J'aimerais réussir un gâteau."
 	dc.b	$FF
 
 ; $23
 	dc.b	"Mon mari aime s'asseoir et"
 	dc.b	$FC
-	dc.b	"rÃªvasser."
+	dc.b	"rêvasser."
 	dc.b	$FD
 	dc.b	"Il est probablement perdu dans"
 	dc.b	$FC
-	dc.b	"ses pensÃ©es Dieu sait oÃ¹."
+	dc.b	"ses pensées Dieu sait où."
 	dc.b	$FF
 
 ; $24
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Ouf...c'est rouillÃ©, pas moyen"
+	dc.b	"Ouf...c'est rouillé, pas moyen"
 	dc.b	$FC
 	dc.b	"de l'ouvrir!"
 	dc.b	$F7
@@ -595,9 +595,9 @@
 
 	dc.b	$F4
 	dc.b	$05
-	dc.b	"Tenez-la ici...comme Ã§a..."
+	dc.b	"Tenez-la ici...comme ça..."
 	dc.b	$FC
-	dc.b	"Ã  la une one, deux, trois!"
+	dc.b	"à la une one, deux, trois!"
 	dc.b	$F7
 
 	dc.b	$F4
@@ -620,19 +620,19 @@
 	dc.b	$FD
 	dc.b	"Ce vieillard n'est pas mal"
 	dc.b	$FC
-	dc.b	"intentionnÃ©."
+	dc.b	"intentionné."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$02
-	dc.b	"C'est pour Ã§a que je le tolÃ¨re."
+	dc.b	"C'est pour ça que je le tolère."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04
-	dc.b	"PÃ¨re Dorin, je suis venu"
+	dc.b	"Père Dorin, je suis venu"
 	dc.b	$FC
 	dc.b	"reprendre l'objet que je t'ai"
 	dc.b	$FD
-	dc.b	"confiÃ©."
+	dc.b	"confié."
 	dc.b	$FD
 	dc.b	"Aussi, ces gens cherchent de"
 	dc.b	$FC
@@ -642,7 +642,7 @@
 	dc.b	$0F
 	dc.b	"Ah, si vous cherchez de"
 	dc.b	$FC
-	dc.b	"l'Alshline, libre Ã  vous d'en"
+	dc.b	"l'Alshline, libre à vous d'en"
 	dc.b	$FD
 	dc.b	"prendre autant que vous en"
 	dc.b	$FC
@@ -650,7 +650,7 @@
 	dc.b	$FD
 	dc.b	"Il y en a dans le sous-sol de"
 	dc.b	$FC
-	dc.b	"l'entrepÃ´t, lÃ , derriÃ¨re."
+	dc.b	"l'entrepôt, là, derrière."
 	dc.b	$FD
 	dc.b	"Servez-vous."
 	dc.b	$FD
@@ -669,7 +669,7 @@
 	dc.b	$FD
 	dc.b	"endroit pour le moment, alors"
 	dc.b	$FD
-	dc.b	"c'est peut-Ãªtre un peu"
+	dc.b	"c'est peut-être un peu"
 	dc.b	$FC
 	dc.b	"dangereux."
 	dc.b	$FD
@@ -685,9 +685,9 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04
-	dc.b	"Eh bien, j'ai des affaires Ã "
+	dc.b	"Eh bien, j'ai des affaires à"
 	dc.b	$FC
-	dc.b	"traiter avec le PÃ¨re Dorin,"
+	dc.b	"traiter avec le Père Dorin,"
 	dc.b	$FD
 	dc.b	"alors je vous laisse!"
 	dc.b	$FD
@@ -695,15 +695,15 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Tu commence Ã  m'Ã©nerver!"
+	dc.b	"Tu commence à m'énerver!"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04
-	dc.b	"EnlÃ¨ve-toi l'idÃ©e stupide de"
+	dc.b	"Enlève-toi l'idée stupide de"
 	dc.b	$FD
-	dc.b	"te mesurer Ã  Zio de cette"
+	dc.b	"te mesurer à Zio de cette"
 	dc.b	$FC
-	dc.b	"petite tÃªte!"
+	dc.b	"petite tête!"
 	dc.b	$FD
 	dc.b	$F2, $03
 	dc.b	$FE
@@ -721,11 +721,11 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04
-	dc.b	"Ã€ ce stade, tu n'es pas de"
+	dc.b	"À ce stade, tu n'es pas de"
 	dc.b	$FC
 	dc.b	"taille!"
 	dc.b	$FD
-	dc.b	"Peut-Ãªtre nos chemins vont se"
+	dc.b	"Peut-être nos chemins vont se"
 	dc.b	$FC
 	dc.b	"recroiser plus tard."
 	dc.b	$FD
@@ -737,11 +737,11 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04
-	dc.b	"Fais attention Ã  toi."
+	dc.b	"Fais attention à toi."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Moi...me mesurer Ã  Zio?"
+	dc.b	"Moi...me mesurer à Zio?"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$02
@@ -751,15 +751,15 @@
 ; $26
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"L'entrÃ©e est bloquÃ©e."
+	dc.b	"L'entrée est bloquée."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04
-	dc.b	"Pas de problÃ¨me."
+	dc.b	"Pas de problème."
 	dc.b	$FC
-	dc.b	"Ce sera du gÃ¢teau!"
+	dc.b	"Ce sera du gâteau!"
 	dc.b	$FD
-	dc.b	"En arriÃ¨re, tout le monde!"
+	dc.b	"En arrière, tout le monde!"
 	dc.b	$F7
 
 	dc.b	"Flaeli!"
@@ -779,13 +779,13 @@
 	dc.b	$FC
 	dc.b	"Je n'ai jamais rien vu de tel."
 	dc.b	$FD
-	dc.b	"La mÃ©thode semble inhabituelle."
+	dc.b	"La méthode semble inhabituelle."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04
-	dc.b	"HÃ© hÃ©...Je ne suis pas surpris"
+	dc.b	"Hé hé...Je ne suis pas surpris"
 	dc.b	$FC
-	dc.b	"que tu n'aies jamais vu Ã§a."
+	dc.b	"que tu n'aies jamais vu ça."
 	dc.b	$FD
 	dc.b	"C'est ce qu'on appelle de la"
 	dc.b	$FC
@@ -805,30 +805,30 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$03
-	dc.b	"Bien! DÃ©pÃªchons-nous de revenir"
+	dc.b	"Bien! Dépêchons-nous de revenir"
 	dc.b	$FC
-	dc.b	"Ã  Zema et d'aider ces gens!"
+	dc.b	"à Zema et d'aider ces gens!"
 	dc.b	$FD
 	dc.b	$F2, $01
 	dc.b	$F4
 	dc.b	$05
 	dc.b	"Euh..."
 	dc.b	$FC
-	dc.b	"Puis-je me joindre Ã  vous?"
+	dc.b	"Puis-je me joindre à vous?"
 	dc.b	$FD
-	dc.b	"Ma ville a Ã©tÃ© dÃ©truite par Zio."
+	dc.b	"Ma ville a été détruite par Zio."
 	dc.b	$FD
-	dc.b	"Je n'ai pas pu sauver mon pÃ¨re,"
+	dc.b	"Je n'ai pas pu sauver mon père,"
 	dc.b	$FC
-	dc.b	"ni ma mÃ¨re!"
+	dc.b	"ni ma mère!"
 	dc.b	$FD
 	dc.b	"Je dois me venger!"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"HÃ©, Gryz!"
+	dc.b	"Hé, Gryz!"
 	dc.b	$FD
-	dc.b	"Notre but n'est pas forcÃ©ment"
+	dc.b	"Notre but n'est pas forcément"
 	dc.b	$FC
 	dc.b	"de vaincre Zio."
 	dc.b	$FD
@@ -842,15 +842,15 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Oh, Ã§a...il disait juste des"
+	dc.b	"Oh, ça...il disait juste des"
 	dc.b	$FC
-	dc.b	"trucs comme Ã§a."
+	dc.b	"trucs comme ça."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$05
-	dc.b	"De toute maniÃ¨re, je ne peux"
+	dc.b	"De toute manière, je ne peux"
 	dc.b	$FC
-	dc.b	"pas rester ici Ã©ternellement!"
+	dc.b	"pas rester ici éternellement!"
 	dc.b	$FD
 	dc.b	"Je viens avec vous, que vous"
 	dc.b	$FC
@@ -864,25 +864,25 @@
 	dc.b	$02
 	dc.b	"Sois raisonnable, Chaz,"
 	dc.b	$FC
-	dc.b	"il n'y a rien de mal Ã  Ã§a."
+	dc.b	"il n'y a rien de mal à ça."
 	dc.b	$FD
 	dc.b	"Gryz sera sans doute d'une"
 	dc.b	$FC
-	dc.b	"grande aide, et aprÃ¨s tout, nous"
+	dc.b	"grande aide, et après tout, nous"
 	dc.b	$FD
 	dc.b	"ne savons pas ce qui arrivera"
 	dc.b	$FC
-	dc.b	"d'ici lÃ ."
+	dc.b	"d'ici là."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$05
 	dc.b	"Parfait. Alors, une fois encore,"
 	dc.b	$FC
-	dc.b	"content d'Ãªtre parmi vous!"
+	dc.b	"content d'être parmi vous!"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$03
-	dc.b	"Ouais, c'est Ã§a."
+	dc.b	"Ouais, c'est ça."
 	dc.b	$FC
 	dc.b	"Allons-y!"
 	dc.b	$FF
@@ -902,11 +902,11 @@
 	dc.b	$01
 	dc.b	"Wow, quel fauteuil clinquant!"
 	dc.b	$FC
-	dc.b	"Quel mauvais goÃ»t!"
+	dc.b	"Quel mauvais goût!"
 	dc.b	$FF
 
 ; $2B
 	dc.b	"Monsieur, vous ne trouverez"
 	dc.b	$FC
-	dc.b	"rien derriÃ¨re ce comptoir."
+	dc.b	"rien derrière ce comptoir."
 	dc.b	$FF
