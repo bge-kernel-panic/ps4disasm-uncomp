@@ -1,0 +1,23 @@
+The French translator, Benoit Goudreault-Emond, would like to extend
+thanks to the following people:
+
+- Michał Ziąbkowski (mziab@o2.pl) for his very precious help as the
+  Polish translator.  He provided several hints on font encoding
+  which let me easily add accents, and some warnings about which
+  parts of the dialog might crash due to memory limitations. Also
+  a great person all around, checking his old notes from years ago
+  just to help a random Internet stranger.  Many thanks, Michał!
+
+- Lorenzo (lory2004@gmail.com) for disassembling the PS4 code in
+  the first place.  I don't think I would've dared undertaking this
+  effort had the symbolic disassembly not been available.  I do know
+  M68K assembly, but having to place breakpoints, look at trace logs,
+  and whatnot is a bit too time-consuming for parents of school-age
+  children.  He also told me the font was 8x16 which did point me
+  in the right direction.
+
+- His daughter, Stéphanie, for bugging him incessantly about the project,
+  but also for beta testing the whole thing.
+
+If the translator has forgotten anybody, you may contact him and
+request to be added to this file at bgoudreaultemond@gmail.com

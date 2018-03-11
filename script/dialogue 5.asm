@@ -31,7 +31,7 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$03
-	dc.b	"Ah! Euh, et bien..."
+	dc.b	"Ah! Euh, eh bien..."
 	dc.b	$FF
 
 ; $3
