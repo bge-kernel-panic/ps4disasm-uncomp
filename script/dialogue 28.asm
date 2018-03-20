@@ -207,9 +207,11 @@
 ; $19
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Il ne faut pas ouvrir l'armoire"
+	dc.b	"Ce n'est pas bien de fouiller"
 	dc.b	$FC
-	dc.b	"sans avoir la permission."
+	dc.b	"dans les armoires des gens sans"
+	dc.b	$FD
+	dc.b	"leur demander la permission!"
 	dc.b	$FF
 
 ; $1A
@@ -551,9 +553,11 @@
 ; $41
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Il ne faut pas ouvrir l'armoire"
+	dc.b	"Ce n'est pas bien de fouiller"
 	dc.b	$FC
-	dc.b	"sans avoir la permission."
+	dc.b	"dans les armoires des gens sans"
+	dc.b	$FD
+	dc.b	"leur demander la permission!"
 	dc.b	$FF
 
 ; $42
