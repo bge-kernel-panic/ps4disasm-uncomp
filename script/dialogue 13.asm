@@ -912,15 +912,15 @@
 	dc.b	$FC
 	dc.b	"modules d'armes internes."
 	dc.b	$FD
-	dc.b	"Voyons voir...elles semblent en"
+	dc.b	"Voyons voir...ils semblent en"
 	dc.b	$FC
 	dc.b	"bon état de marche."
 	dc.b	$FD
-	dc.b	"Et je pense qu'elles vont"
+	dc.b	"Et je pense qu'ils vont"
 	dc.b	$FC
 	dc.b	"s'adapter correctement."
 	dc.b	$FD
-	dc.b	"Je vais les installer"
+	dc.b	"Je vais les implanter"
 	dc.b	$FC
 	dc.b	"immédiatement."
 	dc.b	$FD
@@ -934,7 +934,7 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$06
-	dc.b	"Chaz, ne pose pas de questions!"
+	dc.b	"Chaz, quelle question!"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01

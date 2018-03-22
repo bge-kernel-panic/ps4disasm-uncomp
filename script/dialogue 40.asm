@@ -1,199 +1,193 @@
 ; 0
-	dc.b	"Welcome, Protectors,"
-	dc.b	$FC
-	dc.b	"welcome."
+	dc.b	"Bienvenue Ö vous, Protecteurs."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"What was that?"
+	dc.b	"Qu'est-ce?"
 	dc.b	$FD
-	dc.b	"There's a voice reverberating"
-	dc.b	$FC
-	dc.b	"in my head!"
+	dc.b	"Une voix retentit dans ma tàte!"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$00
-	dc.b	"I am"
-	dc.b	$FC
-	dc.b	"Le Roof of Rykros."
+	dc.b	"Je suis Le Roof de Rykros."
 	dc.b	$FD
-	dc.b	"I remain in this land to pass on"
+	dc.b	"Je demeure ici depuis des"
 	dc.b	$FC
-	dc.b	"the secret of the genesis"
+	dc.b	"siäcles pour transmettre le"
 	dc.b	$FD
-	dc.b	"of Algo."
+	dc.b	"secret de l'origine d'Algo."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Just as I thought,"
+	dc.b	"C'est comme je le pensais,"
 	dc.b	$FC
-	dc.b	"this is Rykros."
+	dc.b	"nous sommes sur Rykros."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$00
-	dc.b	"Yes it is. This is Rykros,"
+	dc.b	"Exact. Vous àtes sur Rykros,"
 	dc.b	$FC
-	dc.b	"the fourth planet in the Algo"
+	dc.b	"la quatriäme planäte du systäme"
 	dc.b	$FD
-	dc.b	"solar system."
+	dc.b	"solaire d'Algo."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04
-	dc.b	"What! The fourth planet!"
+	dc.b	"Comment! Une quatriäme planäte!"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$08
-	dc.b	"There are only supposed"
+	dc.b	"Ceci n'est pas conforme Ö mes"
 	dc.b	$FC
-	dc.b	"to be three planets in"
+	dc.b	"donnÇes. Il n'y a que trois"
 	dc.b	$FD
-	dc.b	"the Algo solar System,"
+	dc.b	"planätes dans le systäme d'Algo,"
 	dc.b	$FC
-	dc.b	"Motavia, Parma, and Dezolis."
+	dc.b	"Motavia, Parma, et Dezolis."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$00
-	dc.b	"Rykros is a planet that"
+	dc.b	"Rykros est une planäte protÇgÇe"
 	dc.b	$FC
-	dc.b	"has been protected by a"
+	dc.b	"par une puissante barriäre"
 	dc.b	$FD
-	dc.b	"powerful and invisible barrier."
+	dc.b	"invisible."
 	dc.b	$FD
-	dc.b	"No normal being is able to see"
+	dc.b	"Aucun àtre ordinaire ne peut la"
 	dc.b	$FC
-	dc.b	"or even sense it."
+	dc.b	"voir ou màme la prÇssentir."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$06
-	dc.b	"I didn't know such a planet"
+	dc.b	"Je ne savais pas qu'un tel"
 	dc.b	$FC
-	dc.b	"existed!"
+	dc.b	"endroit existait!"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$00
-	dc.b	"Moreover, the planet's orbit is"
+	dc.b	"De plus, l'orbite de Rykros est"
 	dc.b	$FC
-	dc.b	"highly elliptical."
+	dc.b	"träs excentrique."
 	dc.b	$FD
-	dc.b	"It only gets close to Algo once"
+	dc.b	"Elle s'approche d'Algo qu'une"
 	dc.b	$FC
-	dc.b	"every thousand years."
+	dc.b	"fois par mille ans."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$08
-	dc.b	"So, it's an orbit"
+	dc.b	"Donc, il s'agit d'une orbite"
 	dc.b	$FC
-	dc.b	"like that of a comet!"
+	dc.b	"semblable Ö celle d'une comäte!"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04
-	dc.b	"The Aero-Prism shows the way"
+	dc.b	"L'Aero-Prisme montrera la voie"
 	dc.b	$FC
-	dc.b	"when Rykros returns..."
+	dc.b	"lors du retour de Rykros..."
 	dc.b	$FD
-	dc.b	"So this is what they mean by"
+	dc.b	"Alors c'est ce que signifiait"
 	dc.b	$FC
-	dc.b	"'return!'"
+	dc.b	"ce 'retour!'"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$06
-	dc.b	"And that's why it was"
+	dc.b	"Et c'est pourquoi elle Çtait"
 	dc.b	$FC
-	dc.b	"hidden until now..."
+	dc.b	"cachÇe jusqu'ici..."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
 	dc.b	"Le Roof!"
 	dc.b	$FD
-	dc.b	"We came all the way here"
+	dc.b	"Nous avons fait tout ce chemin"
 	dc.b	$FC
-	dc.b	"because we wanted to find out"
+	dc.b	"pour en savoir le plus possible"
 	dc.b	$FD
-	dc.b	"what we can about The Profound"
+	dc.b	"sur la Noirceur Profonde!"
+	dc.b	$FD
+	dc.b	"Qu'est-ce que la 'Noirceur"
 	dc.b	$FC
-	dc.b	"Darkness!"
+	dc.b	"Profonde?'"
 	dc.b	$FD
-	dc.b	"What is 'The Profound Darkness?'"
-	dc.b	$FD
-	dc.b	"Why is it causing disasters in"
+	dc.b	"Pourquoi cause-t-elle des"
 	dc.b	$FC
-	dc.b	"Algo?"
+	dc.b	"catastrophes dans tout Algo?"
 	dc.b	$FD
-	dc.b	"And exactly where is it now?"
+	dc.b	"Et oó est-elle, maintenant?"
 	dc.b	$FD
-	dc.b	"We were told that all answers"
+	dc.b	"On nous a dit que les rÇponses"
 	dc.b	$FC
-	dc.b	"would be found here!"
+	dc.b	"se trouveraient ici!"
 	dc.b	$FD
-	dc.b	"Now tell all!"
+	dc.b	"Alors, Çclairez-nous!"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$00
 	dc.b	"Hmmm..."
 	dc.b	$FD
-	dc.b	"You courageous Protectors who"
+	dc.b	"J'ai beaucoup Ö vous dire,"
 	dc.b	$FC
-	dc.b	"came all the way to Rykros,"
+	dc.b	"courageux Protecteurs qui ont"
 	dc.b	$FD
-	dc.b	"I have much to tell you."
+	dc.b	"fait ce chemin vers Rykros."
 	dc.b	$FD
-	dc.b	"But first you must perform"
+	dc.b	"Mais vous devez d'abord vous"
 	dc.b	$FC
-	dc.b	"a task."
+	dc.b	"montrer digne."
 	dc.b	$FD
-	dc.b	"There are two towers in Rykros"
+	dc.b	"Il y a deux tours sur Rykros,"
 	dc.b	$FC
-	dc.b	"called The Courage Tower"
+	dc.b	"la Tour du Courage et"
 	dc.b	$FD
-	dc.b	"and The Strength Tower..."
+	dc.b	"la Tour de la Force..."
 	dc.b	$FD
-	dc.b	"Go meet the guardians of those"
+	dc.b	"Allez Ö la rencontre des"
 	dc.b	$FC
-	dc.b	"two towers."
+	dc.b	"gardiens de ces tours."
 	dc.b	$FD
-	dc.b	"When you return, I will truly"
+	dc.b	"∑ votre retour, vous serez"
 	dc.b	$FC
-	dc.b	"recognize you as 'Protectors,'"
+	dc.b	"confirmÇs comme 'Protecteurs,'"
 	dc.b	$FD
-	dc.b	"and will then tell you all you"
+	dc.b	"et j'aurai rÇponse Ö vos"
 	dc.b	$FC
-	dc.b	"seek to know."
+	dc.b	"questions."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$06
-	dc.b	"Protectors?"
+	dc.b	"Protecteurs?"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Are you testing us?"
+	dc.b	"Alors, vous nous testez?"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$00
-	dc.b	"Yes, I am."
+	dc.b	"C'est exact."
 	dc.b	$FD
-	dc.b	"But please understand."
+	dc.b	"Soyez patients."
 	dc.b	$FC
-	dc.b	"This is absolutely necessary."
+	dc.b	"C'est d'une nÇcessitÇ absolue."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"I guess we'll have to do it."
+	dc.b	"J'imagine qu'on a pas le choix."
 	dc.b	$FC
-	dc.b	"Come on guys, let's go!"
+	dc.b	"Allez, mes amis, allons-y!"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$00
-	dc.b	"Please hurry."
+	dc.b	"Faites vite."
 	dc.b	$FC
-	dc.b	"Already, the hand of the"
+	dc.b	"Je sens dÇjÖ la main de la"
 	dc.b	$FD
-	dc.b	"Darkness stirs toward this"
+	dc.b	"Noirceur qui s'Çtire vers"
 	dc.b	$FC
-	dc.b	"planet."
+	dc.b	"cette planäte."
 	dc.b	$FD
-	dc.b	"Beloved ones,"
+	dc.b	"Enfants bien aimÇs,"
 	dc.b	$FC
-	dc.b	"I await your return."
+	dc.b	"j'attendrai votre retour."
 	dc.b	$FF
 
 ; $1
@@ -227,35 +221,35 @@
 	dc.b	$FF
 
 ; $B
-	dc.b	"Ah, Protectors, you have"
+	dc.b	"Protecteurs, vous avez rempli"
 	dc.b	$FC
-	dc.b	"carried out your mission well."
+	dc.b	"entiärement votre mission."
 	dc.b	$FD
-	dc.b	"You have proven yourselves,"
+	dc.b	"Vous avez fait vos preuves, et"
 	dc.b	$FC
-	dc.b	"and I can enlighten you with"
+	dc.b	"je peux vous confier le secret"
 	dc.b	$FD
-	dc.b	"the secret of Algo's genesis."
+	dc.b	"de la gÇnäse d'Algo."
 	dc.b	$FD
-	dc.b	"Many billions of years ago..."
+	dc.b	"Il y a des milliards d'annÇes..."
+	dc.b	$FD
+	dc.b	"une forme de vie spirituelle"
 	dc.b	$FC
-	dc.b	"a spiritual life form split"
+	dc.b	"s'est divisÇe en deux entitÇes"
 	dc.b	$FD
-	dc.b	"into two lesser beings, who"
+	dc.b	"infÇrieures, qui ont Ö terme"
 	dc.b	$FC
-	dc.b	"eventually began to fight..."
+	dc.b	"fait la guerre entre elles..."
 	dc.b	$FD
 	dc.b	$F7
 
-	dc.b	"After a long and terrible"
+	dc.b	"Apräs une longue et terrible"
 	dc.b	$FC
-	dc.b	"battle, there was finally"
+	dc.b	"bataille, il y eut un vainqueur."
 	dc.b	$FD
-	dc.b	"a victor."
-	dc.b	$FD
-	dc.b	"The winner banished the enemy"
+	dc.b	"Celui-ci bannit l'entitÇe"
 	dc.b	$FC
-	dc.b	"spiritual life form to another"
+	dc.b	"ennemie dans une autre"
 	dc.b	$FD
 	dc.b	"dimension."
 	dc.b	$FD
@@ -264,41 +258,41 @@
 	dc.b	$F9
 	dc.b	$77
 
-	dc.b	"We call the victorious side"
+	dc.b	"Nous appelons le vainqueur La"
 	dc.b	$FC
-	dc.b	"The Great Light and the defeated"
+	dc.b	"Lumiäre Supräme et le perdant"
 	dc.b	$FD
-	dc.b	"one The Profound Darkness."
+	dc.b	"La Noirceur Profonde."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"I see, 'Light' and 'Darkness'..."
+	dc.b	"Lumiäre et noirceur, je vois..."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$00
-	dc.b	"The Great Light feared the"
+	dc.b	"La Lumiäre Supräme craignait que"
 	dc.b	$FC
-	dc.b	"resurrection of The Profound"
+	dc.b	"La Noirceur Profonde ne revienne"
 	dc.b	$FD
-	dc.b	"Darkness and placed a seal"
+	dc.b	"Ö la vie et a placÇ une barriäre"
 	dc.b	$FC
-	dc.b	"over the dimensional portal..."
+	dc.b	"sur le portail dimensionnel..."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04
-	dc.b	"A seal?"
+	dc.b	"Une barriäre"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$00
-	dc.b	"That's right...a gigantic seal"
+	dc.b	"C'est exact...Un gigantesque"
 	dc.b	$FC
-	dc.b	"of three planets on"
+	dc.b	"barriäre, formÇe de trois"
 	dc.b	$FD
-	dc.b	"one fixed star..."
+	dc.b	"planätes autour d'un soleil..."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04
-	dc.b	"That can't be..."
+	dc.b	"C'est impossible..."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$00
@@ -307,232 +301,232 @@
 	dc.b	$F9
 	dc.b	$59
 
-	dc.b	"Yes, it is."
+	dc.b	"Si, c'est exact."
 	dc.b	$FD
-	dc.b	"The Algo solar system."
+	dc.b	"Le systäme solaire d'Algo."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$00
-	dc.b	"The Great Light also"
+	dc.b	"La Lumiäre Supräme a ÇparpillÇ"
 	dc.b	$FC
-	dc.b	"distributed Protectors of the"
+	dc.b	"des Protecteurs de la barriäre"
 	dc.b	$FD
-	dc.b	"seal between three tribes --"
+	dc.b	"parmis trois tribus --"
 	dc.b	$FC
-	dc.b	"the Parmanians,"
+	dc.b	"Les Parmaniens, Motaviens,"
 	dc.b	$FD
-	dc.b	"Motavians, and Dezolisians."
+	dc.b	"et Dezolisiens."
 	dc.b	$FD
-	dc.b	"But there were fluctuations in"
+	dc.b	"Mais la barriäre n'Çtait pas"
 	dc.b	$FC
-	dc.b	"the strength of the seal."
+	dc.b	"entiärement stable."
 	dc.b	$FD
-	dc.b	"Once every thousand years,"
+	dc.b	"Une fois tous les mille ans,"
 	dc.b	$FC
-	dc.b	"its power would weaken"
+	dc.b	"elle s'affaiblissait"
 	dc.b	$FD
-	dc.b	"drastically."
+	dc.b	"radicallement."
 	dc.b	$FD
-	dc.b	"As a warning of this phenomenon"
+	dc.b	"Pour avertir les habitants de"
 	dc.b	$FC
-	dc.b	"The Great Light created Rykros,"
+	dc.b	"ce phÇnomäne, La Lumiäre Supräme"
 	dc.b	$FD
-	dc.b	"which returns to Algo"
+	dc.b	"a crÇÇe Rykros, qui retourne"
 	dc.b	$FC
-	dc.b	"once every thousand years, and"
+	dc.b	"dans Algo tous les mille ans,"
 	dc.b	$FD
-	dc.b	"myself, Le Roof."
+	dc.b	"ainsi que moi-màme, Le Roof."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"But what use is an"
+	dc.b	"Mais Ö quoi sert une planäte"
 	dc.b	$FC
-	dc.b	"invisible planet as a warning?"
+	dc.b	"invisible comme avertissement?"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$00
-	dc.b	"The Great Light knew that,"
+	dc.b	"La Lumiäre Supräme savait que,"
 	dc.b	$FC
-	dc.b	"through the generations,"
+	dc.b	"apräs moultes gÇnÇrations, les"
 	dc.b	$FD
-	dc.b	"the Protectors would forget"
+	dc.b	"Protecteurs ne se rappelleraient"
 	dc.b	$FC
-	dc.b	"their mission."
+	dc.b	"plus de leur mission."
 	dc.b	$FD
-	dc.b	"So Rykros was designed to break"
+	dc.b	"Donc, Rykros fñt conáue pour"
 	dc.b	$FC
-	dc.b	"its silence when the seal's"
+	dc.b	"rompre son silence lorsque la"
 	dc.b	$FD
-	dc.b	"final moment came..."
-	dc.b	$FD
-	dc.b	"to remind the Protectors"
+	dc.b	"barriäre vivait ses derniers"
 	dc.b	$FC
-	dc.b	"of the mission they were"
+	dc.b	"instants..."
 	dc.b	$FD
-	dc.b	"born to do."
+	dc.b	"Pour rappeler aux Protecteurs"
+	dc.b	$FC
+	dc.b	"leur mission sacrÇe."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$06
-	dc.b	"The seal's final moment?"
-	dc.b	$FD
-	dc.b	"What do you mean by"
+	dc.b	"Les derniers instants de la"
 	dc.b	$FC
-	dc.b	"final moment?"
+	dc.b	"barriäre?"
+	dc.b	$FD
+	dc.b	"Que voulez-vous dire par"
+	dc.b	$FC
+	dc.b	"'derniers instants?'"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$00
 	dc.b	$F2, $00
 	dc.w	$011E
-	dc.b	"Throughout time The Profound"
+	dc.b	"∑ travers les Éges, La Noirceur"
 	dc.b	$FC
-	dc.b	"Darkness has seethed with"
+	dc.b	"Profonde a bouillonnÇe de haine"
 	dc.b	$FD
-	dc.b	"animosity and the need for"
+	dc.b	"et du dÇsir de vengeance."
 	dc.b	$FD
-	dc.b	"revenge."
-	dc.b	$FD
-	dc.b	"And once every thousand years,"
+	dc.b	"Et tout les mille ans, losrque"
 	dc.b	$FC
-	dc.b	"when the strength of the seal"
+	dc.b	"la barriäre faiblit, la partie"
 	dc.b	$FD
-	dc.b	"weakens, the most intense part"
+	dc.b	"la plus puissante de l'esprit"
 	dc.b	$FC
-	dc.b	"of the The Profound Darkness'"
+	dc.b	"haineux de La Noirceur Profonde"
 	dc.b	$FD
-	dc.b	"hate-filled spirit is able to"
+	dc.b	"arrive Ö passer la barriäre et"
 	dc.b	$FC
-	dc.b	"break through the portal and"
+	dc.b	"se manifester physiquement dans"
 	dc.b	$FD
-	dc.b	"come to Algo in physical form."
+	dc.b	"le systäme d'Algo."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04
-	dc.b	"So that's what Dark Force was!"
+	dc.b	"Alors c'est áa, Dark Force!"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$00
-	dc.b	"Every time, a courageous person"
+	dc.b	"∑ chaque fois, une personne"
 	dc.b	$FC
-	dc.b	"would defeat Dark Force and"
+	dc.b	"courageuse arrivait Ö vaincre"
 	dc.b	$FD
-	dc.b	"bring about a brief period of"
+	dc.b	"Dark Force et Ö permettre aux"
 	dc.b	$FC
-	dc.b	"peace by expelling it."
+	dc.b	"habitants de vivre en paix"
 	dc.b	$FD
-	dc.b	"But The Profound Darkness is"
-	dc.b	$FC
-	dc.b	"patient, and finally it"
+	dc.b	"pendant un court moment."
 	dc.b	$FD
-	dc.b	"destroyed the planet of Parma"
+	dc.b	"Mais la Noirceur Profonde est"
 	dc.b	$FC
-	dc.b	"in battle."
+	dc.b	"patiente, et elle a finalement"
+	dc.b	$FD
+	dc.b	"rÇussi Ö dÇtruire la planäte"
+	dc.b	$FC
+	dc.b	"Parma suite Ö une bataille."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$06
-	dc.b	"That means part of the seal"
+	dc.b	"Alors, une partie de la"
 	dc.b	$FC
-	dc.b	"is gone!"
+	dc.b	"barriäre n'est plus!"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$00
-	dc.b	"That's right. And now,"
+	dc.b	"C'est exact. Et maintenant,"
 	dc.b	$FC
-	dc.b	"a thousand years later,"
+	dc.b	"mille ans plus tard,"
 	dc.b	$FD
-	dc.b	"The Profound Darkness is trying"
+	dc.b	"La Noirceur Profonde tente"
 	dc.b	$FC
-	dc.b	"to break completely free at"
-	dc.b	$FD
-	dc.b	"last."
+	dc.b	"d'enfin se libÇrer."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"The seal's final moment..."
-	dc.b	$FD
-	dc.b	"Are you saying that it's"
+	dc.b	"Les derniers instants de la"
 	dc.b	$FC
-	dc.b	"happening now?"
+	dc.b	"barriäre..."
+	dc.b	$FD
+	dc.b	"Vous voulez-dire que c'est ce"
+	dc.b	$FC
+	dc.b	"qui se passe en ce moment?"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$00
-	dc.b	"Maybe."
+	dc.b	"Peut-àtre."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$06
-	dc.b	"Maybe?"
+	dc.b	"Peut-àtre?"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$00
-	dc.b	"The Darkness will once again"
+	dc.b	"La Noirceur va une fois encore"
 	dc.b	$FC
-	dc.b	"wield its frightening power,"
+	dc.b	"brandir son pouvoir effroyable,"
 	dc.b	$FD
-	dc.b	"and completely break the seal,"
+	dc.b	"et rÇussir Ö dÇtruire la"
 	dc.b	$FC
-	dc.b	"or..."
+	dc.b	"barriäre, ou..."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Or what?"
+	dc.b	"Ou?"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$00
-	dc.b	"Someone will conquer"
+	dc.b	"Quelqu'un la vaincra et rendra"
 	dc.b	$FC
-	dc.b	"The Darkness and render"
-	dc.b	$FD
-	dc.b	"the seal meaningless."
+	dc.b	"la barriäre inconsÇquente."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Someone like us."
+	dc.b	"Quelqu'un... comme nous."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$00
-	dc.b	"Protectors, listen carefully..."
-	dc.b	$FD
-	dc.b	"If The Darkness escapes,"
+	dc.b	"Protecteurs, Çcoutez-moi"
 	dc.b	$FC
-	dc.b	"the seal, that is, the Algo"
+	dc.b	"attentivement..."
 	dc.b	$FD
-	dc.b	"solar system, will certainly be"
+	dc.b	"Si La Noirceur se libäre, la"
 	dc.b	$FC
-	dc.b	"destroyed."
+	dc.b	"barriäre, donc, le systäme"
 	dc.b	$FD
-	dc.b	"The only way to prevent this is"
+	dc.b	"solaire d'Algo, sera certainment"
 	dc.b	$FC
-	dc.b	"to go to The Darkness, enter its"
+	dc.b	"dÇtruite."
 	dc.b	$FD
-	dc.b	"dimension, and destroy it."
-	dc.b	$FD
-	dc.b	"As long as you have those Rings"
+	dc.b	"Le seul moyen d'Çviter cela est"
 	dc.b	$FC
-	dc.b	"of the Stars, you should be able"
+	dc.b	"de rencontrer La Noirceur dans"
 	dc.b	$FD
-	dc.b	"to withstand the largest part of"
+	dc.b	"sa dimension, et la dÇtruire."
+	dc.b	$FD
+	dc.b	"Avec ces Anneaux StÇllaires,"
 	dc.b	$FC
-	dc.b	"the power of The Darkness."
+	dc.b	"vous pourrez rÇsister Ö la"
 	dc.b	$FD
-	dc.b	"So the time has come."
-	dc.b	$FD
-	dc.b	"Obey the will of The Great Light"
+	dc.b	"majeure partie du pouvoir de"
 	dc.b	$FC
-	dc.b	"and attack The Profound"
+	dc.b	"La Noirceur."
 	dc.b	$FD
-	dc.b	"Darkness."
+	dc.b	"Donc, le moment est venu."
 	dc.b	$FD
-	dc.b	"This is the very mission that"
+	dc.b	"Accomplissez la volontÇ de La"
 	dc.b	$FC
-	dc.b	"you, as Protectors have been"
+	dc.b	"Lumiäre Supräme et faites face"
 	dc.b	$FD
-	dc.b	"born to."
+	dc.b	"Ö La Noirceur Profonde."
+	dc.b	$FD
+	dc.b	"C'est la mission pour laquelle"
+	dc.b	$FC
+	dc.b	"vous, Protecteurs, àtes nÇs."
 	dc.b	$FD
 	dc.b	$F2, $02
 	dc.b	$F4
 	dc.b	$01
 	dc.b	$F2, $00
 	dc.w	$011F
-	dc.b	"Who do you think we are?"
+	dc.b	"Pour qui nous prenez-vous?"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$06
@@ -542,56 +536,56 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"I've been listening patiently"
+	dc.b	"J'ai ÇcoutÇ patiemment, et tout"
 	dc.b	$FC
-	dc.b	"and you keep talking about"
+	dc.b	"ce que vous avez en bouche,"
 	dc.b	$FD
-	dc.b	"this mission!"
+	dc.b	"c'est cette mission!"
 	dc.b	$FD
 	dc.b	$F2, $00
 	dc.w	$0121
-	dc.b	"I'm not going to fight for"
+	dc.b	"Je ne me batterai pas pour une"
 	dc.b	$FC
-	dc.b	"no mission!"
+	dc.b	"stupide mission!"
 	dc.b	$FD
-	dc.b	"And anyway, where is this Great"
+	dc.b	"En plus, oó est cette Lumiäre"
 	dc.b	$FC
-	dc.b	"Light now? What's it doing?"
+	dc.b	"Supräme? Qu'est-ce qu'elle fout?"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$00
-	dc.b	"The Great Light is no longer"
+	dc.b	"La Lumiäre Supräme a quittÇ"
 	dc.b	$FC
-	dc.b	"present in this galaxy."
+	dc.b	"cette galaxie."
 	dc.b	$FD
-	dc.b	"It has gone far away..."
+	dc.b	"Elle est partie au loin..."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"You're telling me,"
+	dc.b	"Donc vous dite, elle charge les"
 	dc.b	$FC
-	dc.b	"he hands down missions and"
+	dc.b	"gens de missions et ensuite elle"
 	dc.b	$FD
-	dc.b	"he goes off somewhere?"
+	dc.b	"fiche le camp?"
 	dc.b	$FD
-	dc.b	"Give me a break!"
+	dc.b	"N'importe quoi!"
 	dc.b	$FD
-	dc.b	"Missions, 'Protectors,'"
+	dc.b	"Missions, 'Protecteurs,'"
 	dc.b	$FC
-	dc.b	"who the heck cares?"
+	dc.b	"qu'est-ce que áa peut faire?"
 	dc.b	$FD
-	dc.b	"It has nothing to do with us!"
+	dc.b	"J'ai rien Ö voir lÖ-dedans!"
 	dc.b	$FD
-	dc.b	"No way am I going to fight"
+	dc.b	"Je ne vais pas me battre pour"
 	dc.b	$FC
-	dc.b	"for someone like that!"
+	dc.b	"une entitÇ aussi irresponsable!"
 	dc.b	$FD
 	dc.b	$F2, $02
 	dc.b	$F2, $00
 	dc.w	$0122
-	dc.b	"I'm going to live by"
+	dc.b	"Je vais vivre pour mes propres"
 	dc.b	$FC
-	dc.b	"my own will!"
+	dc.b	"raisons!"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$06
@@ -603,7 +597,7 @@
 	dc.b	$04
 	dc.b	$F2, $00
 	dc.w	$0124
-	dc.b	"There is no one single truth..."
+	dc.b	"Il y a plus d'un chemin..."
 	dc.b	$FC
 	dc.b	"Chaz!"
 	dc.b	$FD
@@ -611,11 +605,11 @@
 	dc.b	$00
 	dc.b	"Chaz Ashley..."
 	dc.b	$FD
-	dc.b	"You have set foot on Rykros..."
+	dc.b	"Vous qui àtes venus sur Rykros.."
 	dc.b	$FD
-	dc.b	"You must hurry..."
+	dc.b	"Vous devez faire vite..."
 	dc.b	$FD
-	dc.b	"whatever path you choose..."
+	dc.b	"quel que soit votre choix..."
 	dc.b	$FF
 
 ; $C
@@ -623,7 +617,7 @@
 	dc.b	$06
 	dc.b	"Chaz..."
 	dc.b	$FC
-	dc.b	"What are we to do?"
+	dc.b	"Qu'allons-nous faire?"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
@@ -631,7 +625,7 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04
-	dc.b	"What is it, Chaz?"
+	dc.b	"Oui, Chaz?"
 	dc.b	$FD
 	dc.b	$F2, $00
 	dc.w	$0126
@@ -640,45 +634,45 @@
 
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"To tell you the truth..."
+	dc.b	"Pour àtre franc..."
 	dc.b	$FC
-	dc.b	"I don't know what's going on."
+	dc.b	"Je ne sais plus quoi faire."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04
-	dc.b	"Oh, great..."
+	dc.b	"Oh, bravo..."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"When Alys died,"
+	dc.b	"Quand Alys nous a quittÇ,"
 	dc.b	$FC
-	dc.b	"you explained things to me..."
+	dc.b	"tu m'as expliquÇ des choses..."
 	dc.b	$FD
-	dc.b	"and Rika tried to lift my"
+	dc.b	"et Rika a tentÇ de me remonter"
 	dc.b	$FC
-	dc.b	"spirits..."
+	dc.b	"le moral..."
 	dc.b	$FD
-	dc.b	"But in truth,"
+	dc.b	"Mais Ö vrai dire, je n'Çtais"
 	dc.b	$FC
-	dc.b	"I really didn't understand!"
+	dc.b	"toujours pas remis!"
 	dc.b	$FD
-	dc.b	"I could only see that the"
+	dc.b	"Tout ce Ö quoi je pouvais"
 	dc.b	$FC
-	dc.b	"person who'd taught me"
+	dc.b	"penser, c'est que celle qui m'a"
 	dc.b	$FD
-	dc.b	"everything had died."
+	dc.b	"tout enseignÇ etait morte."
 	dc.b	$FD
-	dc.b	"I would have sacrificed"
+	dc.b	"J'aurais tout sacrifiÇ, màme"
 	dc.b	$FC
-	dc.b	"anything, even my life, for the"
+	dc.b	"ma propre vie, pour que l'Éme"
 	dc.b	$FD
-	dc.b	"peaceful repose of Alys' soul."
+	dc.b	"d'Alys repose en paix."
 	dc.b	$FD
-	dc.b	"But gradually, I found out"
+	dc.b	"Mais peu Ö peu, j'ai rÇalisÇ que"
 	dc.b	$FC
-	dc.b	"that there are people who"
+	dc.b	"des gens compte sur moi pour"
 	dc.b	$FD
-	dc.b	"depend on me to fight."
+	dc.b	"me battre."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04
@@ -687,39 +681,43 @@
 	dc.b	$F9
 	dc.b	$3B
 
-	dc.b	"That's all fine, isn't it?"
+	dc.b	"Alors pas de probläme, non?"
 	dc.b	$FC
 	dc.b	"Chaz..."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"But! I can't have the fate of"
+	dc.b	"Mais! Je ne peux pas porter le"
 	dc.b	$FC
-	dc.b	"all Algo rest on my shoulders!"
+	dc.b	"sort d'Algo tout entier sur mes"
 	dc.b	$FD
-	dc.b	"Moreover, this fighting"
+	dc.b	"Çpaules!"
+	dc.b	$FD
+	dc.b	"En plus, cette foutu mission"
 	dc.b	$FC
-	dc.b	"is a mission handed down from"
+	dc.b	"nous a ÇtÇ imposÇe par La"
 	dc.b	$FD
-	dc.b	"The Great Light!"
+	dc.b	"Lumiäre Supräme!"
 	dc.b	$FD
-	dc.b	"If we have to dance to its tune,"
+	dc.b	"Si on accomplit sa volontÇ,"
+	dc.b	$FD
+	dc.b	"sommes-nous si diffÇrents"
 	dc.b	$FC
-	dc.b	"we're no different than Zio!"
+	dc.b	"de Zio?"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04
 	dc.b	"Hmmm..."
 	dc.b	$FD
-	dc.b	"I can't blame you for thinking"
+	dc.b	"Je vois oó tu veux en venir, et"
 	dc.b	$FC
-	dc.b	"that way, but..."
+	dc.b	"je comprends, mais..."
 	dc.b	$FD
-	dc.b	"Chaz, there's someone I want you"
+	dc.b	"Chaz, je veux que tu rencontres"
 	dc.b	$FC
-	dc.b	"to meet."
+	dc.b	"quelqu'un."
 	dc.b	$FD
-	dc.b	"Let's go to the Esper Mansion."
+	dc.b	"Allons au Manoir Esper."
 	dc.b	$FC
-	dc.b	"The answer lies there!"
+	dc.b	"Tu y trouveras tes rÇponses!"
 	dc.b	$FF

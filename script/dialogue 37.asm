@@ -794,9 +794,9 @@
 	dc.b	$FC
 	dc.b	"ou d'où elle se trouve..."
 	dc.b	$FD
-	dc.b	"Quand 'Rykros' reviendra, le"
+	dc.b	"Quand 'Rykros' reviendra,"
 	dc.b	$FC
-	dc.b	"'Aero-Prism' indiquera le chemin"
+	dc.b	"'l'Aero-Prisme' montrera la voie"
 	dc.b	$FD
 	dc.b	"Je ne sais rien hors de ce"
 	dc.b	$FC
@@ -806,13 +806,13 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$06
-	dc.b	"'Aero-Prism!?'"
+	dc.b	"'Aero-Prisme!?'"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04
-	dc.b	"Ah, la lumière du Aero-Prism qui"
+	dc.b	"Ah, la lumière de l'Aero-Prisme"
 	dc.b	$FC
-	dc.b	"mène à l'illumination...!"
+	dc.b	"qui mène à l'illumination...!"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
@@ -830,9 +830,9 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04
-	dc.b	"Le premier Lutz a rangé le"
+	dc.b	"Le premier Lutz a rangé"
 	dc.b	$FC
-	dc.b	"Aero-Prism au Temple des"
+	dc.b	"l'Aero-Prisme au Temple des"
 	dc.b	$FD
 	dc.b	"Soldats!"
 	dc.b	$FD

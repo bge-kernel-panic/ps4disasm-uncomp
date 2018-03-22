@@ -291,7 +291,7 @@
 ; $23
 	dc.b	$F4
 	dc.b	$04, $02
-	dc.b	"Le 'Aero-Prism' devrait pouvoir"
+	dc.b	"'L'Aero-Prisme' devrait pouvoir"
 	dc.b	$FC
 	dc.b	"nous indiquer la direction vers"
 	dc.b	$FD
