@@ -597,7 +597,7 @@
 ; $46
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Je ne voie rien de spécial."
+	dc.b	"Je ne vois rien de spécial."
 	dc.b	$FF
 
 ; $47
