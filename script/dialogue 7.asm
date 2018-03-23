@@ -78,7 +78,7 @@
 	dc.b	$04
 	dc.b	"Eh bien, on dirait que ton"
 	dc.b	$FC
-	dc.b	"cerveau un tantinet."
+	dc.b	"cerveau fonctionne un tantinet."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01

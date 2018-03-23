@@ -227,7 +227,7 @@
 	dc.b	$DA, $02
 	dc.b	$FA
 	dc.b	$0C, $01
-	dc.b	"Le nombre de monstre semblait"
+	dc.b	"Le nombre de monstres semblait"
 	dc.b	$FC
 	dc.b	"diminuer, et soudain, on en"
 	dc.b	$FD
@@ -565,11 +565,11 @@
 	dc.b	$2A, $02
 	dc.b	$FA
 	dc.b	$26, $01
-	dc.b	"2-63 La fille de la porte d'à"
+	dc.b	"La fille de la chambre d'à"
 	dc.b	$FC
 	dc.b	"côté est sous l'emprise d'une"
 	dc.b	$FD
-	dc.b	"religion étrange."
+	dc.b	"étrange religion."
 	dc.b	$FD
 	dc.b	"On ne l'a pas revue depuis un"
 	dc.b	$FC

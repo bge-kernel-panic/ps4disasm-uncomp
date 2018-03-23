@@ -135,7 +135,7 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Quelle endroit intéressant!"
+	dc.b	"Quel endroit intéressant!"
 	dc.b	$FC
 	dc.b	"Pas vrai, Alys?"
 	dc.b	$FD
@@ -685,7 +685,7 @@
 	dc.b	$FC
 	dc.b	"d'entre eux ont sauté dans"
 	dc.b	$FD
-	dc.b	"ce bassin, quelle histoire!"
+	dc.b	"la fontaine, quelle histoire!"
 	dc.b	$FD
 	dc.b	"Ils ne pensent donc qu'à"
 	dc.b	$FC

@@ -41,7 +41,7 @@
 	dc.b	$02, $00
 	dc.b	"Le directeur et Hahn nous ont"
 	dc.b	$FC
-	dc.b	"tout deux demandé d'explorer"
+	dc.b	"tous deux demandé d'explorer"
 	dc.b	$FD
 	dc.b	"le sous-sol."
 	dc.b	$FD
@@ -125,7 +125,7 @@
 	dc.b	$03, $02
 	dc.b	"Molcum...vous voulez parler de"
 	dc.b	$FC
-	dc.b	"ce village Motavien au sude de"
+	dc.b	"ce village Motavien au sud de"
 	dc.b	$FD
 	dc.b	"Zema?"
 	dc.b	$FD

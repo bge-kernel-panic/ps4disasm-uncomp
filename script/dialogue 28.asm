@@ -313,7 +313,7 @@
 	dc.b	$01
 	dc.b	"C'est la cuisine."
 	dc.b	$FC
-	dc.b	"Elle est vraiment malpropre!."
+	dc.b	"Elle est vraiment malpropre!"
 	dc.b	$FF
 
 ; $27
@@ -591,7 +591,7 @@
 	dc.b	$33, $01
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"28-45 Barré de l'intérieur..."
+	dc.b	"C'est barré de l'intérieur..."
 	dc.b	$FF
 
 ; $46
