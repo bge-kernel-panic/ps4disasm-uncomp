@@ -597,7 +597,7 @@
 	dc.b	$05
 	dc.b	"Tenez-la ici...comme ça..."
 	dc.b	$FC
-	dc.b	"à la une one, deux, trois!"
+	dc.b	"à la une, à la deux, à la trois!"
 	dc.b	$F7
 
 	dc.b	$F4

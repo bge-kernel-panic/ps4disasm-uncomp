@@ -285,9 +285,9 @@
 	dc.b	$02
 	dc.b	"Mais quel rapport entre cette"
 	dc.b	$FC
-	dc.b	"vallée et l'épidémie de"
+	dc.b	"vallée et l'actuelle épidémie"
 	dc.b	$FD
-	dc.b	"monstres actuelle?"
+	dc.b	"de monstres?"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$03
@@ -797,7 +797,7 @@
 	dc.b	$FC
 	dc.b	"académie."
 	dc.b	$FD
-	dc.b	"Vous devez êtes Alyz, la"
+	dc.b	"Vous devez êtes Alys, la"
 	dc.b	$FC
 	dc.b	"chasseresse,"
 	dc.b	$FD

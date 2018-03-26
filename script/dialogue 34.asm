@@ -488,9 +488,9 @@
 	dc.b	"fruit de mille ans de recherches"
 	dc.b	$FD
 	dc.b	"fait ses premiers pas à"
-	dc.b	$FD
-	dc.b	"l'extérieur, il n'y a plus"
 	dc.b	$FC
+	dc.b	"l'extérieur, il n'y a plus"
+	dc.b	$FD
 	dc.b	"d'empêchements à sa réalisation."
 	dc.b	$FF
 

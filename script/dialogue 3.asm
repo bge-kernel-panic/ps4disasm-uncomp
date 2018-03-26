@@ -769,9 +769,9 @@
 	dc.b	$FC
 	dc.b	"une rose, alors pas de souçi!"
 	dc.b	$FD
-	dc.b	"Parfait. Recommençons notre"
+	dc.b	"Parfait. Recommençons nos"
 	dc.b	$FC
-	dc.b	"recherche tout de suite."
+	dc.b	"recherches tout de suite."
 	dc.b	$FD
 	dc.b	"Hahn!"
 	dc.b	$FD
@@ -927,13 +927,13 @@
 	dc.w	$002C
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"3-69 Hum...On s'en tire comment,"
+	dc.b	"Alors, comment c'était cette"
 	dc.b	$FC
-	dc.b	"Alys?"
+	dc.b	"fois-ci, Alys?"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$02
-	dc.b	"C'est mieux maintenant."
+	dc.b	"Il y a une amélioration."
 	dc.b	$FD
 	dc.b	$F2, $00
 	dc.w	$002D
