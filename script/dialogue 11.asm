@@ -35,7 +35,7 @@
 	dc.b	$FF
 
 ; $2
-	dc.b	"11-2 Je suis venu de Zema pour"
+	dc.b	"Je suis venu de Zema pour"
 	dc.b	$FC
 	dc.b	"vendre mes marchandises, mais..."
 	dc.b	$FD
@@ -154,7 +154,7 @@
 	dc.b	$FC
 	dc.b	"des Chasseurs. C'est une grande"
 	dc.b	$FD
-	dc.b	"n'est-ce pas?"
+	dc.b	"ville, n'est-ce pas?"
 	dc.b	$FF
 
 ; $A
@@ -275,7 +275,7 @@
 	dc.b	$06
 	dc.b	"Chaz, je crois qu'il vaudrait"
 	dc.b	$FC
-	dc.b	"mieux s'enlever de ses jambes"
+	dc.b	"mieux la laisser seule"
 	dc.b	$FD
 	dc.b	"pendant qu'elle se recueille"
 	dc.b	$FC
@@ -662,7 +662,7 @@
 	dc.b	$FC
 	dc.b	"facile."
 	dc.b	$FD
-	dc.b	"C'est tellement ennuyeux!"
+	dc.b	"C'est tellement ennuyant!"
 	dc.b	$FF
 
 ; $4E

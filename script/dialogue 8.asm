@@ -388,12 +388,12 @@
 	dc.b	$06
 	dc.b	"Je sais ce que c'est."
 	dc.b	$FC
-	dc.b	"Écarte-toi, Chaz!"
+	dc.b	"Laissez-moi faire, Chaz!"
 	dc.b	$F7
 
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Wow, tu m'impressionne."
+	dc.b	"Wow, je suis impressionné."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$06
@@ -434,7 +434,7 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$06
-	dc.b	"Ah, tu es au courant?"
+	dc.b	"Ah, vous êtes au courant?"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
@@ -495,9 +495,9 @@
 	dc.b	$F4
 	dc.b	$06
 	dc.b	"D'après le plan de vol..."
-	dc.b	$FC
-	dc.b	"l'orbite a décliné graduellement"
 	dc.b	$FD
+	dc.b	"l'orbite a décliné graduellement"
+	dc.b	$FC
 	dc.b	"durant ces derniers mille ans..."
 	dc.b	$FD
 	dc.b	"et le vaisseau s'est écrasé ici!"

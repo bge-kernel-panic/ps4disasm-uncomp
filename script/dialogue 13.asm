@@ -983,7 +983,7 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$06
-	dc.b	"Vraiment? Fais voir!"
+	dc.b	"Vraiment? Faites voir!"
 	dc.b	$FD
 	dc.b	"Euh..."
 	dc.b	$FD

@@ -707,7 +707,7 @@
 	dc.b	$06
 	dc.b	"Ha, ha, ha!"
 	dc.b	$FC
-	dc.b	"Quel mauviette!"
+	dc.b	"Quelle mauviette!"
 	dc.b	$F7
 
 	dc.b	$F4

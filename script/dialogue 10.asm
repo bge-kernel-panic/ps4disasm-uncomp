@@ -74,7 +74,7 @@
 	dc.b	$FF
 
 ; $15
-	dc.b	"10-15 J'ai entendu dire que la"
+	dc.b	"J'ai entendu dire que la"
 	dc.b	$FC
 	dc.b	"ville de Nalya a des problèmes."
 	dc.b	$FD
@@ -341,13 +341,13 @@
 	dc.b	$FF
 
 ; $2A
-	dc.b	"10-2A Hum!"
+	dc.b	"Hum!"
 	dc.b	$FD
 	dc.b	"Il n'y a personne pour me"
 	dc.b	$FC
 	dc.b	"parler même si je toussote."
 	dc.b	$FD
-	dc.b	"Je suis tellement seul..."
+	dc.b	"Je me sens tellement seul..."
 	dc.b	$FF
 
 ; $2B
@@ -518,7 +518,7 @@
 	dc.b	$FC
 	dc.b	"toujours actifs."
 	dc.b	$FD
-	dc.b	"Ça paraît à voir le peu de"
+	dc.b	"Ça paraît, à voir le peu de"
 	dc.b	$FC
 	dc.b	"clients qui se présentent!"
 	dc.b	$FF
@@ -569,13 +569,13 @@
 	dc.b	$FF
 
 ; $3E
-	dc.b	"10-3E Aller, plus vite!"
+	dc.b	"Allez, plus vite! Ne fait pas"
 	dc.b	$FC
-	dc.b	"En silence! Discrètement!"
+	dc.b	"de bruit! Sois discrète!"
 	dc.b	$FD
 	dc.b	"Hé, minute, soeurette!"
 	dc.b	$FC
-	dc.b	"Ne me laisse pas seul! Ouiiin!"
+	dc.b	"Ne me laisse pas seule! Ouiiin!"
 	dc.b	$FD
 	dc.b	"Quel était ce bruit? Oh!"
 	dc.b	$FD
@@ -587,9 +587,9 @@
 	dc.b	$FD
 	dc.b	"Ouiin. Pardonnez-nous."
 	dc.b	$FD
-	dc.b	"Jamais de la vie, gredins!"
+	dc.b	"Jamais de la vie, scélérates!"
 	dc.b	$FC
-	dc.b	"Petits garnements!"
+	dc.b	"Petites voleuses!"
 	dc.b	$FD
 	dc.b	"Emmenez-les!"
 	dc.b	$FD

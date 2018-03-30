@@ -643,7 +643,7 @@
 	dc.b	$FC
 	dc.b	"les choses auquelles Alys"
 	dc.b	$FD
-	dc.b	"tenait le plus... 29-9C"
+	dc.b	"tient beaucoup..."
 	dc.b	$FF
 
 ; $9D

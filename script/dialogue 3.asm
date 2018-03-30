@@ -811,7 +811,7 @@
 	dc.b	$03
 	dc.b	"Je suis profondément désolé..."
 	dc.b	$FC
-	dc.b	"il n'a emis aucun remerciement."
+	dc.b	"il ne vous a même pas remerciés."
 	dc.b	$FD
 	dc.b	"Enfin, il est comme il est."
 	dc.b	$FD
@@ -949,7 +949,7 @@
 	dc.w	$002E
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"...Une malédiction...Qui a-t-il"
+	dc.b	"...Une malédiction...Qu'y a-t-il"
 	dc.b	$FC
 	dc.b	"à l'intérieur"
 	dc.b	$FD

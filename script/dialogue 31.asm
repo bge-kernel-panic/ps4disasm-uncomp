@@ -245,15 +245,15 @@
 	dc.b	$FC
 	dc.b	"mettre hors service ce système"
 	dc.b	$FD
-	dc.b	"hors de contrôle...pour honorer"
+	dc.b	"hors de contrôle... et aussi,"
 	dc.b	$FC
-	dc.b	"la mémoire de Seed, également!"
+	dc.b	"en mémoire de Seed!"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01, $00
 	dc.b	"D'abord, nous devons libérer"
 	dc.b	$FC
-	dc.b	"cet androïde appelé Demi."
+	dc.b	"cette androïde appelée Demi."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$05, $02

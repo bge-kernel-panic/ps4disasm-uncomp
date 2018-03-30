@@ -120,11 +120,11 @@
 	dc.b	$FC
 	dc.b	"au nord?"
 	dc.b	$FD
-	dc.b	"Alors, vous devez avoir passé"
+	dc.b	"Alors, en passant, vous devez"
 	dc.b	$FC
-	dc.b	"par le village rasé par le feu"
+	dc.b	"avoir vu ce village réduit"
 	dc.b	$FD
-	dc.b	"sur votre chemin?"
+	dc.b	"en cendres?"
 	dc.b	$FD
 	dc.b	"On dit que c'est à cause de"
 	dc.b	$FC
@@ -517,7 +517,7 @@
 ; $41
 	dc.b	"Oh?"
 	dc.b	$FC
-	dc.b	"Un si jeune homme pour client?"
+	dc.b	"Un si jeune homme comme client?"
 	dc.b	$FD
 	dc.b	"Comme c'est adorable."
 	dc.b	$FD
@@ -732,7 +732,7 @@
 	dc.b	$FA
 	dc.b	$65, $01
 	dc.b	$F3
-	dc.b	"9-57 Pourquoi ne quittons-nous"
+	dc.b	"Pourquoi ne quittons-nous"
 	dc.b	$FC
 	dc.b	"pas cette ville?"
 	dc.b	$FF

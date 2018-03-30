@@ -981,13 +981,13 @@
 ; $71
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"28-71 On dirait des trucs de"
+	dc.b	"On dirait des conseils de"
 	dc.b	$FC
 	dc.b	"bonne qualité."
 	dc.b	$FD
 	dc.b	"Il est un marchand de"
 	dc.b	$FC
-	dc.b	"renseignements, après tout!"
+	dc.b	"d'information, après tout!"
 	dc.b	$FF
 
 ; $72

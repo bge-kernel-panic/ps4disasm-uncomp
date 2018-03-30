@@ -422,7 +422,7 @@
 	dc.b	$42, $01
 	dc.b	$FA
 	dc.b	$14, $2B
-	dc.b	"Nous avons plein de problème"
+	dc.b	"Nous avons plein de problèmes"
 	dc.b	$FC
 	dc.b	"depuis que l'équipe de recherche"
 	dc.b	$FD
@@ -744,7 +744,7 @@
 	dc.b	$65, $01
 	dc.b	$FA
 	dc.b	$14, $0A
-	dc.b	"Je suis heureux que tout soit"
+	dc.b	"Je suis heureuse que tout soit"
 	dc.b	$FC
 	dc.b	"rentré dans l'ordre,"
 	dc.b	$FD
@@ -754,7 +754,7 @@
 	dc.b	$FD
 	dc.b	"Nous devons défendre ce village"
 	dc.b	$FC
-	dc.b	"et proteger ces enfants..."
+	dc.b	"et protéger ces enfants..."
 	dc.b	$FF
 
 ; $5C

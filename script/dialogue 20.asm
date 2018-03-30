@@ -355,7 +355,7 @@
 	dc.b	$06
 	dc.b	"Donc...vous dites que cette"
 	dc.b	$FC
-	dc.b	"Boule est en fait, Lutz?"
+	dc.b	"Boule est, en fait, Lutz?"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04

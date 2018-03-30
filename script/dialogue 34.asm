@@ -213,9 +213,11 @@
 	dc.b	$FC
 	dc.b	"Le système est hors de mon"
 	dc.b	$FD
-	dc.b	"contrôle. Il fait sans cesse"
+	dc.b	"contrôle. Continuellement, il"
 	dc.b	$FC
-	dc.b	"éclore de dangereux monstres."
+	dc.b	"donne naissance à de dangereux"
+	dc.b	$FD
+	dc.b	"monstres."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$03
@@ -364,9 +366,9 @@
 	dc.b	$F4
 	dc.b	$02
 	dc.b	"Bon, ce n'est pas la porte d'à"
-	dc.b	$FD
-	dc.b	"côté, mais après avoir entendu"
 	dc.b	$FC
+	dc.b	"côté, mais après avoir entendu"
+	dc.b	$FD
 	dc.b	"tout ça, on a pas le choix."
 	dc.b	$FD
 	dc.b	"Hé hé, ça fait un bon moment"
