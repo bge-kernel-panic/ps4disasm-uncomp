@@ -523,7 +523,7 @@
 	dc.b	$94, $02
 	dc.b	"Les moyens de transports hors"
 	dc.b	$FC
-	dc.b	"de la ville ne sont pas fiable"
+	dc.b	"de la ville ne sont pas fiables"
 	dc.b	$FD
 	dc.b	"à cause de toute cette neige."
 	dc.b	$FD
@@ -553,7 +553,7 @@
 ; $21
 	dc.b	"Les moyens de transports hors"
 	dc.b	$FC
-	dc.b	"de la ville ne sont pas fiable"
+	dc.b	"de la ville ne sont pas fiables"
 	dc.b	$FD
 	dc.b	"à cause de toute cette neige."
 	dc.b	$FD
@@ -585,7 +585,7 @@
 ; $22
 	dc.b	"Les moyens de transports hors"
 	dc.b	$FC
-	dc.b	"de la ville ne sont pas fiable"
+	dc.b	"de la ville ne sont pas fiables"
 	dc.b	$FD
 	dc.b	"à cause de toute cette neige."
 	dc.b	$FD

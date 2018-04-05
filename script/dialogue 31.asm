@@ -583,7 +583,7 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$09, $01
-	dc.b	"Je me tues à vous le dire,"
+	dc.b	"Je me tue à vous le dire,"
 	dc.b	$FD
 	dc.b	"le problème vient de la Tour"
 	dc.b	$FC

@@ -582,13 +582,13 @@
 	dc.b	$FF
 
 ; $47
-	dc.b	"11-47 Merci encore."
+	dc.b	"Merci encore."
 	dc.b	$FF
 
 ; $48
 	dc.b	"Merci encore pour votre aide"
 	dc.b	$FC
-	dc.b	"l'autre fois."
+	dc.b	"l'autre jour."
 	dc.b	$FF
 
 ; $49
@@ -824,8 +824,6 @@
 	dc.b	$FF
 
 ; $5E
-	dc.b	"11-5E"
-	dc.b	$FD
 	dc.b	"Pardon? Vous êtes un Chasseur"
 	dc.b	$FC
 	dc.b	"de la Guilde!?"
@@ -834,7 +832,7 @@
 	dc.b	$FC
 	dc.b	"non, non -- je suis très"
 	dc.b	$FD
-	dc.b	"reconnaisante!"
+	dc.b	"reconnaisant!"
 	dc.b	$FD
 	dc.b	"Pour résumer, Rocky, le chien de"
 	dc.b	$FC

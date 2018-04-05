@@ -444,7 +444,7 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$09
-	dc.b	"Euh, vous... 35-4"
+	dc.b	"Euh, vous..."
 	dc.b	$FF
 
 ; $5

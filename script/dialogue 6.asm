@@ -448,7 +448,7 @@
 
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Pouvez-vous rester ici, Hahn?"
+	dc.b	"Peux-tu rester ici, Hahn?"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$03
@@ -456,13 +456,13 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Il vaudrait mieux que vous"
+	dc.b	"Il vaudrait mieux que tu"
 	dc.b	$FC
-	dc.b	"restiez ici pour veiller sur"
+	dc.b	"restes ici pour veiller sur"
 	dc.b	$FD
 	dc.b	"Alys."
-	dc.b	$FC
-	dc.b	"En plus, vous avez une jolie"
+	dc.b	$FD
+	dc.b	"En plus, tu as une jolie"
 	dc.b	$FC
 	dc.b	"fiancée qui habite ici!"
 	dc.b	$FD
@@ -494,7 +494,7 @@
 	dc.b	$FD
 	dc.b	"La maladie d'Alys vient"
 	dc.b	$FC
-	dc.b	"d'emprier soudainement!"
+	dc.b	"soudainement d'empirer!"
 	dc.b	$F7
 
 	dc.b	$F4
@@ -623,7 +623,7 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Que...faire maintenant"
+	dc.b	"Que...dois-je faire, maintenant?"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04
@@ -675,7 +675,8 @@
 	dc.b	$FC
 	dc.b	"armes est la seule chose qu'elle"
 	dc.b	$FD
-	dc.b	"t'a appris?"
+	dc.b	"t'a apprise?"
+	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
 	dc.b	"Je..."
@@ -695,7 +696,7 @@
 	dc.b	$FD
 	dc.b	"c'est vraiment bien que j'aie"
 	dc.b	$FC
-	dc.b	"pu partir de la Bio-usine."
+	dc.b	"pu partir du Bio-laboratoire."
 	dc.b	$FD
 	dc.b	"J'ai tellement appris de Seed."
 	dc.b	$FD
@@ -769,9 +770,7 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Bien. Je compte sur vous,"
-	dc.b	$FC
-	dc.b	"Hahn!"
+	dc.b	"Bien. Je compte sur toi, Hahn!"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$0C

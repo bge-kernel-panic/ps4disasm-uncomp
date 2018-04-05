@@ -446,7 +446,7 @@
 
 ; $31
 	dc.b	$F4
-	dc.b	$02
+	dc.b	$01
 	dc.b	"Ouf, finalement, chez nous!"
 	dc.b	$FD
 	dc.b	"Devrions-nous relaxer pour le"

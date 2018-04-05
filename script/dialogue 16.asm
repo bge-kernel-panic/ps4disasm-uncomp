@@ -157,7 +157,7 @@
 	dc.b	$FD
 	dc.b	"travail, mais il a un accent"
 	dc.b	$FC
-	dc.b	"terriblement ringard!"
+	dc.b	"bizarre!"
 	dc.b	$FF
 
 ; $2C
@@ -599,5 +599,5 @@
 	dc.b	$FF
 
 ; $3E
-	dc.b	"16-3E Merci bien."
+	dc.b	"OK, d'abord!"
 	dc.b	$FF

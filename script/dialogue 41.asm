@@ -136,7 +136,7 @@
 	dc.b	$23
 	dc.b	"Tiens, tiens... 'Protecteur,'"
 	dc.b	$FC
-	dc.b	"tu dis? Quel mauviette!"
+	dc.b	"tu dis? Quelle mauviette!"
 	dc.b	$FD
 	dc.b	"Tu pleure alors que tu sais que"
 	dc.b	$FC

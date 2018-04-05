@@ -577,7 +577,7 @@
 	dc.b	$FF
 
 ; $64
-	dc.b	"2-64 La fille de la porte d'à"
+	dc.b	"La fille de la chambre d'à"
 	dc.b	$FC
 	dc.b	"côté n'est toujours pas revenue."
 	dc.b	$FD
@@ -587,7 +587,7 @@
 	dc.b	$FF
 
 ; $65
-	dc.b	"2-65 La fille de la porte d'à"
+	dc.b	"La fille de la chambre d'à"
 	dc.b	$FC
 	dc.b	"côté est revenue!"
 	dc.b	$FD
@@ -597,7 +597,7 @@
 	dc.b	$FD
 	dc.b	"arrivée là-bas..."
 	dc.b	$FC
-	dc.b	"Je suis très inquiet."
+	dc.b	"Je suis très inquiet pour elle."
 	dc.b	$FF
 
 ; $66

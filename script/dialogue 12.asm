@@ -33,9 +33,9 @@
 	dc.b	$FF
 
 ; $3
-	dc.b	"Ah, this town of Monsen has"
+	dc.b	"Ah, la ville de Monsen est"
 	dc.b	$FC
-	dc.b	"become a peaceful town."
+	dc.b	"devenue si paisible."
 	dc.b	$FF
 
 ; $4
@@ -128,11 +128,11 @@
 	dc.b	$FF
 
 ; $B
-	dc.b	"12-B Ouais, fantastique,"
+	dc.b	"Ouais, fantastique,"
 	dc.b	$FD
 	dc.b	"vous allez vous occuper de ces"
 	dc.b	$FC
-	dc.b	"tremblements de terre? Bien."
+	dc.b	"tremblements de terre? Super!"
 	dc.b	$FF
 
 ; $C
@@ -200,17 +200,17 @@
 	dc.b	$65, $01
 	dc.b	$FA
 	dc.b	$61, $01
-	dc.b	"12-11 Ah, vous avez vu la maison"
+	dc.b	"Ah, vous avez vu la maison"
 	dc.b	$FC
 	dc.b	"voisine?"
 	dc.b	$FD
-	dc.b	"Je suis terrifié chaque fois"
+	dc.b	"Je suis terrifiée chaque fois"
 	dc.b	$FC
 	dc.b	"que la terre tremble."
 	dc.b	$FD
-	dc.b	"Si jamais ma maison finit comme"
+	dc.b	"Si jamais ma maison finissait"
 	dc.b	$FC
-	dc.b	"l'autre!"
+	dc.b	"comme l'autre!"
 	dc.b	$FF
 
 ; $12
@@ -232,7 +232,7 @@
 	dc.b	$FF
 
 ; $14
-	dc.b	"11-14 Juste entre nous..."
+	dc.b	"Juste entre vous et moi..."
 	dc.b	$FD
 	dc.b	"Ma bru, elle est totalement"
 	dc.b	$FC
@@ -364,7 +364,7 @@
 ; $20
 	dc.b	"Merci pour votre aide. Depuis"
 	dc.b	$FC
-	dc.b	"cet insident, je garde mon fils"
+	dc.b	"cet incident, je garde mon fils"
 	dc.b	$FD
 	dc.b	"à mes côtés."
 	dc.b	$FD
@@ -451,7 +451,7 @@
 	dc.b	$F4
 	dc.b	$25
 	dc.b	"Baille...Hein? Où suis-je? C'est"
-	dc.b	$FD
+	dc.b	$FC
 	dc.b	"de l'autre côté de la planète?"
 	dc.b	$FD
 	dc.b	$F4

@@ -641,7 +641,7 @@
 	dc.b	$01
 	dc.b	"C'est une armoire qui contient"
 	dc.b	$FC
-	dc.b	"les choses auquelles Alys"
+	dc.b	"les choses auxquelles Alys"
 	dc.b	$FD
 	dc.b	"tient beaucoup..."
 	dc.b	$FF

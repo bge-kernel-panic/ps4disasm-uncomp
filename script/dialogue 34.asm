@@ -73,7 +73,7 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$06
-	dc.b	"Ceci est le Bio-labo."
+	dc.b	"Ceci est le Bio-laboratoire."
 	dc.b	$FD
 	dc.b	"C'est un centre de recherche"
 	dc.b	$FC
@@ -687,7 +687,7 @@
 	dc.b	"sous scellé au sommet de la"
 	dc.b	$FD
 	dc.b	"Tour Ladea. Je n'ai pas encore"
-	dc.b	$FD
+	dc.b	$FC
 	dc.b	"réussi à l'obtenir."
 	dc.b	$FD
 	dc.b	"C'est là que j'allais me"
@@ -876,7 +876,7 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$05
-	dc.b	"Tout d'abort, il faut trouver"
+	dc.b	"Tout d'abord, il faut trouver"
 	dc.b	$FC
 	dc.b	"comment vaincre Zio et éteindre"
 	dc.b	$FD

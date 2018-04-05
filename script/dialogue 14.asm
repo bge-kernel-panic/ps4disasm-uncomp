@@ -104,6 +104,7 @@
 	dc.b	"que c'est à cause de la Tour"
 	dc.b	$FD
 	dc.b	"Garuberk!"
+	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
 	dc.b	"La Tour Garuberk?"
@@ -437,7 +438,7 @@
 	dc.b	$FD
 	dc.b	"de nous fier à cette information"
 	dc.b	$FC
-	dc.b	"et aller la vérifier en personne."
+	dc.b	"et aller vérifier en personne."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$06

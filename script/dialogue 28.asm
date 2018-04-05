@@ -463,7 +463,7 @@
 	dc.b	$06
 	dc.b	"C'est un écoulement venant du"
 	dc.b	$FC
-	dc.b	"bio-laboratoire."
+	dc.b	"Bio-laboratoire."
 	dc.b	$FF
 
 ; $39

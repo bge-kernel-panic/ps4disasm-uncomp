@@ -539,6 +539,7 @@
 	dc.b	"des lieux était absent, petits"
 	dc.b	$FD
 	dc.b	"escrocs?"
+	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
 	dc.b	"Regarde-toi dans le miroir au"

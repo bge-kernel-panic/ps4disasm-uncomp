@@ -499,19 +499,19 @@
 	dc.b	$FF
 
 ; $40
-	dc.b	"9-40 Zio sera vaincu!"
+	dc.b	"Zio est vaincu!"
 	dc.b	$FC
 	dc.b	"Une fois cela annoncé, tout le"
 	dc.b	$FD
 	dc.b	"monde a fui."
 	dc.b	$FD
-	dc.b	"Sans payer, toujours, mais je"
+	dc.b	"Sans payer, bien sûr, mais je"
 	dc.b	$FC
 	dc.b	"suis soulagé."
 	dc.b	$FD
-	dc.b	"Il reste une personne que"
+	dc.b	"Par contre, il reste une"
 	dc.b	$FC
-	dc.b	"j'admire, par contre."
+	dc.b	"personne que j'admire."
 	dc.b	$FF
 
 ; $41

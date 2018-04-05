@@ -402,7 +402,7 @@
 	dc.b	$FC
 	dc.b	"venant de la maison de"
 	dc.b	$FD
-	dc.b	"Tinkerbell."
+	dc.b	"Clochette."
 	dc.b	$FD
 	dc.b	"'Notre chien 'Rocky' a disparu."
 	dc.b	$FC
@@ -429,13 +429,13 @@
 ; $1B
 	dc.b	"Alors, veuillez vous rendre"
 	dc.b	$FD
-	dc.b	"à la maison de Tinkerbell pour"
+	dc.b	"à la maison de Clochette pour"
 	dc.b	$FC
 	dc.b	"obtenir tous les détails du"
 	dc.b	$FD
 	dc.b	"propriétaire."
 	dc.b	$FD
-	dc.b	"La maison de Tinkerbell est"
+	dc.b	"La maison de Clochette est"
 	dc.b	$FC
 	dc.b	"dans le quartier est d'Aiedo."
 	dc.b	$FF
@@ -463,7 +463,7 @@
 	dc.b	$FC
 	dc.b	"mission de la maison de"
 	dc.b	$FD
-	dc.b	"Tinkerbell."
+	dc.b	"Clochette."
 	dc.b	$FD
 	dc.b	"Revenez quand vous aurez"
 	dc.b	$FC

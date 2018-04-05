@@ -309,7 +309,7 @@
 	dc.b	$FD
 	dc.b	"On s'ennuie quand elle n'est"
 	dc.b	$FC
-	dc.b	"là..."
+	dc.b	"pas là..."
 	dc.b	$FF
 
 ; $13
@@ -337,7 +337,7 @@
 	dc.b	$FD
 	dc.b	"On s'ennuie quand elle n'est"
 	dc.b	$FC
-	dc.b	"là..."
+	dc.b	"pas là..."
 	dc.b	$FF
 
 ; $16
@@ -375,7 +375,7 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Ah."
+	dc.b	"Vraiment."
 	dc.b	$FF
 
 ; $19
@@ -585,7 +585,7 @@
 	dc.b	$FC
 	dc.b	"maladie étrange?!"
 	dc.b	$FD
-	dc.b	"Je n'ai jamais vu quelqu'unI've never seen anyone seem to"
+	dc.b	"Je n'ai jamais vu quelqu'un"
 	dc.b	$FC
 	dc.b	"se tordre de douleur comme ça."
 	dc.b	$FD
