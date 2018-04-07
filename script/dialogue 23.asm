@@ -33,7 +33,7 @@
 	dc.b	$FC
 	dc.b	"ment brutale par ici."
 	dc.b	$FD
-	dc.b	"Je les comprends"
+	dc.b	"Je les comprends."
 	dc.b	$FF
 
 ; $3
@@ -67,7 +67,7 @@
 	dc.b	$FD
 	dc.b	"En fait, il a une bande à"
 	dc.b	$FC
-	dc.b	"l'intérieur, comme ça il ne"
+	dc.b	"l'intérieur, comme ça, il ne"
 	dc.b	$FD
 	dc.b	"s'envole pas."
 	dc.b	$FF
@@ -427,16 +427,16 @@
 	dc.b	$FA
 	dc.b	$A1, $01
 	dc.b	$F3
-	dc.b	"Calmez vous!"
+	dc.b	"Calme toi!"
 	dc.b	$FC
-	dc.b	"Vous êtes trop colériques!"
+	dc.b	"Tu es trop colérique!"
 	dc.b	$FF
 
 ; $26
 	dc.b	$F3
-	dc.b	"Calmez vous!"
+	dc.b	"Calme toi!"
 	dc.b	$FC
-	dc.b	"Vous êtes trop colériques!"
+	dc.b	"Tu es trop colérique!"
 	dc.b	$FD
 	dc.b	"Les gens à l'humeur changeante"
 	dc.b	$FC

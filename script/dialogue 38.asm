@@ -205,7 +205,7 @@
 	dc.b	$FD
 	dc.b	"Mais la lumière du Flambeau de"
 	dc.b	$FC
-	dc.b	"l'Éclipse m'a guéri en quelques"
+	dc.b	"l'Éclipse m'a guérie en quelques"
 	dc.b	$FD
 	dc.b	"instants! C'est vraiment une"
 	dc.b	$FC
@@ -245,7 +245,7 @@
 	dc.b	$9B, $02
 	dc.b	$FA
 	dc.b	$98, $01
-	dc.b	"Je suis si heureux. 38-18"
+	dc.b	"Je suis si heureux."
 	dc.b	$FD
 	dc.b	"C'est si merveilleux de pouvoir"
 	dc.b	$FC
@@ -363,9 +363,9 @@
 	dc.b	$1A
 	dc.b	"Bienvenue à vous!"
 	dc.b	$FD
-	dc.b	"Tous les visteurs sont le"
+	dc.b	"Tous les visteurs sont les"
 	dc.b	$FC
-	dc.b	"bienvenue au temple."
+	dc.b	"bienvenues au temple."
 	dc.b	$FF
 
 ; $25

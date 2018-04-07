@@ -241,7 +241,7 @@
 	dc.b	$FC
 	dc.b	"fièvre et meurent en un mois."
 	dc.b	$FD
-	dc.b	"En plus, les morts resuscitent,"
+	dc.b	"En plus, les morts ressuscitent,"
 	dc.b	$FC
 	dc.b	"mais deviennent des zombis!"
 	dc.b	$FD
@@ -353,7 +353,7 @@
 ; $23
 	dc.b	"Vous avez vu le cimetière?"
 	dc.b	$FD
-	dc.b	"C'est vraimetn dommage, mais"
+	dc.b	"C'est vraiment horrible, mais"
 	dc.b	$FC
 	dc.b	"nous avons dû brûler et enterrer"
 	dc.b	$FD

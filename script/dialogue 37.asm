@@ -212,7 +212,7 @@
 	dc.w	$009D
 	dc.b	"Lutz..."
 	dc.b	$FD
-	dc.b	"Il y a environ deux mill ans..."
+	dc.b	"Il y a environ deux mille ans..."
 	dc.b	$FD
 	dc.b	"Accompagné d'une héroïne appelée"
 	dc.b	$FC

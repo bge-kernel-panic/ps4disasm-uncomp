@@ -512,7 +512,7 @@
 	dc.b	$FC
 	dc.b	"missions résolues:"
 	dc.b	$FD
-	dc.b	"1ère place: Alys Brangwin...'"
+	dc.b	"1ère place, Alys Brangwin...'"
 	dc.b	$FF
 
 ; $8F

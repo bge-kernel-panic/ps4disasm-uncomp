@@ -535,7 +535,7 @@
 	dc.b	$01
 	dc.b	"Ce sont des assiettes."
 	dc.b	$FD
-	dc.b	"Elles sont étonamment semblables"
+	dc.b	"Elles sont étonnamment semblables"
 	dc.b	$FD
 	dc.b	"aux assiettes Parmaniennes."
 	dc.b	$FF
@@ -799,9 +799,9 @@
 	dc.b	$01
 	dc.b	"Il y a un écriteau sur la porte."
 	dc.b	$FD
-	dc.b	"Hmmm... 'Vu la situations,"
+	dc.b	"Hmmm... 'Étant donné les circon-"
 	dc.b	$FC
-	dc.b	"nous sommes fermés'"
+	dc.b	"stances, nous sommes fermés.'"
 	dc.b	$FF
 
 ; $52

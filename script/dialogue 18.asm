@@ -316,9 +316,9 @@
 	dc.b	$95, $02
 	dc.b	$FA
 	dc.b	$94, $01
-	dc.b	"18-3E Si seulement nous pouvions"
+	dc.b	"Si seulement nous pouvions"
 	dc.b	$FC
-	dc.b	"apporter un peu d'aide..."
+	dc.b	"faire quelque chose..."
 	dc.b	$FF
 
 ; $3F
@@ -451,7 +451,7 @@
 	dc.b	$A1, $02
 	dc.b	$FA
 	dc.b	$94, $01
-	dc.b	"Nous sommes prochains de garde."
+	dc.b	"Nous sommes prochaines de garde."
 	dc.b	$FF
 
 ; $4F
@@ -728,7 +728,7 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Hein? Que voulez-vous dire"
+	dc.b	"Hein? Que voulez-vous dire?"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04
@@ -792,6 +792,7 @@
 	dc.b	"laisser y aller seule! Où est"
 	dc.b	$FD
 	dc.b	"cette forêt?"
+	dc.b	$FD
 	dc.b	$F4
 	dc.b	$17
 	dc.b	"Au nord-est de la ville!"
