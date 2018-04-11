@@ -742,7 +742,8 @@
 	dc.b	$FD
 	dc.b	"débarrée, vous pouvez aller les"
 	dc.b	$FC
-	dc.b	"chercher."
+	dc.b	"chercher!"						 ; IMPORTANT NOTE! This must end with "!" and the negative with "." or
+											 ; the check to see which option is taken won't work!!!!
 	dc.b	$FF
 
 ; $54

@@ -599,5 +599,5 @@
 	dc.b	$FF
 
 ; $3E
-	dc.b	"OK, d'abord!"
+	dc.b	"OK, d'abord."
 	dc.b	$FF
