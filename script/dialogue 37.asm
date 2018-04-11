@@ -598,7 +598,7 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$06
-	dc.b	"Dans les cieux de Param!"
+	dc.b	"Dans les cieux de Parma!"
 	dc.b	$FD
 	dc.b	"Alors, il a dû être détruit"
 	dc.b	$FC
@@ -612,7 +612,7 @@
 	dc.b	$FD
 	dc.b	"une ceinture d'astéroïde qui"
 	dc.b	$FC
-	dc.b	"ceinture sont ancien orbite."
+	dc.b	"occupe sont ancien orbite."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04
@@ -628,7 +628,7 @@
 	dc.b	$08
 	dc.b	"La probabilité d'une telle"
 	dc.b	$FC
-	dc.b	"situation est très basse."
+	dc.b	"situation est très faible."
 	dc.b	$FD
 	dc.b	"En tout état de cause, je vais"
 	dc.b	$FC

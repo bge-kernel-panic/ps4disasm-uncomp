@@ -211,7 +211,7 @@
 	dc.b	$01
 	dc.b	"Oups!"
 	dc.b	$FC
-	dc.b	"Aliment-pingouin fut subtilisé!"
+	dc.b	"Aliment-pingouin subtilisé!"
 	dc.b	$FF
 
 ; $11
@@ -461,9 +461,9 @@
 	dc.b	$FF
 
 ; $2A
-	dc.b	"17-2A La beauté de la crête de"
+	dc.b	"La beauté de la crête de"
 	dc.b	$FC
-	dc.b	"l'ancien est sans égal, miaou."
+	dc.b	"l'ancien est sans égale, miaou."
 	dc.b	$FF
 
 ; $2B

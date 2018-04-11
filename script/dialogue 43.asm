@@ -609,13 +609,13 @@
 	dc.b	$FC
 	dc.b	"d'armements construite par"
 	dc.b	$FD
-	dc.b	"Mother Brain il y a mill ans."
+	dc.b	"Mother Brain il y a mille ans."
 	dc.b	$FD
-	dc.b	"Elle a longtemps été une"
+	dc.b	"Elle a longtemps été laissée"
 	dc.b	$FC
-	dc.b	"installation sans usage."
+	dc.b	"à l'abandon."
 	dc.b	$FD
-	dc.b	"Elle fut donc gardée hors"
+	dc.b	"Elle fut donc laissée hors"
 	dc.b	$FC
 	dc.b	"service, mais..."
 	dc.b	$FD

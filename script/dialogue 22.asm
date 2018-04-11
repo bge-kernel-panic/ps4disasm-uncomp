@@ -266,9 +266,9 @@
 	dc.b	$FC
 	dc.b	"invitation..."
 	dc.b	$FD
-	dc.b	"J'ai passé deux mille ans à"
+	dc.b	"J'ai attendu deux mille ans"
 	dc.b	$FC
-	dc.b	"attendre l'occasion de vous"
+	dc.b	"pour avoir l'occasion de vous"
 	dc.b	$FD
 	dc.b	"trancher la gorge!"
 	dc.b	$FD

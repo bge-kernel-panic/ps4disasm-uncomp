@@ -121,7 +121,7 @@
 ; $1C
 	dc.b	$F4
 	dc.b	$01, $00
-	dc.b	"Alors, Rune était Lutz"
+	dc.b	"Alors, Rune était Lutz!"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04, $01

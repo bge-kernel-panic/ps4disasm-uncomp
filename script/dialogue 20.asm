@@ -106,7 +106,7 @@
 ; $23
 	dc.b	$F4
 	dc.b	$17
-	dc.b	"20-23 Excusez-moi!"
+	dc.b	"Excusez moi!"
 	dc.b	$FF
 
 ; $24
@@ -197,6 +197,7 @@
 	dc.b	"personne est-il? Qu'en"
 	dc.b	$FD
 	dc.b	"penses-tu, Chaz?"
+	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
 	dc.b	"Hum, Lutz.. "
@@ -427,7 +428,7 @@
 	dc.b	$FD
 	dc.b	"Jusqu'ici, durant chaque cycle,"
 	dc.b	$FC
-	dc.b	"un individu courageux vaiquit"
+	dc.b	"un individu courageux vainquit"
 	dc.b	$FD
 	dc.b	"le mal pour préserver la paix."
 	dc.b	$FD
@@ -500,7 +501,7 @@
 	dc.b	$04
 	dc.b	"Je t'ai choisi. Tu est le soldat"
 	dc.b	$FC
-	dc.b	"destiné à livre l'ultime combat!"
+	dc.b	"qui livrera l'ultime combat!"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
@@ -536,7 +537,7 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04
-	dc.b	"Bien! Nous devons nous dirigerWe've got to go to"
+	dc.b	"Bien! Nous devons nous diriger"
 	dc.b	$FC
 	dc.b	"vers la Tour Garuberk!"
 	dc.b	$FD
@@ -548,7 +549,7 @@
 	dc.b	$19
 	dc.b	$F2, $00
 	dc.w	$0106
-	dc.b	"Des arbres carnivors empêchent"
+	dc.b	"Des arbres carnivores empêchent"
 	dc.b	$FC
 	dc.b	"le passage."
 	dc.b	$FD
