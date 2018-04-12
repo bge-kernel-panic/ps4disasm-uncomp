@@ -619,7 +619,7 @@
 	dc.b	$FC
 	dc.b	"comme je l'imaginais, mais vous"
 	dc.b	$FD
-	dc.b	"avez amplemant fait honneur"
+	dc.b	"avez amplement fait honneur"
 	dc.b	$FC
 	dc.b	"à votre nom!"
 	dc.b	$FD
@@ -667,13 +667,13 @@
 	dc.w	$0115
 	dc.b	"Tu veux que je te botte le"
 	dc.b	$FC
-	dc.b	"derrière encore une fois!?"
+	dc.b	"derrière de nouveau!?"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$06
 	dc.b	"Vous n'en avez jamais assez,"
 	dc.b	$FC
-	dc.b	"vous deux!"
+	dc.b	"vous deux!?"
 	dc.b	$FD
 	dc.b	$F7
 

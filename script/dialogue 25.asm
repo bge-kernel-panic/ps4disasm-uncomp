@@ -51,7 +51,7 @@
 	dc.b	$FF
 
 ; $4
-	dc.b	"Qui êtes vous, vous autres"
+	dc.b	"Qui êtes vous, vous autres?"
 	dc.b	$FD
 	dc.b	"Vous avez de drôles d'idées de"
 	dc.b	$FC
@@ -63,7 +63,7 @@
 	dc.b	$FF
 
 ; $5
-	dc.b	"25-5 Il y a un moment que j'ai"
+	dc.b	"Il y a un moment que je n'ai pas"
 	dc.b	$FC
 	dc.b	"vu les deux filles du chef du"
 	dc.b	$FD
@@ -77,9 +77,11 @@
 	dc.b	$FC
 	dc.b	"le 'Frade Mantle?'"
 	dc.b	$FD
-	dc.b	"Il est léger, et on dit qu'il a"
+	dc.b	"Elle est légère, et on dit"
 	dc.b	$FC
-	dc.b	"de grands pouvoirs protecteurs."
+	dc.b	"qu'elle a de grands pouvoirs"
+	dc.b	$FD
+	dc.b	"protecteurs."
 	dc.b	$FF
 
 ; $7
@@ -115,15 +117,15 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Hein?"
+	dc.b	"... Hein?"
 	dc.b	$FF
 
 ; $A
-	dc.b	"25-A Euh, merci beaucoup!"
+	dc.b	"Euh, merci beaucoup!"
 	dc.b	$FD
-	dc.b	"Vous avez bien fait en me les"
+	dc.b	"Vous avez bien fait de me les"
 	dc.b	$FC
-	dc.b	"ramenant!"
+	dc.b	"ramener!"
 	dc.b	$FD
 	dc.b	"Vous ne pouvez pas savoir à quel"
 	dc.b	$FC

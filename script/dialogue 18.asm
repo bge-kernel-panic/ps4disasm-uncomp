@@ -174,13 +174,13 @@
 	dc.b	$FF
 
 ; $30
-	dc.b	"Ah, finally, I can quit this"
+	dc.b	"Finalement! Je pourrai cesser"
 	dc.b	$FC
-	dc.b	"work I'm so unused to."
+	dc.b	"ce travail inhabituel."
 	dc.b	$FF
 
 ; $31
-	dc.b	"18-31 Je suis un réfugié de"
+	dc.b	"Je suis un réfugié de"
 	dc.b	$FC
 	dc.b	"Reshel. Il est devenu... ah,"
 	dc.b	$FD
@@ -196,7 +196,7 @@
 	dc.b	$FF
 
 ; $33
-	dc.b	"18-33 Je ne peux pas abandonner"
+	dc.b	"Je ne peux pas abandonner"
 	dc.b	$FC
 	dc.b	"Reshel, ma ville natale!"
 	dc.b	$FD
@@ -204,7 +204,7 @@
 	dc.b	$FC
 	dc.b	"trouver un remède contre la"
 	dc.b	$FD
-	dc.b	"maladie et que tout reviendra"
+	dc.b	"maladie et que tout redeviendra"
 	dc.b	$FC
 	dc.b	"comme avant!"
 	dc.b	$FF
@@ -260,9 +260,9 @@
 	dc.b	$FF
 
 ; $37
-	dc.b	"18-37 Tous se portent mieux,"
+	dc.b	"Tous se portent mieux,"
 	dc.b	$FC
-	dc.b	"sans qu'on ait eu à préparer"
+	dc.b	"sans qu'on aie eu à préparer"
 	dc.b	$FD
 	dc.b	"de remède! Je suis si heureux!"
 	dc.b	$FF
@@ -370,9 +370,9 @@
 	dc.b	$FF
 
 ; $45
-	dc.b	"18-45 Ouf. Pour tout vous dire,"
+	dc.b	"Ouf. Pour tout vous dire, je"
 	dc.b	$FC
-	dc.b	"je suis très soulagé."
+	dc.b	"suis vraiment soulagé."
 	dc.b	$FF
 
 ; $46
@@ -501,7 +501,7 @@
 ; $54
 	dc.b	"Je dois avouer que j'ai toujours"
 	dc.b	$FC
-	dc.b	"rêvé être une infirmière! 18-54"
+	dc.b	"rêvé être une infirmière!"
 	dc.b	$FF
 
 ; $55
@@ -575,11 +575,11 @@
 ; $5C
 	dc.b	$F4
 	dc.b	$17
-	dc.b	"18-5C Je suis content que Kyra"
+	dc.b	"Je suis content que Kyra soit"
 	dc.b	$FC
-	dc.b	"soit saine et sauve. Même si"
+	dc.b	"saine et sauve. Même si elle"
 	dc.b	$FD
-	dc.b	"elle est si rebelle, nous"
+	dc.b	"est vraiment rebelle, nous"
 	dc.b	$FC
 	dc.b	"l'admirons beaucoup!"
 	dc.b	$FF

@@ -900,11 +900,11 @@
 ; $62
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"11-62 C'est une cellule..."
+	dc.b	"C'est une cellule..."
 	dc.b	$FF
 
 ; $63
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"11-63 C'est une cellule..."
+	dc.b	"C'est une cellule..."
 	dc.b	$FF

@@ -345,7 +345,7 @@
 	dc.b	$FC
 	dc.b	"sont les démons qui veulent"
 	dc.b	$FD
-	dc.b	"détruite l'univers! Ils ont"
+	dc.b	"détruire l'univers! Ils ont"
 	dc.b	$FC
 	dc.b	"jeté un mauvais sort sur Algo!"
 	dc.b	$FD

@@ -381,7 +381,7 @@
 	dc.b	$FF
 
 ; $2E
-	dc.b	"C'est arriver sans prévenir."
+	dc.b	"Elle est arrivée sans prévenir."
 	dc.b	$FD
 	dc.b	"Il était impossible de la"
 	dc.b	$FC
@@ -789,9 +789,9 @@
 	dc.b	$F4
 	dc.b	$1B
 	dc.b	"Je ne suis pas certain moi-même"
-	dc.b	$FD
-	dc.b	"de la nature de 'Rykros'..."
 	dc.b	$FC
+	dc.b	"de la nature de 'Rykros'..."
+	dc.b	$FD
 	dc.b	"ou d'où elle se trouve..."
 	dc.b	$FD
 	dc.b	"Quand 'Rykros' reviendra,"
@@ -867,7 +867,7 @@
 	dc.b	$F4
 	dc.b	$01
 	dc.b	"Oui. Après tout, nous avons déjà"
-	dc.b	$FD
+	dc.b	$FC
 	dc.b	"fait tout ce chemin..."
 	dc.b	$FD
 	dc.b	$F4

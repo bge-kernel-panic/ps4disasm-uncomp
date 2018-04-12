@@ -317,11 +317,11 @@
 	dc.b	$FF
 
 ; $1F
-	dc.b	"There won't be any more zombies,"
+	dc.b	"Il n'y aura plus de zombis,"
 	dc.b	$FC
-	dc.b	"right?"
+	dc.b	"pas vrai?"
 	dc.b	$FD
-	dc.b	"Then put those fires out! Out!"
+	dc.b	"Alors éteignons ces feux! Vite!"
 	dc.b	$FF
 
 ; $20
