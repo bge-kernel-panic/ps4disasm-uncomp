@@ -11,7 +11,7 @@
 	dc.b	$FC
 	dc.b	"a été attaqué par une escouade"
 	dc.b	$FD
-	dc.b	"inconnue d'androïdes."
+	dc.b	"d'androïdes inconnus."
 	dc.b	$FD
 	dc.b	"Ils ont pris le contrôle du"
 	dc.b	$FC
@@ -71,7 +71,7 @@
 	dc.b	$08
 	dc.b	"Leurs ordres semblent être de"
 	dc.b	$FC
-	dc.b	"détruite tout système d'IA"
+	dc.b	"détruire tout système d'IA"
 	dc.b	$FD
 	dc.b	"de niveau supérieur..."
 	dc.b	$FD
@@ -229,11 +229,11 @@
 	dc.b	$FC
 	dc.b	"Je suis la fille -- Daughter."
 	dc.b	$FD
-	dc.b	"Comme protecteur d'Algo, je suis"
+	dc.b	"Comme protectrice d'Algo, je"
 	dc.b	$FC
-	dc.b	"chargé d'assurer la loi et"
+	dc.b	"suis chargée d'assurer la loi"
 	dc.b	$FD
-	dc.b	"l'ordre..."
+	dc.b	"et l'ordre..."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04
@@ -249,9 +249,9 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$08
-	dc.b	"C'est également ce que"
+	dc.b	"C'est également ce qu'indiquent"
 	dc.b	$FC
-	dc.b	"confirment mes données."
+	dc.b	"mes données."
 	dc.b	$FD
 	dc.b	"Celles-ci doivent être"
 	dc.b	$FC
@@ -307,7 +307,7 @@
 	dc.b	$FC
 	dc.b	"que votre réseau n'est pas"
 	dc.b	$FD
-	dc.b	"connectés aux systèmes externes?"
+	dc.b	"connecté aux systèmes externes?"
 	dc.b	$FD
 	dc.b	"Par conséquent, tout ordre que"
 	dc.b	$FC
@@ -341,11 +341,11 @@
 	dc.b	$FD
 	dc.b	"plus important que prévue."
 	dc.b	$FD
-	dc.b	"Donc, les conséquences de la"
+	dc.b	"Ainsi, les conséquences de la"
 	dc.b	$FC
 	dc.b	"destruction de Parma fûrent"
 	dc.b	$FD
-	dc.b	"prise en compte avant la fin"
+	dc.b	"prises en compte avant la fin"
 	dc.b	$FC
 	dc.b	"du Projet Daughter."
 	dc.b	$FD
@@ -375,7 +375,7 @@
 	dc.b	$FC
 	dc.b	"le satellite artificiel Zelan."
 	dc.b	$FD
-	dc.b	"Moi, Wren, je suis responsable"
+	dc.b	"Moi, Wren, suis responsable"
 	dc.b	$FC
 	dc.b	"de la gestion de ce système."
 	dc.b	$FD
@@ -461,7 +461,7 @@
 	dc.b	$FD
 	dc.b	"Mais c'est pourquoi les humains"
 	dc.b	$FC
-	dc.b	"ont regagnés leur vitalité..."
+	dc.b	"ont regagné leur vitalité..."
 	dc.b	$FD
 	dc.b	"Ils se sont rassemblés pour"
 	dc.b	$FC
@@ -469,7 +469,7 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$00
-	dc.b	"Wr...en...cesse!"
+	dc.b	"Wr...en...! Non!"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$08
@@ -507,9 +507,9 @@
 	dc.b	"négligeants. Nous n'avons pas"
 	dc.b	$FD
 	dc.b	"tenu compte de cette"
-	dc.b	$FD
-	dc.b	"installation, car elle n'avait"
 	dc.b	$FC
+	dc.b	"installation, car elle n'avait"
+	dc.b	$FD
 	dc.b	"aucun lien avec nos tâches."
 	dc.b	$FD
 	dc.b	$F4

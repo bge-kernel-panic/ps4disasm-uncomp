@@ -409,10 +409,10 @@
 ; $37
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Hé! Arrête!"
+	dc.b	"Hé! Reviens!"
 	dc.b	$F7
 
-	dc.b	"Reste là!"
+	dc.b	"Attendez!"
 	dc.b	$F7
 
 	dc.b	$F4
@@ -479,7 +479,8 @@
 	dc.b	$FC
 	dc.b	"ce que les oiseaux voulaient,"
 	dc.b	$FD
-	dc.b	"c'était de se nourrir."
+	dc.b	"c'était se nourrir."
+	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
 	dc.b	"Alors pourquoi retenir la Guilde"
@@ -494,7 +495,7 @@
 	dc.b	$FD
 	dc.b	"Je savais qu'un chef était né"
 	dc.b	$FC
-	dc.b	"parmis les volatiles et qu'il"
+	dc.b	"parmi les volatiles et qu'il"
 	dc.b	$FD
 	dc.b	"était très fort."
 	dc.b	$FD
@@ -554,7 +555,7 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$27
-	dc.b	"Vous...vous me laissez libre?"
+	dc.b	"Vous...vous me laissez aller?"
 	dc.b	$FC
 	dc.b	"Merci!"
 	dc.b	$FF
@@ -572,7 +573,7 @@
 	dc.b	$FD
 	dc.b	"De toute façon, le chef de ces"
 	dc.b	$FC
-	dc.b	"volatils s'est envolé au loin,"
+	dc.b	"volatiles s'est envolé au loin,"
 	dc.b	$FD
 	dc.b	"alors j'imagine que les récoltes"
 	dc.b	$FC

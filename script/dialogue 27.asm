@@ -603,7 +603,7 @@
 	dc.b	$FD
 	dc.b	"service obtenu?"
 	dc.b	$FD
-	dc.b	"C'est un problème sérieux!"
+	dc.b	"C'est un grave problème!"
 	dc.b	$FD
 	dc.b	"Nous devons nous occuper de cela"
 	dc.b	$FC

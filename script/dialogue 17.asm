@@ -166,12 +166,12 @@
 	dc.b	"moi vous dire une chose."
 	dc.b	$FD
 	dc.b	"Au nord-ouest se trouve une"
-	dc.b	$FD
-	dc.b	"vallée où vivent de nombreux"
 	dc.b	$FC
+	dc.b	"vallée où vivent de nombreux"
+	dc.b	$FD
 	dc.b	"animaux dorés."
 	dc.b	$FD
-	dc.b	"Ensuite, si vous continuez au"
+	dc.b	"Aussi, si vous continuez au"
 	dc.b	$FC
 	dc.b	"nord-est, il y a un drôle de"
 	dc.b	$FD
@@ -179,7 +179,7 @@
 	dc.b	$FC
 	dc.b	"à comprendre."
 	dc.b	$FD
-	dc.b	"Allez-y si ça vous chante!"
+	dc.b	"Allez-y, si ça vous chante!"
 	dc.b	$FF
 
 ; $E

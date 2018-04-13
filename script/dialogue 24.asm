@@ -359,7 +359,7 @@
 ; $2A
 	dc.b	"Je vous demande ceci en sachant"
 	dc.b	$FC
-	dc.b	"pertinamment comment c'est "
+	dc.b	"pertinemment comment c'est"
 	dc.b	$FD
 	dc.b	"insolent de vous le demander!"
 	dc.b	$FD
@@ -608,7 +608,7 @@
 	dc.b	$FD
 	dc.b	"Alors, je vous demande de"
 	dc.b	$FC
-	dc.b	"l'exterminater."
+	dc.b	"l'exterminer."
 	dc.b	$FD
 	dc.b	"Vous le trouverez dans une"
 	dc.b	$FC

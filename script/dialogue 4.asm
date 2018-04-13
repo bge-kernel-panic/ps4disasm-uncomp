@@ -332,15 +332,15 @@
 	dc.b	$FC
 	dc.b	"bizarres qui rôdent..."
 	dc.b	$FD
-	dc.b	"j<en ai marre!"
+	dc.b	"J'en ai marre!"
 	dc.b	$FF
 
 ; $34
 	dc.b	"Bon, j'espère que c'est la fin"
 	dc.b	$FC
-	dc.b	"des trucs étranges qui"
+	dc.b	"des choses bizarres qui"
 	dc.b	$FD
-	dc.b	"arrivent sans crier gare!"
+	dc.b	"arrivent sans prévenir!"
 	dc.b	$FF
 
 ; $35
