@@ -247,8 +247,9 @@
 	dc.b	$FD
 	dc.b	"quittez la ville ou entrez dans"
 	dc.b	$FC
-	dc.b	"une maison!"					 ; IMPORTANT NOTE! This must end with "!" and the negative with "." or
-											 ; the check to see which option is taken won't work!!!!
+	dc.b	"une maison.", Dialogue_YesSelected	; IMPORTANT NOTE! This must end with "Dialogue_YesSelected"
+												; and the "no" answer must NOT! Otherwise,
+												; the check to see which option is taken won't work!
 	dc.b	$FF
 
 ; $13

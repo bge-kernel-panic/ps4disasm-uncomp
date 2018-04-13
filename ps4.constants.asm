@@ -1644,6 +1644,16 @@ EventFlag_AngerTowerEnd = $E7	; Set when you exit the top of the Anger Tower and
 EventFlag_ProfoundDarkness = $E8	; Set when you fight Profound Darkness
 EventFlag_GuildPlaceholder = $EB	; Always cleared; used as a placeholder in the Hunters' Guild section to mean that, once a request is available,
 					; you can do it anytime
+					
+Dialogue_YesSelected  = $00		; Place that at end of "yes" options of dialogues
+								; that require special handling (so far, dialogue 11: $53
+								; and dialogue 17: $12)
+								; For now I'm using a trailing space, but ideally
+								; I should create an additional code point. That
+								; said normally a dialogue won't end with a space
+								; so that value should work.
+								; The original code was using $3A (exclamation mark)
+								; which was a bit of a hack IMHO.
 
 
 ; Chest flags
