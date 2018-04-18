@@ -728,7 +728,7 @@
 	dc.b	$FF
 
 ; $5A
-	dc.b	"4-5A Maman! Papa! Snif, snif."
+	dc.b	"Maman! Papa! Snif, snif."
 	dc.b	$FF
 
 ; $5B

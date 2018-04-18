@@ -300,23 +300,23 @@
 	dc.b	$FF
 
 ; $34
-	dc.b	"16-34 Je ne sais pas si c'est"
+	dc.b	"Je ne sais pas si c'est"
 	dc.b	$FC
 	dc.b	"l'intervention divine ou les"
 	dc.b	$FD
 	dc.b	"pleurs de la terre, mais la"
 	dc.b	$FC
-	dc.b	"tempête s'est soudainement"
+	dc.b	"tempête est partie drette"
 	dc.b	$FD
-	dc.b	"calmée."
+	dc.b	"de même."
 	dc.b	$FD
 	dc.b	"Mais j'ai entendu des rumeurs"
 	dc.b	$FC
 	dc.b	"à propos du temple Gumbious..."
 	dc.b	$FD
-	dc.b	"Non, c'est impossible!"
+	dc.b	"Non, ça se peut pas!"
 	dc.b	$FC
-	dc.b	"Ce doit être des mensonges."
+	dc.b	"C'est des menteries, c'est sûr!"
 	dc.b	$FF
 
 ; $35
@@ -329,7 +329,7 @@
 	dc.b	$A1, $02
 	dc.b	$FA
 	dc.b	$94, $01
-	dc.b	"Apparament qu'y a une tour"
+	dc.b	"Apparamment qu'y a une tour"
 	dc.b	$FC
 	dc.b	"que'que part sur Dezolis"
 	dc.b	$FD
@@ -419,7 +419,7 @@
 	dc.b	$FF
 
 ; $37
-	dc.b	"16-37 C'est bizarre, ça a l'air"
+	dc.b	"C'est bizarre, ça a l'air"
 	dc.b	$FC
 	dc.b	"que la Tour Garuberk a disparu!"
 	dc.b	$FD
@@ -496,7 +496,7 @@
 	dc.b	$FF
 
 ; $39
-	dc.b	"16-39 Raja est malade? Mais"
+	dc.b	"Raja est malade? Mais"
 	dc.b	$FC
 	dc.b	"c'est l'genre de gars qui va"
 	dc.b	$FD
@@ -508,7 +508,7 @@
 	dc.b	$FF
 
 ; $3A
-	dc.b	"19-3A Raja est malade, pis"
+	dc.b	"Raja est malade, pis"
 	dc.b	$FC
 	dc.b	"ça a l'air que le Temple"
 	dc.b	$FD
@@ -595,7 +595,9 @@
 	dc.b	$FF
 
 ; $3D
-	dc.b	"...À quoi bon?"
+	dc.b	"...Ben, vous l'avez déjà, faque"
+	dc.b	$FC
+	dc.b	"pourquoi vous posez la question?"
 	dc.b	$FF
 
 ; $3E

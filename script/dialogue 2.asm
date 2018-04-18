@@ -456,11 +456,11 @@
 	dc.b	$FF
 
 ; $58
-	dc.b	"2-58 Je pensais qu'en laissant"
+	dc.b	"Je pensais qu'en laissant"
 	dc.b	$FC
-	dc.b	"aller les choses, ils finiraient"
+	dc.b	"aller les choses, elles"
 	dc.b	$FD
-	dc.b	"par revenir, mais..."
+	dc.b	"finiraient par revenir, mais..."
 	dc.b	$FD
 	dc.b	"Ah, non, rien,"
 	dc.b	$FC
@@ -473,7 +473,7 @@
 	dc.b	$FF
 
 ; $5A
-	dc.b	"2-5A Merci de nous avoir aidé"
+	dc.b	"Merci de nous avoir aidé"
 	dc.b	$FC
 	dc.b	"dans toute cette affaire."
 	dc.b	$FF

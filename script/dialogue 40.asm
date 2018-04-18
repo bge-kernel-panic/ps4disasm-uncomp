@@ -1,11 +1,11 @@
 ; 0
-	dc.b	"Bienvenue … vous, Protecteurs."
+	dc.b	"Bienvenue à vous, Protecteurs."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
 	dc.b	"Qu'est-ce?"
 	dc.b	$FD
-	dc.b	"Une voix retentit dans ma tˆte!"
+	dc.b	"Une voix retentit dans ma tête!"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$00
@@ -13,7 +13,7 @@
 	dc.b	$FD
 	dc.b	"Je demeure ici depuis des"
 	dc.b	$FC
-	dc.b	"siŠcles pour transmettre le"
+	dc.b	"siècles pour transmettre le"
 	dc.b	$FD
 	dc.b	"secret de l'origine d'Algo."
 	dc.b	$FD
@@ -25,37 +25,37 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$00
-	dc.b	"Exact. Vous ˆtes sur Rykros,"
+	dc.b	"Exact. Vous êtes sur Rykros,"
 	dc.b	$FC
-	dc.b	"la quatriŠme planŠte du systŠme"
+	dc.b	"la quatrième planète du système"
 	dc.b	$FD
 	dc.b	"solaire d'Algo."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04
-	dc.b	"Comment! Une quatriŠme planŠte!"
+	dc.b	"Comment! Une quatrième planète!"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$08
-	dc.b	"Ceci n'est pas conforme … mes"
+	dc.b	"Ceci n'est pas conforme à mes"
 	dc.b	$FC
-	dc.b	"donn‚es. Il n'y a que trois"
+	dc.b	"données. Il n'y a que trois"
 	dc.b	$FD
-	dc.b	"planŠtes dans le systŠme d'Algo,"
+	dc.b	"planètes dans le système d'Algo,"
 	dc.b	$FC
 	dc.b	"Motavia, Parma, et Dezolis."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$00
-	dc.b	"Rykros est une planŠte prot‚g‚e"
+	dc.b	"Rykros est une planète protégée"
 	dc.b	$FC
-	dc.b	"par une puissante barriŠre"
+	dc.b	"par une puissante barrière"
 	dc.b	$FD
 	dc.b	"invisible."
 	dc.b	$FD
-	dc.b	"Aucun ˆtre ordinaire ne peut la"
+	dc.b	"Aucun être ordinaire ne peut la"
 	dc.b	$FC
-	dc.b	"voir ou mˆme la pr‚ssentir."
+	dc.b	"voir ou même la préssentir."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$06
@@ -67,7 +67,7 @@
 	dc.b	$00
 	dc.b	"De plus, l'orbite de Rykros est"
 	dc.b	$FC
-	dc.b	"trŠs excentrique."
+	dc.b	"très excentrique."
 	dc.b	$FD
 	dc.b	"Elle s'approche d'Algo qu'une"
 	dc.b	$FC
@@ -77,7 +77,7 @@
 	dc.b	$08
 	dc.b	"Donc, il s'agit d'une orbite"
 	dc.b	$FC
-	dc.b	"semblable … celle d'une comŠte!"
+	dc.b	"semblable à celle d'une comète!"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04
@@ -91,9 +91,9 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$06
-	dc.b	"Et c'est pourquoi elle ‚tait"
+	dc.b	"Et c'est pourquoi elle était"
 	dc.b	$FC
-	dc.b	"cach‚e jusqu'ici..."
+	dc.b	"cachée jusqu'ici..."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
@@ -113,23 +113,23 @@
 	dc.b	$FC
 	dc.b	"catastrophes dans tout Algo?"
 	dc.b	$FD
-	dc.b	"Et o— est-elle, maintenant?"
+	dc.b	"Et où est-elle, maintenant?"
 	dc.b	$FD
-	dc.b	"On nous a dit que les r‚ponses"
+	dc.b	"On nous a dit que les réponses"
 	dc.b	$FC
 	dc.b	"se trouveraient ici!"
 	dc.b	$FD
-	dc.b	"Alors, ‚clairez-nous!"
+	dc.b	"Alors, éclairez-nous!"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$00
 	dc.b	"Hmmm..."
 	dc.b	$FD
-	dc.b	"J'ai beaucoup … vous dire,"
+	dc.b	"J'ai beaucoup à vous dire,"
 	dc.b	$FC
 	dc.b	"courageux Protecteurs qui ont"
 	dc.b	$FD
-	dc.b	"fait ce chemin vers Rykros."
+	dc.b	"fait ce chemin jusqu'à Rykros."
 	dc.b	$FD
 	dc.b	"Mais vous devez d'abord vous"
 	dc.b	$FC
@@ -141,15 +141,15 @@
 	dc.b	$FD
 	dc.b	"la Tour de la Force..."
 	dc.b	$FD
-	dc.b	"Allez … la rencontre des"
+	dc.b	"Allez à la rencontre des"
 	dc.b	$FC
 	dc.b	"gardiens de ces tours."
 	dc.b	$FD
-	dc.b	"· votre retour, vous serez"
+	dc.b	"À votre retour, vous serez"
 	dc.b	$FC
-	dc.b	"confirm‚s comme 'Protecteurs,'"
+	dc.b	"confirmés comme 'Protecteurs,'"
 	dc.b	$FD
-	dc.b	"et j'aurai r‚ponse … vos"
+	dc.b	"et j'aurai réponse à vos"
 	dc.b	$FC
 	dc.b	"questions."
 	dc.b	$FD
@@ -167,7 +167,7 @@
 	dc.b	$FD
 	dc.b	"Soyez patients."
 	dc.b	$FC
-	dc.b	"C'est d'une n‚cessit‚ absolue."
+	dc.b	"C'est d'une nécessité absolue."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
@@ -179,13 +179,13 @@
 	dc.b	$00
 	dc.b	"Faites vite."
 	dc.b	$FC
-	dc.b	"Je sens d‚j… la main de la"
+	dc.b	"Je sens déjà le bras de la"
 	dc.b	$FD
-	dc.b	"Noirceur qui s'‚tire vers"
+	dc.b	"Noirceur qui s'étire vers"
 	dc.b	$FC
-	dc.b	"cette planŠte."
+	dc.b	"cette planète."
 	dc.b	$FD
-	dc.b	"Enfants bien aim‚s,"
+	dc.b	"Enfants bien aimés,"
 	dc.b	$FC
 	dc.b	"j'attendrai votre retour."
 	dc.b	$FF
@@ -223,31 +223,31 @@
 ; $B
 	dc.b	"Protecteurs, vous avez rempli"
 	dc.b	$FC
-	dc.b	"entiŠrement votre mission."
+	dc.b	"entièrement votre mission."
 	dc.b	$FD
 	dc.b	"Vous avez fait vos preuves, et"
 	dc.b	$FC
 	dc.b	"je peux vous confier le secret"
 	dc.b	$FD
-	dc.b	"de la g‚nŠse d'Algo."
+	dc.b	"de la génèse d'Algo."
 	dc.b	$FD
-	dc.b	"Il y a des milliards d'ann‚es..."
+	dc.b	"Il y a des milliards d'années..."
 	dc.b	$FD
 	dc.b	"une forme de vie spirituelle"
 	dc.b	$FC
-	dc.b	"s'est divis‚e en deux entit‚es"
+	dc.b	"s'est divisée en deux entitées"
 	dc.b	$FD
-	dc.b	"inf‚rieures, qui ont … terme"
+	dc.b	"inférieures, qui ont à terme"
 	dc.b	$FC
 	dc.b	"fait la guerre entre elles..."
 	dc.b	$FD
 	dc.b	$F7
 
-	dc.b	"AprŠs une longue et terrible"
+	dc.b	"Après une longue et terrible"
 	dc.b	$FC
 	dc.b	"bataille, il y eut un vainqueur."
 	dc.b	$FD
-	dc.b	"Celui-ci bannit l'entit‚e"
+	dc.b	"Celui-ci bannit l'entitée"
 	dc.b	$FC
 	dc.b	"ennemie dans une autre"
 	dc.b	$FD
@@ -260,39 +260,39 @@
 
 	dc.b	"Nous appelons le vainqueur La"
 	dc.b	$FC
-	dc.b	"LumiŠre SuprŠme et le perdant"
+	dc.b	"Lumière Suprème et le perdant"
 	dc.b	$FD
 	dc.b	"La Noirceur Profonde."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"LumiŠre et noirceur, je vois..."
+	dc.b	"Lumière et noirceur, je vois..."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$00
-	dc.b	"La LumiŠre SuprŠme craignait que"
+	dc.b	"La Lumière Suprème craignait que"
 	dc.b	$FC
 	dc.b	"La Noirceur Profonde ne revienne"
 	dc.b	$FD
-	dc.b	"… la vie et a plac‚ une barriŠre"
+	dc.b	"à la vie et a placé une barrière"
 	dc.b	$FC
 	dc.b	"sur le portail dimensionnel..."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04
-	dc.b	"Une barriŠre"
+	dc.b	"Une barrière?"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$00
 	dc.b	"C'est exact...Un gigantesque"
 	dc.b	$FC
-	dc.b	"barriŠre, form‚e de trois"
+	dc.b	"barrière, formée de trois"
 	dc.b	$FD
-	dc.b	"planŠtes autour d'un soleil..."
+	dc.b	"planètes autour d'un soleil..."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04
-	dc.b	"C'est impossible..."
+	dc.b	"Ça ne peut pas être..."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$00
@@ -303,13 +303,13 @@
 
 	dc.b	"Si, c'est exact."
 	dc.b	$FD
-	dc.b	"Le systŠme solaire d'Algo."
+	dc.b	"Le système solaire d'Algo."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$00
-	dc.b	"La LumiŠre SuprŠme a ‚parpill‚"
+	dc.b	"La Lumière Suprème a éparpillé"
 	dc.b	$FC
-	dc.b	"des Protecteurs de la barriŠre"
+	dc.b	"des Protecteurs de la barrière"
 	dc.b	$FD
 	dc.b	"parmis trois tribus --"
 	dc.b	$FC
@@ -317,59 +317,61 @@
 	dc.b	$FD
 	dc.b	"et Dezolisiens."
 	dc.b	$FD
-	dc.b	"Mais la barriŠre n'‚tait pas"
+	dc.b	"Mais la barrière n'était pas"
 	dc.b	$FC
-	dc.b	"entiŠrement stable."
+	dc.b	"entièrement stable."
 	dc.b	$FD
 	dc.b	"Une fois tous les mille ans,"
 	dc.b	$FC
 	dc.b	"elle s'affaiblissait"
 	dc.b	$FD
-	dc.b	"radicallement."
+	dc.b	"radicalement."
 	dc.b	$FD
 	dc.b	"Pour avertir les habitants de"
 	dc.b	$FC
-	dc.b	"ce ph‚nomŠne, La LumiŠre SuprŠme"
+	dc.b	"ce phénomène, La Lumière Suprème"
 	dc.b	$FD
-	dc.b	"a cr‚‚e Rykros, qui retourne"
+	dc.b	"a créée Rykros, qui retourne"
 	dc.b	$FC
 	dc.b	"dans Algo tous les mille ans,"
 	dc.b	$FD
-	dc.b	"ainsi que moi-mˆme, Le Roof."
+	dc.b	"ainsi que moi-même, Le Roof."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Mais … quoi sert une planŠte"
+	dc.b	"Mais comment une planète"
 	dc.b	$FC
-	dc.b	"invisible comme avertissement?"
+	dc.b	"invisible peut servir"
+	dc.b	$FD
+	dc.b	"d'avertissement?"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$00
-	dc.b	"La LumiŠre SuprŠme savait que,"
+	dc.b	"La Lumière Suprème savait que,"
 	dc.b	$FC
-	dc.b	"aprŠs moultes g‚n‚rations, les"
+	dc.b	"après moultes générations, les"
 	dc.b	$FD
 	dc.b	"Protecteurs ne se rappelleraient"
 	dc.b	$FC
 	dc.b	"plus de leur mission."
 	dc.b	$FD
-	dc.b	"Donc, Rykros f–t con‡ue pour"
+	dc.b	"Donc, Rykros fût conçue pour"
 	dc.b	$FC
 	dc.b	"rompre son silence lorsque la"
 	dc.b	$FD
-	dc.b	"barriŠre vivait ses derniers"
+	dc.b	"barrière vivait ses derniers"
 	dc.b	$FC
 	dc.b	"instants..."
 	dc.b	$FD
 	dc.b	"Pour rappeler aux Protecteurs"
 	dc.b	$FC
-	dc.b	"leur mission sacr‚e."
+	dc.b	"leur mission sacrée."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$06
 	dc.b	"Les derniers instants de la"
 	dc.b	$FC
-	dc.b	"barriŠre?"
+	dc.b	"barrière?"
 	dc.b	$FD
 	dc.b	"Que voulez-vous dire par"
 	dc.b	$FC
@@ -379,37 +381,37 @@
 	dc.b	$00
 	dc.b	$F2, $00
 	dc.w	$011E
-	dc.b	"· travers les ƒges, La Noirceur"
+	dc.b	"À travers les âges, La Noirceur"
 	dc.b	$FC
-	dc.b	"Profonde a bouillonn‚e de haine"
+	dc.b	"Profonde bouillait de haine"
 	dc.b	$FD
-	dc.b	"et du d‚sir de vengeance."
+	dc.b	"et du désir de vengeance."
 	dc.b	$FD
 	dc.b	"Et tout les mille ans, losrque"
 	dc.b	$FC
-	dc.b	"la barriŠre faiblit, la partie"
+	dc.b	"la barrière faiblit, la partie"
 	dc.b	$FD
 	dc.b	"la plus puissante de l'esprit"
 	dc.b	$FC
 	dc.b	"haineux de La Noirceur Profonde"
 	dc.b	$FD
-	dc.b	"arrive … passer la barriŠre et"
+	dc.b	"arrive à passer la barrière et"
 	dc.b	$FC
 	dc.b	"se manifester physiquement dans"
 	dc.b	$FD
-	dc.b	"le systŠme d'Algo."
+	dc.b	"le système d'Algo."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04
-	dc.b	"Alors c'est ‡a, Dark Force!"
+	dc.b	"Alors c'est ça, Dark Force!"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$00
-	dc.b	"· chaque fois, une personne"
+	dc.b	"Chaque fois, une personne"
 	dc.b	$FC
-	dc.b	"courageuse arrivait … vaincre"
+	dc.b	"courageuse arrivait à vaincre"
 	dc.b	$FD
-	dc.b	"Dark Force et … permettre aux"
+	dc.b	"Dark Force et à permettre aux"
 	dc.b	$FC
 	dc.b	"habitants de vivre en paix"
 	dc.b	$FD
@@ -419,15 +421,15 @@
 	dc.b	$FC
 	dc.b	"patiente, et elle a finalement"
 	dc.b	$FD
-	dc.b	"r‚ussi … d‚truire la planŠte"
+	dc.b	"réussi à détruire la planète"
 	dc.b	$FC
-	dc.b	"Parma suite … une bataille."
+	dc.b	"Parma suite à une bataille."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$06
 	dc.b	"Alors, une partie de la"
 	dc.b	$FC
-	dc.b	"barriŠre n'est plus!"
+	dc.b	"barrière n'est plus!"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$00
@@ -437,13 +439,13 @@
 	dc.b	$FD
 	dc.b	"La Noirceur Profonde tente"
 	dc.b	$FC
-	dc.b	"d'enfin se lib‚rer."
+	dc.b	"enfin de s'en libérer."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
 	dc.b	"Les derniers instants de la"
 	dc.b	$FC
-	dc.b	"barriŠre..."
+	dc.b	"barrière..."
 	dc.b	$FD
 	dc.b	"Vous voulez-dire que c'est ce"
 	dc.b	$FC
@@ -451,11 +453,11 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$00
-	dc.b	"Peut-ˆtre."
+	dc.b	"Peut-être."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$06
-	dc.b	"Peut-ˆtre?"
+	dc.b	"Peut-être?"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$00
@@ -463,19 +465,19 @@
 	dc.b	$FC
 	dc.b	"brandir son pouvoir effroyable,"
 	dc.b	$FD
-	dc.b	"et r‚ussir … d‚truire la"
+	dc.b	"et réussir à détruire la"
 	dc.b	$FC
-	dc.b	"barriŠre, ou..."
+	dc.b	"barrière, ou bien..."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Ou?"
+	dc.b	"Oui?"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$00
 	dc.b	"Quelqu'un la vaincra et rendra"
 	dc.b	$FC
-	dc.b	"la barriŠre incons‚quente."
+	dc.b	"la barrière inconséquente."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
@@ -483,27 +485,27 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$00
-	dc.b	"Protecteurs, ‚coutez-moi"
+	dc.b	"Protecteurs, écoutez-moi"
 	dc.b	$FC
 	dc.b	"attentivement..."
 	dc.b	$FD
-	dc.b	"Si La Noirceur se libŠre, la"
+	dc.b	"Si La Noirceur se libère, la"
 	dc.b	$FC
-	dc.b	"barriŠre, donc, le systŠme"
+	dc.b	"barrière, et par conséquent,"
 	dc.b	$FD
-	dc.b	"solaire d'Algo, sera certainment"
+	dc.b	"le système solaire d'Algo,"
 	dc.b	$FC
-	dc.b	"d‚truite."
+	dc.b	"seront détruits."
 	dc.b	$FD
-	dc.b	"Le seul moyen d'‚viter cela est"
+	dc.b	"Le seul moyen d'éviter cela est"
 	dc.b	$FC
 	dc.b	"de rencontrer La Noirceur dans"
 	dc.b	$FD
-	dc.b	"sa dimension, et la d‚truire."
+	dc.b	"sa dimension et la détruire."
 	dc.b	$FD
-	dc.b	"Avec ces Anneaux St‚llaires,"
+	dc.b	"Avec ces Anneaux Stéllaires,"
 	dc.b	$FC
-	dc.b	"vous pourrez r‚sister … la"
+	dc.b	"vous pourrez résister à la"
 	dc.b	$FD
 	dc.b	"majeure partie du pouvoir de"
 	dc.b	$FC
@@ -511,22 +513,24 @@
 	dc.b	$FD
 	dc.b	"Donc, le moment est venu."
 	dc.b	$FD
-	dc.b	"Accomplissez la volont‚ de La"
+	dc.b	"Accomplissez la volonté de La"
 	dc.b	$FC
-	dc.b	"LumiŠre SuprŠme et faites face"
+	dc.b	"Lumière Suprème et faites face"
 	dc.b	$FD
-	dc.b	"… La Noirceur Profonde."
+	dc.b	"à La Noirceur Profonde."
 	dc.b	$FD
 	dc.b	"C'est la mission pour laquelle"
 	dc.b	$FC
-	dc.b	"vous, Protecteurs, ˆtes n‚s."
+	dc.b	"vous, Protecteurs, êtes nés."
 	dc.b	$FD
 	dc.b	$F2, $02
 	dc.b	$F4
 	dc.b	$01
 	dc.b	$F2, $00
 	dc.w	$011F
-	dc.b	"Pour qui nous prenez-vous?"
+	dc.b	"Non, mais vous vous fichez de"
+	dc.b	$FC
+	dc.b	"nous?"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$06
@@ -536,7 +540,7 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"J'ai ‚cout‚ patiemment, et tout"
+	dc.b	"J'ai écouté patiemment, et tout"
 	dc.b	$FC
 	dc.b	"ce que vous avez en bouche,"
 	dc.b	$FD
@@ -548,13 +552,13 @@
 	dc.b	$FC
 	dc.b	"stupide mission!"
 	dc.b	$FD
-	dc.b	"En plus, o— est cette LumiŠre"
+	dc.b	"En plus, où est cette Lumière"
 	dc.b	$FC
-	dc.b	"SuprŠme? Qu'est-ce qu'elle fout?"
+	dc.b	"Suprème? Qu'est-ce qu'elle fout?"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$00
-	dc.b	"La LumiŠre SuprŠme a quitt‚"
+	dc.b	"La Lumière Suprème a quitté"
 	dc.b	$FC
 	dc.b	"cette galaxie."
 	dc.b	$FD
@@ -562,30 +566,30 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Donc vous dite, elle charge les"
+	dc.b	"Alors, elle charge les gens de"
 	dc.b	$FC
-	dc.b	"gens de missions et ensuite elle"
+	dc.b	"missions et ensuite elle fiche"
 	dc.b	$FD
-	dc.b	"fiche le camp?"
+	dc.b	"le camp?"
 	dc.b	$FD
 	dc.b	"N'importe quoi!"
 	dc.b	$FD
 	dc.b	"Missions, 'Protecteurs,'"
 	dc.b	$FC
-	dc.b	"qu'est-ce que ‡a peut faire?"
+	dc.b	"qu'est-ce que ça peut faire?"
 	dc.b	$FD
-	dc.b	"J'ai rien … voir l…-dedans!"
+	dc.b	"J'ai rien à voir là-dedans!"
 	dc.b	$FD
 	dc.b	"Je ne vais pas me battre pour"
 	dc.b	$FC
-	dc.b	"une entit‚ aussi irresponsable!"
+	dc.b	"une entité aussi irresponsable!"
 	dc.b	$FD
 	dc.b	$F2, $02
 	dc.b	$F2, $00
 	dc.w	$0122
-	dc.b	"Je vais vivre pour mes propres"
+	dc.b	"Je vais trouver mon propre sens"
 	dc.b	$FC
-	dc.b	"raisons!"
+	dc.b	"à ma vie!"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$06
@@ -605,7 +609,7 @@
 	dc.b	$00
 	dc.b	"Chaz Ashley..."
 	dc.b	$FD
-	dc.b	"Vous qui ˆtes venus sur Rykros.."
+	dc.b	"Vous qui êtes venus sur Rykros.."
 	dc.b	$FD
 	dc.b	"Vous devez faire vite..."
 	dc.b	$FD
@@ -634,43 +638,43 @@
 
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Pour ˆtre franc..."
+	dc.b	"Pour être franc..."
 	dc.b	$FC
 	dc.b	"Je ne sais plus quoi faire."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04
-	dc.b	"Oh, bravo..."
+	dc.b	"Oh, bravo, c'est super..."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Quand Alys nous a quitt‚,"
+	dc.b	"Quand Alys nous a quittés,"
 	dc.b	$FC
-	dc.b	"tu m'as expliqu‚ des choses..."
+	dc.b	"tu m'as expliqué des choses..."
 	dc.b	$FD
-	dc.b	"et Rika a tent‚ de me remonter"
+	dc.b	"et Rika a tenté de me remonter"
 	dc.b	$FC
 	dc.b	"le moral..."
 	dc.b	$FD
-	dc.b	"Mais … vrai dire, je n'‚tais"
+	dc.b	"Mais à vrai dire, je n'étais"
 	dc.b	$FC
 	dc.b	"toujours pas remis!"
 	dc.b	$FD
-	dc.b	"Tout ce … quoi je pouvais"
+	dc.b	"Tout ce à quoi je pouvais"
 	dc.b	$FC
 	dc.b	"penser, c'est que celle qui m'a"
 	dc.b	$FD
-	dc.b	"tout enseign‚ etait morte."
+	dc.b	"tout enseigné, etait morte."
 	dc.b	$FD
-	dc.b	"J'aurais tout sacrifi‚, mˆme"
+	dc.b	"J'aurais tout sacrifié, même"
 	dc.b	$FC
-	dc.b	"ma propre vie, pour que l'ƒme"
+	dc.b	"ma propre vie, pour que l'âme"
 	dc.b	$FD
 	dc.b	"d'Alys repose en paix."
 	dc.b	$FD
-	dc.b	"Mais peu … peu, j'ai r‚alis‚ que"
+	dc.b	"Mais peu à peu, j'ai réalisé que"
 	dc.b	$FC
-	dc.b	"des gens compte sur moi pour"
+	dc.b	"des gens comptaient sur moi pour"
 	dc.b	$FD
 	dc.b	"me battre."
 	dc.b	$FD
@@ -681,7 +685,7 @@
 	dc.b	$F9
 	dc.b	$3B
 
-	dc.b	"Alors pas de problŠme, non?"
+	dc.b	"Alors pas de problème, pas vrai?"
 	dc.b	$FC
 	dc.b	"Chaz..."
 	dc.b	$FD
@@ -691,17 +695,17 @@
 	dc.b	$FC
 	dc.b	"sort d'Algo tout entier sur mes"
 	dc.b	$FD
-	dc.b	"‚paules!"
+	dc.b	"épaules!"
 	dc.b	$FD
 	dc.b	"En plus, cette foutu mission"
 	dc.b	$FC
-	dc.b	"nous a ‚t‚ impos‚e par La"
+	dc.b	"nous a été imposée par La"
 	dc.b	$FD
-	dc.b	"LumiŠre SuprŠme!"
+	dc.b	"Lumière Suprème!"
 	dc.b	$FD
-	dc.b	"Si on accomplit sa volont‚,"
+	dc.b	"Si on accomplit sa volonté,"
 	dc.b	$FD
-	dc.b	"sommes-nous si diff‚rents"
+	dc.b	"sommes-nous si différents"
 	dc.b	$FC
 	dc.b	"de Zio?"
 	dc.b	$FD
@@ -709,9 +713,9 @@
 	dc.b	$04
 	dc.b	"Hmmm..."
 	dc.b	$FD
-	dc.b	"Je vois o— tu veux en venir, et"
+	dc.b	"Je vois où tu veux en venir, et"
 	dc.b	$FC
-	dc.b	"je comprends, mais..."
+	dc.b	"je te comprends, mais..."
 	dc.b	$FD
 	dc.b	"Chaz, je veux que tu rencontres"
 	dc.b	$FC
@@ -719,5 +723,5 @@
 	dc.b	$FD
 	dc.b	"Allons au Manoir Esper."
 	dc.b	$FC
-	dc.b	"Tu y trouveras tes r‚ponses!"
+	dc.b	"Tu y trouveras tes réponses!"
 	dc.b	$FF

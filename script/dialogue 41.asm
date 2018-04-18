@@ -138,7 +138,7 @@
 	dc.b	$FC
 	dc.b	"tu dis? Quelle mauviette!"
 	dc.b	$FD
-	dc.b	"Tu pleure alors que tu sais que"
+	dc.b	"Tu pleures, même si tu sais que"
 	dc.b	$FC
 	dc.b	"ce n'est qu'une illusion."
 	dc.b	$FD

@@ -719,13 +719,13 @@
 ; $32
 	dc.b	$F4
 	dc.b	$04
-	dc.b	"J'en était sûr. Elsydeon aveit"
-	dc.b	$FD
-	dc.b	"promis qu'elle te donnerait"
+	dc.b	"J'en était sûr. Elsydeon avait"
 	dc.b	$FC
+	dc.b	"promis qu'elle te donnerait"
+	dc.b	$FD
 	dc.b	"son pouvoir."
 	dc.b	$FD
-	dc.b	"Mon jugement était infaillible!"
+	dc.b	"Mon jugement est infaillible!"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01

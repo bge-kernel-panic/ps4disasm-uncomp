@@ -721,13 +721,13 @@
 	dc.b	$42, $01
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"'28-53 En Service  Gregson'"
+	dc.b	"'En Service  Gregson'"
 	dc.b	$FF
 
 ; $54
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"'28-54 En Service  Hopkins'"
+	dc.b	"'En Service  Hopkins'"
 	dc.b	$FF
 
 ; $55

@@ -176,7 +176,7 @@
 	dc.b	$06
 	dc.b	"Chaz,"
 	dc.b	$FC
-	dc.b	"est-ce que tu choisis Hahn?"
+	dc.b	"est-ce que tu choisis Hahn?"
 	dc.b	$F5
 	dc.b	$00, $01
 	dc.b	$F4

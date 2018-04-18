@@ -560,11 +560,11 @@
 	dc.b	$FD
 	dc.b	"Au revoir, Chaz."
 	dc.b	$FD
-	dc.b	"Le jour viendra où mon Maître et"
+	dc.b	"Le jour viendra où mon Maître"
 	dc.b	$FC
-	dc.b	"moi ne seront plus"
+	dc.b	"et moi ne serons plus"
 	dc.b	$FD
-	dc.b	"indispensables pour Algo."
+	dc.b	"indispensables à Algo."
 	dc.b	$FD
 	dc.b	"Mais, d'ici là, je continuerai"
 	dc.b	$FC
@@ -572,11 +572,11 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$08
-	dc.b	"Une fois tout mes passagers sur"
+	dc.b	"Une fois tous mes passagers sur"
 	dc.b	$FC
 	dc.b	"Dezolis, je retournerai sur"
 	dc.b	$FD
-	dc.b	"Zelan. Vous auraz besoin des"
+	dc.b	"Zelan. Vous aurez besoin des"
 	dc.b	$FC
 	dc.b	"systèmes de contrôle encore"
 	dc.b	$FD
@@ -627,7 +627,7 @@
 
 	dc.b	$F4
 	dc.b	$05
-	dc.b	"Partis."
+	dc.b	"Ils sont partis."
 	dc.b	$F9
 	dc.b	$13
 
@@ -720,13 +720,11 @@
 	dc.b	$FC
 	dc.b	"l'ultime démon, ma mission"
 	dc.b	$FD
-	dc.b	"comme Lutz doit continuer..."
+	dc.b	"en tant que Lutz continue..."
 	dc.b	$FD
-	dc.b	"Je dois protéger Algo au"
-	dc.b	$FC
-	dc.b	"complet."
+	dc.b	"Je dois protéger tout Algo."
 	dc.b	$FD
-	dc.b	"Je dois encore m'entraîner,"
+	dc.b	"Je dois m'entraîner encore,"
 	dc.b	$FC
 	dc.b	"gagner en expérience."
 	dc.b	$FD
@@ -746,7 +744,7 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04
-	dc.b	"Probablement."
+	dc.b	"Probablement pas."
 	dc.b	$FD
 	dc.b	"Petit sot! Sèche tes larmes..."
 	dc.b	$FD

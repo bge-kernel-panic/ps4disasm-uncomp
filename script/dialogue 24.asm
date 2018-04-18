@@ -167,7 +167,7 @@
 	dc.b	$FF
 
 ; $1C
-	dc.b	"24-1C C'est quoi, le 'continent?'"
+	dc.b	"C'est quoi, le 'continent?'"
 	dc.b	$FC
 	dc.b	"C'est vraiment si bien que ça?"
 	dc.b	$FF

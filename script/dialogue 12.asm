@@ -316,8 +316,6 @@
 	dc.b	$FF
 
 ; $1B
-	dc.b	"12-1B"
-	dc.b	$FC
 	dc.b	"Oh non! Mon fils jouait dehors"
 	dc.b	$FC
 	dc.b	"et est tombé dans la crevasse!"
