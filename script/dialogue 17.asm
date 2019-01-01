@@ -499,7 +499,7 @@
 	dc.b	$FD
 	dc.b	"J'ai un bon pressentiment, je"
 	dc.b	$FC
-	dc.b	"vais vais vous confier ceci."
+	dc.b	"vais vous confier ceci."
 	dc.b	$FD
 	dc.b	"C'est un trésor qui s'est"
 	dc.b	$FC
@@ -529,7 +529,7 @@
 	dc.b	$FD
 	dc.b	"J'ai un bon pressentiment, je"
 	dc.b	$FC
-	dc.b	"vais vais vous confier ceci."
+	dc.b	"vais vous confier ceci."
 	dc.b	$FD
 	dc.b	"C'est un trésor qui s'est"
 	dc.b	$FC

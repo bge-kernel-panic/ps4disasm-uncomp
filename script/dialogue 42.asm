@@ -409,7 +409,7 @@
 	dc.w	$0141
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Ah!"
+	dc.b	"Ah! "
 	dc.b	$F2, $03
 	dc.b	$AD
 	dc.b	"Que se passe-t-il!?"
@@ -418,7 +418,7 @@
 	dc.b	$AD
 	dc.b	$F4
 	dc.b	$04
-	dc.b	"La force qui mainteant"
+	dc.b	"La force qui maintenait"
 	dc.b	$FC
 	dc.b	$F2, $03
 	dc.b	$AD
