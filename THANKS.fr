@@ -1,5 +1,5 @@
-The French translator, Benoit Goudreault-Emond, would like to extend
-thanks to the following people:
+The French translators, Benoit Goudreault-Emond and Anthony Gallet, 
+would like to extend thanks to the following people:
 
 - Michał Ziąbkowski (mziab@o2.pl) for his very precious help as the
   Polish translator.  He provided several hints on font encoding
@@ -16,8 +16,8 @@ thanks to the following people:
   children.  He also told me the font was 8x16 which did point me
   in the right direction.
 
-- His daughter, Stéphanie, for bugging him incessantly about the project,
-  but also for beta testing the whole thing.
+- Benoit's daughter, Stéphanie, for bugging him incessantly about 
+  the project, but also for beta testing parts of it.
 
 If the translator has forgotten anybody, you may contact him and
 request to be added to this file at bgoudreaultemond@gmail.com
