@@ -19,5 +19,5 @@ would like to extend thanks to the following people:
 - Benoit's daughter, Stéphanie, for bugging him incessantly about 
   the project, but also for beta testing parts of it.
 
-If the translator has forgotten anybody, you may contact him and
+If the translators have forgotten anybody, you may contact Benoit and
 request to be added to this file at bgoudreaultemond@gmail.com
