@@ -1904,6 +1904,11 @@ Command_Item  = 4
 Command_Defense  = 5
 
 ; ---------------------------------------------------------------------------
+; Window sizes, sometimes those are used in several locations as immediate
+; values and we want it to be easier to handle
+WindowSize_CombatTransient = $13
+
+; ---------------------------------------------------------------------------
 ; Address Constants
 ; ---------------------------------------------------------------------------
 
