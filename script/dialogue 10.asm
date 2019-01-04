@@ -98,7 +98,7 @@
 	dc.b	$FC
 	dc.b	"C'était vraiment délicieux."
 	dc.b	$FD
-	dc.b	"Je vais laver les contenant et"
+	dc.b	"Je vais laver les contenants et"
 	dc.b	$FC
 	dc.b	"vous les retourner."
 	dc.b	$FD
@@ -273,7 +273,7 @@
 	dc.b	$FC
 	dc.b	"il est difficile de s'empêcher"
 	dc.b	$FD
-	dc.b	"de magasiner quand on est dans"
+	dc.b	"de dépenser quand on est dans"
 	dc.b	$FC
 	dc.b	"le feu de l'action!"
 	dc.b	$FF
@@ -289,7 +289,7 @@
 ; $26
 	dc.b	"On a fait le voyage jusqu'ici"
 	dc.b	$FC
-	dc.b	"pour magasiner au marché..."
+	dc.b	"pour faire du shopping..."
 	dc.b	$FD
 	dc.b	"Mais on a tout flambé avec"
 	dc.b	$FC
@@ -449,7 +449,7 @@
 	dc.b	$01
 	dc.b	"Ouf, finalement, chez nous!"
 	dc.b	$FD
-	dc.b	"Devrions-nous relaxer pour le"
+	dc.b	"On pourrait se détendre pour le"
 	dc.b	$FC
 	dc.b	"reste de la journée?"
 	dc.b	$F5

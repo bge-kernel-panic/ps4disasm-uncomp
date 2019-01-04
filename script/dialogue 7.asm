@@ -188,7 +188,7 @@
 	dc.b	$FD
 	dc.b	"Et Petit, tente de ne pas"
 	dc.b	$FC
-	dc.b	"être dans les jambes."
+	dc.b	"être dans mes pattes."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
@@ -439,7 +439,7 @@
 	dc.b	$02
 	dc.b	"Espèce de vieux schnock bavard!"
 	dc.b	$FD
-	dc.b	"Tu vends mes mensurations à"
+	dc.b	"Tu vends mes mensurations au"
 	dc.b	$FC
 	dc.b	"tout venant!?"
 	dc.b	$F7

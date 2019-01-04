@@ -171,9 +171,9 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01, $00
-	dc.b	"Alors nous devons retourner à"
+	dc.b	"Alors nous devons retourner au"
 	dc.b	$FC
-	dc.b	"l'aéroport?"
+	dc.b	"spatioport?"
 	dc.b	$FF
 
 ; $1E
@@ -530,10 +530,12 @@
 	dc.b	$F4
 	dc.b	$08, $02
 	dc.b	"Vérification opérationnelle"
-	dc.b	$FD
-	dc.b	"terminée. Tous mes systèmes"
 	dc.b	$FC
-	dc.b	"fonctionnent à pleine capacité."
+	dc.b	"terminée."
+	dc.b	$FD
+	dc.b	"Tous mes systèmes fonctionnent"
+	dc.b	$FC
+	dc.b	"à pleine capacité."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04, $01
@@ -560,10 +562,12 @@
 	dc.b	$F4
 	dc.b	$08, $02
 	dc.b	"Vérification opérationnelle"
-	dc.b	$FD
-	dc.b	"terminée. Tous mes systèmes"
 	dc.b	$FC
-	dc.b	"fonctionnent à pleine capacité."
+	dc.b	"terminée."
+	dc.b	$FD
+	dc.b	"Tous mes systèmes fonctionnent"
+	dc.b	$FC
+	dc.b	"à pleine capacité."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04, $01
@@ -596,10 +600,12 @@
 	dc.b	$F4
 	dc.b	$08, $02
 	dc.b	"Vérification opérationnelle"
-	dc.b	$FD
-	dc.b	"terminée. Tous mes systèmes"
 	dc.b	$FC
-	dc.b	"fonctionnent à pleine capacité."
+	dc.b	"terminée."
+	dc.b	$FD
+	dc.b	"Tous mes systèmes fonctionnent"
+	dc.b	$FC
+	dc.b	"à pleine capacité."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04, $01
@@ -630,10 +636,12 @@
 	dc.b	$F4
 	dc.b	$08, $02
 	dc.b	"Vérification opérationnelle"
-	dc.b	$FD
-	dc.b	"terminée. Tous mes systèmes"
 	dc.b	$FC
-	dc.b	"fonctionnent à pleine capacité."
+	dc.b	"terminée."
+	dc.b	$FD
+	dc.b	"Tous mes systèmes fonctionnent"
+	dc.b	$FC
+	dc.b	"à pleine capacité."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04, $01
@@ -666,10 +674,12 @@
 	dc.b	$F4
 	dc.b	$08, $02
 	dc.b	"Vérification opérationnelle"
-	dc.b	$FD
-	dc.b	"terminée. Tous mes systèmes"
 	dc.b	$FC
-	dc.b	"fonctionnent à pleine capacité."
+	dc.b	"terminée."
+	dc.b	$FD
+	dc.b	"Tous mes systèmes fonctionnent"
+	dc.b	$FC
+	dc.b	"à pleine capacité."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04, $01
@@ -702,10 +712,12 @@
 	dc.b	$F4
 	dc.b	$08, $02
 	dc.b	"Vérification opérationnelle"
-	dc.b	$FD
-	dc.b	"terminée. Tous mes systèmes"
 	dc.b	$FC
-	dc.b	"fonctionnent à pleine capacité."
+	dc.b	"terminée."
+	dc.b	$FD
+	dc.b	"Tous mes systèmes fonctionnent"
+	dc.b	$FC
+	dc.b	"à pleine capacité."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04, $01

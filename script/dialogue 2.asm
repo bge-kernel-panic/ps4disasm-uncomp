@@ -359,7 +359,7 @@
 	dc.b	$FF
 
 ; $4E
-	dc.b	"On ne peut pas explique ça"
+	dc.b	"On ne peut pas expliquer ça"
 	dc.b	$FC
 	dc.b	"juste en disant que la surface"
 	dc.b	$FD
@@ -481,9 +481,9 @@
 ; $5B
 	dc.b	"Merci pour tout!"
 	dc.b	$FD
-	dc.b	"Maintenant tout peut revenir"
+	dc.b	"Maintenant nous pouvons sauver"
 	dc.b	$FC
-	dc.b	"à la normale dans ce dortoir."
+	dc.b	"les apparences dans ce dortoir."
 	dc.b	$FD
 	dc.b	"Nous remmettrons la somme con-"
 	dc.b	$FC
@@ -551,7 +551,7 @@
 	dc.b	$FF
 
 ; $62
-	dc.b	"2-62 Quand c'est aussi débile,"
+	dc.b	"Quand le monde est aussi fou,"
 	dc.b	$FC
 	dc.b	"j'ai encore moins envie d'aller"
 	dc.b	$FD
@@ -663,7 +663,7 @@
 	dc.b	$FD
 	dc.b	"bizarre et qu'elle a tout"
 	dc.b	$FC
-	dc.b	"planté là et quitté."
+	dc.b	"planté là et est partie."
 	dc.b	$FD
 	dc.b	"Je croyais que ce n'était qu'une"
 	dc.b	$FC
@@ -685,9 +685,9 @@
 	dc.b	$FD
 	dc.b	"Je vous en prie, tentez de la"
 	dc.b	$FC
-	dc.b	"ramener avant que le peuple"
+	dc.b	"ramener avant que les gens"
 	dc.b	$FD
-	dc.b	"soit mis au courant!"
+	dc.b	"l'apprennent!"
 	dc.b	$FD
 	dc.b	"Merci de vous donner tant"
 	dc.b	$FC
