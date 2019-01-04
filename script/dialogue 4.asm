@@ -530,7 +530,7 @@
 	dc.b	$FF
 
 ; $43
-	dc.b	"Vous dites que le point est"
+	dc.b	"Vous dites que le pont est"
 	dc.b	$FC
 	dc.b	"réparé?"
 	dc.b	$FD

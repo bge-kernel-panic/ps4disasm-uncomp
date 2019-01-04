@@ -866,7 +866,7 @@
 	dc.b	$FD
 	dc.b	"pour payer la chambre, et on"
 	dc.b	$FC
-	dc.b	"nous a arrêtés."
+	dc.b	"nous a arrêtées."
 	dc.b	$FD
 	dc.b	"C'est vrai? Mes parents nous"
 	dc.b	$FC

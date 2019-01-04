@@ -449,9 +449,9 @@
 	dc.b	$01
 	dc.b	"Ouf, finalement, chez nous!"
 	dc.b	$FD
-	dc.b	"On pourrait se détendre pour le"
+	dc.b	"Devrions-nous nous détendre pour"
 	dc.b	$FC
-	dc.b	"reste de la journée?"
+	dc.b	"le reste de la journée?"
 	dc.b	$F5
 	dc.b	$00, $01
 	dc.b	"Parfait, soyons frais et dispos"

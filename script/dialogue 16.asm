@@ -288,11 +288,11 @@
 	dc.b	$FD
 	dc.b	"La tempête a laissé plein de"
 	dc.b	$FC
-	dc.b	"bancs de neige, pis ça a toute"
+	dc.b	"bancs de neige, pis ça a toutte"
 	dc.b	$FD
 	dc.b	"compacté en glace."
 	dc.b	$FD
-	dc.b	"Là, Desolis est toutte séparée"
+	dc.b	"Là, Dezolis est toutte séparée"
 	dc.b	$FC
 	dc.b	"en morceaux."
 	dc.b	$FD

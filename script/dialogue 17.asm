@@ -808,7 +808,7 @@
 	dc.b	$FF
 
 ; $3A
-	dc.b	"An 2284. L'épidémie de monstres"
+	dc.b	"2284 AW. L'épidémie de monstres"
 	dc.b	$FF
 
 ; $3B

@@ -750,10 +750,10 @@
 	dc.w	$0041
 	dc.b	$F4
 	dc.b	$06
-	dc.b	"Chaz! Ça ne sent pas bon!"
-	dc.b	$FC
-	dc.b	"Même Gires ne guérit pas"
+	dc.b	"Chaz! Ça ne va pas du tout!"
 	dc.b	$FD
+	dc.b	"Même Gires ne guérit pas"
+	dc.b	$FC
 	dc.b	"la blessure d'Alys!"
 	dc.b	$FD
 	dc.b	$F4

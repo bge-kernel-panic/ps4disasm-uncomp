@@ -552,9 +552,9 @@
 
 ; $62
 	dc.b	"Quand le monde est aussi fou,"
-	dc.b	$FC
-	dc.b	"j'ai encore moins envie d'aller"
 	dc.b	$FD
+	dc.b	"j'ai encore moins envie d'aller"
+	dc.b	$FC
 	dc.b	"en classe."
 	dc.b	$FF
 
@@ -685,7 +685,7 @@
 	dc.b	$FD
 	dc.b	"Je vous en prie, tentez de la"
 	dc.b	$FC
-	dc.b	"ramener avant que les gens"
+	dc.b	"ramener avant que les gens ne"
 	dc.b	$FD
 	dc.b	"l'apprennent!"
 	dc.b	$FD

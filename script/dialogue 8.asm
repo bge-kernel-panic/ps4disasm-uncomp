@@ -448,7 +448,7 @@
 	dc.b	$FC
 	dc.b	"système solaire Algo,"
 	dc.b	$FD
-	dc.b	"fut détruite en l'an 1284 quand"
+	dc.b	"fut détruite en 1284 AW quand"
 	dc.b	$FC
 	dc.b	"Gaira, un satellite artificiel,"
 	dc.b	$FD
