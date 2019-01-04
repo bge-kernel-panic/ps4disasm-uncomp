@@ -2220,6 +2220,10 @@ H_Scroll_BG = ramaddr($FFFFEF9C)
 
 Battle_Turn_Order = ramaddr($FFFFEFB0)	; Index and agility of characters and enemies; order is from highest to lowest agility
 											; bytes 1-2 = index; bytes 3-4 = agility
+CredText_A = ramaddr($FFFFED96)	; some scrolling credit variable
+CredText_B = ramaddr($FFFFED98)	; control variable for credits
+FadeControl = ramaddr($FFFFED95)	; bit 2: fade in first block, bit 3: fade in second block, 
+									; bit 4: fade out first block, bit 5: fade out second block, bit 6: end of sequence, wait, bit 7: end of credits
 
 ; --------------------------------------------------
 ; Data saved in SRAM
