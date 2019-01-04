@@ -55,7 +55,7 @@
 	dc.b	$FD
 	dc.b	"rénovée, il vaudrait mieux avoir"
 	dc.b	$FC
-	dc.b	"des soldes compétitifs."
+	dc.b	"des soldes compétitives."
 	dc.b	$FF
 
 ; $6
@@ -63,7 +63,7 @@
 	dc.b	$FC
 	dc.b	"donner un coup de main."
 	dc.b	$FD
-	dc.b	"19-6 Il m'a demandé d'être sage"
+	dc.b	"Il m'a demandé d'être sage"
 	dc.b	$FC
 	dc.b	"et d'attendre qu'il revienne."
 	dc.b	$FF
@@ -129,9 +129,9 @@
 	dc.b	$FF
 
 ; $F
-	dc.b	"Finalment! Les affaires semblent"
+	dc.b	"Finalement! Les affaires"
 	dc.b	$FC
-	dc.b	"vouloir reprendre."
+	dc.b	"semblent vouloir reprendre."
 	dc.b	$FF
 
 ; $10
@@ -157,7 +157,7 @@
 	dc.b	$FF
 
 ; $12
-	dc.b	"19-12 Je suis très heureuse"
+	dc.b	"Je suis très heureuse"
 	dc.b	$FC
 	dc.b	"d'avoir une maison toute neuve!"
 	dc.b	$FD
@@ -183,7 +183,7 @@
 	dc.b	$FF
 
 ; $14
-	dc.b	"19-14 Oh là là. Je suis presque"
+	dc.b	"Oh là là. Je suis presque"
 	dc.b	$FC
 	dc.b	"ruiné à cause de tous ces"
 	dc.b	$FD

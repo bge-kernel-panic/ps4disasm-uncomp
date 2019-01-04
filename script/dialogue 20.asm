@@ -314,7 +314,7 @@
 	dc.b	$FC
 	dc.b	"tous la foi, pas vrai?"
 	dc.b	$FD
-	dc.b	"Nous croyens dans la légende des"
+	dc.b	"Nous croyons dans la légende des"
 	dc.b	$FC
 	dc.b	"Espers, qui dit que Lutz est"
 	dc.b	$FD
@@ -324,7 +324,7 @@
 	dc.b	$FD
 	dc.b	"C'est pourquoi...pourquoi..."
 	dc.b	$FC
-	dc.b	"nous travaillons si fort..."
+	dc.b	"nous travaillons si dur..."
 	dc.b	$FD
 	dc.b	"il doit encore exister!"
 	dc.b	$FD

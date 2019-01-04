@@ -29,9 +29,9 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$06
-	dc.b	"Mais la tempête est particlière-"
+	dc.b	"Mais la tempête est particuliè-"
 	dc.b	$FC
-	dc.b	"ment brutale par ici."
+	dc.b	"rement brutale par ici."
 	dc.b	$FD
 	dc.b	"Je les comprends."
 	dc.b	$FF
@@ -338,7 +338,7 @@
 	dc.b	$FF
 
 ; $1E
-	dc.b	"Même nous Dezolisiens hésitent"
+	dc.b	"Même nous Dezolisiens hésitons"
 	dc.b	$FC
 	dc.b	"à sortir lors d'une telle"
 	dc.b	$FD
@@ -368,7 +368,7 @@
 	dc.b	$FF
 
 ; $20
-	dc.b	"Cette maison a survécue, je"
+	dc.b	"Cette maison a survécu, je"
 	dc.b	$FC
 	dc.b	"ne sais comment."
 	dc.b	$FF
@@ -400,13 +400,13 @@
 	dc.b	$FD
 	dc.b	"Bon, parce que j'ai bon coeur,"
 	dc.b	$FC
-	dc.b	"le vous laisse entrer."
+	dc.b	"je vous laisse entrer."
 	dc.b	$FD
 	dc.b	"Mais comme vous êtes ceux qui"
 	dc.b	$FC
 	dc.b	"ont ouvert la porte, auriez-vous"
 	dc.b	$FD
-	dc.b	"l'oligeance de la refermer?"
+	dc.b	"l'obligeance de la refermer?"
 	dc.b	$FC
 	dc.b	"Il fait froid dehors!"
 	dc.b	$FF
@@ -440,7 +440,7 @@
 	dc.b	$FD
 	dc.b	"Les gens à l'humeur changeante"
 	dc.b	$FC
-	dc.b	"ne seront pas pris au sérieux"
+	dc.b	"ne sont pas pris au sérieux"
 	dc.b	$FD
 	dc.b	"par quiconque!"
 	dc.b	$FF
@@ -492,7 +492,7 @@
 ; $29
 	dc.b	"Je me demande si la flamme"
 	dc.b	$FC
-	dc.b	"sacrée est en sécuritée?"
+	dc.b	"sacrée est en sécurité?"
 	dc.b	$FF
 
 ; $2A
@@ -531,8 +531,6 @@
 
 ; $2D
 	dc.b	"Le Temple Gumbious a disparu?"
-	dc.b	$FC
-	dc.b	"disappeared?!"
 	dc.b	$FD
 	dc.b	"Bonté divine..."
 	dc.b	$FD

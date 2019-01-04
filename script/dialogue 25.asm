@@ -381,7 +381,7 @@
 ; $35
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Wow. Quel étrange volatil! Il"
+	dc.b	"Wow. Quel étrange volatile! Il"
 	dc.b	$FC
 	dc.b	"n'a pas l'air commode. Il vaut"
 	dc.b	$FD
@@ -589,7 +589,7 @@
 	dc.b	$01
 	dc.b	"On s'en occupera si ça s'avère"
 	dc.b	$FC
-	dc.b	"le cas!"
+	dc.b	"nécessaire!"
 	dc.b	$FD
 	dc.b	"Bon, tout le monde... sortons"
 	dc.b	$FC

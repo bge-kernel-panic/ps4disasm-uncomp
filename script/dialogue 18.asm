@@ -487,7 +487,7 @@
 ; $52
 	dc.b	"Je devrais peut-être penser"
 	dc.b	$FC
-	dc.b	"opérer un hôpital."
+	dc.b	"à en faire un hôpital."
 	dc.b	$FF
 
 ; $53
@@ -762,7 +762,7 @@
 	dc.b	$FD
 	dc.b	"Kyra...Kyra se dirige vers"
 	dc.b	$FC
-	dc.b	"la Tour Garuberk Tower seule!"
+	dc.b	"la Tour Garuberk toute seule!"
 	dc.b	$F7
 
 	dc.b	$F4

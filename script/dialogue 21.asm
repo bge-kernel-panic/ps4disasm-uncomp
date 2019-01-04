@@ -21,7 +21,7 @@
 ; $3
 	dc.b	"Ce manoir est coupé du reste de"
 	dc.b	$FC
-	dc.b	"Dezoris par ce mur de glace."
+	dc.b	"Dezolis par ce mur de glace."
 	dc.b	$FF
 
 ; $4
@@ -67,7 +67,7 @@
 	dc.b	$FD
 	dc.b	"Ce n'est pas parce que vous avez"
 	dc.b	$FC
-	dc.b	"pu revenir en un morceau..."
+	dc.b	"pu revenir en un seul morceau..."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$0A
@@ -103,7 +103,7 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$0A
-	dc.b	"Je ne leur en veut pas de dire"
+	dc.b	"Je ne leur en veux pas de dire"
 	dc.b	$FC
 	dc.b	"de telles choses."
 	dc.b	$FD
