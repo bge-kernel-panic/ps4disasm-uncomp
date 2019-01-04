@@ -461,11 +461,9 @@
 	dc.b	$05
 	dc.b	"Wow! Je savais qu'elle était une"
 	dc.b	$FC
-	dc.b	"androïde, mais elle est bien"
+	dc.b	"androïde, mais c'est bien au"
 	dc.b	$FD
-	dc.b	"plus que ce à quoi je"
-	dc.b	$FC
-	dc.b	"m'attendais!"
+	dc.b	"delà de mes attentes!"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$03
@@ -689,7 +687,7 @@
 	dc.b	$FC
 	dc.b	"dieu, vous détruira."
 	dc.b	$FD
-	dc.b	"Oh, la plus grand, le seul et"
+	dc.b	"Oh, le plus grand, le seul et"
 	dc.b	$FC
 	dc.b	"ultime dieu, Dark Force!"
 	dc.b	$FD
@@ -752,9 +750,11 @@
 	dc.w	$0041
 	dc.b	$F4
 	dc.b	$06
-	dc.b	"Chaz! C'est inutile! Gires ne"
+	dc.b	"Chaz! Ça ne sent pas bon!"
 	dc.b	$FC
-	dc.b	"guérit pas la blessure d'Alys!"
+	dc.b	"Même Gires ne guérit pas"
+	dc.b	$FD
+	dc.b	"la blessure d'Alys!"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01

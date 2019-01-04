@@ -99,7 +99,7 @@
 	dc.b	$61, $01
 	dc.b	"Ce magasin fait des affaires"
 	dc.b	$FC
-	dc.b	"d'or avec ces séismes!"
+	dc.b	"en or avec ces séismes!"
 	dc.b	$FD
 	dc.b	"Ils profitent de la situation"
 	dc.b	$FC
@@ -222,7 +222,7 @@
 	dc.b	$FF
 
 ; $13
-	dc.b	"Mon fils et ma bru vivaient"
+	dc.b	"Mon fils et sa femme vivaient"
 	dc.b	$FC
 	dc.b	"juste à côté, malheureusement..."
 	dc.b	$FD
@@ -234,9 +234,9 @@
 ; $14
 	dc.b	"Juste entre vous et moi..."
 	dc.b	$FD
-	dc.b	"Ma bru, elle est totalement"
+	dc.b	"Ma belle-fille, elle est"
 	dc.b	$FC
-	dc.b	"dévergondée!"
+	dc.b	"totalement dévergondée!"
 	dc.b	$FD
 	dc.b	"Au fond, je suis heureuse"
 	dc.b	$FC
