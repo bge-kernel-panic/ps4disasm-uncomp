@@ -185,7 +185,7 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$05
-	dc.b	"Elle ne semble ça n'aille pas"
+	dc.b	"Il semble que ça n'aille pas"
 	dc.b	$FC
 	dc.b	"en s'améliorant."
 	dc.b	$FD
