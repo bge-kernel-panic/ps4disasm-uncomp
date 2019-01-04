@@ -185,9 +185,9 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$05
-	dc.b	"Elle ne semble pas prendre"
+	dc.b	"Il semble que ça n'aille pas"
 	dc.b	$FC
-	dc.b	"du mieux."
+	dc.b	"en s'améliorant."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
@@ -236,9 +236,9 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$05
-	dc.b	"Donc, nous n'avons pas le choix"
+	dc.b	"Donc, nous n'avons pas d'autre"
 	dc.b	$FC
-	dc.b	"de vaincre Zio!"
+	dc.b	"choix que de vaincre Zio!"
 	dc.b	$FD
 	dc.b	$F2, $01
 	dc.b	$F4
@@ -260,7 +260,9 @@
 	dc.b	$06
 	dc.b	"Alys, ne t'en fait pas. Nous"
 	dc.b	$FC
-	dc.b	"trouverons moyen de vaincre Zio!"
+	dc.b	"trouverons un moyen"
+	dc.b	$FD
+	dc.b	"de vaincre Zio!"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$22

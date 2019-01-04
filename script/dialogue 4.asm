@@ -532,7 +532,7 @@
 ; $43
 	dc.b	"Vous dites que le point est"
 	dc.b	$FC
-	dc.b	"réparé!"
+	dc.b	"réparé?"
 	dc.b	$FD
 	dc.b	"Mon mari va finalement pouvoir"
 	dc.b	$FC
@@ -540,7 +540,7 @@
 	dc.b	$FF
 
 ; $44
-	dc.b	"Juste comme j'imaginais que"
+	dc.b	"Juste quand j'imaginais que"
 	dc.b	$FC
 	dc.b	"toutes ces calamités étaient"
 	dc.b	$FD
@@ -758,7 +758,7 @@
 	dc.b	$FF
 
 ; $5C
-	dc.b	"4-5C C'est vrai? Zio est mort?"
+	dc.b	"C'est vrai? Zio est mort?"
 	dc.b	$FC
 	dc.b	"Oh, enfin! Je suis soulagé!"
 	dc.b	$FF

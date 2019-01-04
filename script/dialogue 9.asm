@@ -547,7 +547,7 @@
 ; $43
 	dc.b	"Tous ces gens qui venaient pour"
 	dc.b	$FC
-	dc.b	"l'Église ont finalement quitté!"
+	dc.b	"l'Église sont finalement partis!"
 	dc.b	$FF
 
 ; $44
@@ -684,7 +684,7 @@
 	dc.b	$24
 	dc.b	"Oh là là! Comment j'ai fait pour"
 	dc.b	$FC
-	dc.b	"aboutir ici?"
+	dc.b	"arriver ici?"
 	dc.b	$FD
 	dc.b	"Où suis-je?"
 	dc.b	$FC
@@ -722,7 +722,7 @@
 	dc.b	$FF
 
 ; $55
-	dc.b	"9-55 Comment ça va?"
+	dc.b	"Comment ça va?"
 	dc.b	$FF
 
 ; $56

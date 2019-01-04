@@ -29,7 +29,7 @@
 	dc.b	$FF
 
 ; $2
-	dc.b	"14-2 Ah, vous semblez vous"
+	dc.b	"Ah, vous semblez vous"
 	dc.b	$FC
 	dc.b	"porter bien."
 	dc.b	$FF
@@ -59,7 +59,7 @@
 	dc.b	$FF
 
 ; $5
-	dc.b	"14-5 Quel tête de mule!"
+	dc.b	"Quel tête de mule!"
 	dc.b	$FD
 	dc.b	"Dieu merci, vous êtes sain et"
 	dc.b	$FC
@@ -374,7 +374,7 @@
 	dc.b	$FC
 	dc.b	"d'avoir ce vieux schnock dans"
 	dc.b	$FD
-	dc.b	"les jambes... Que faire?"
+	dc.b	"les pattes... Que faire?"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$06
@@ -530,7 +530,7 @@
 	dc.b	$82, $01
 	dc.b	"Il y a un grand tombeau en"
 	dc.b	$FC
-	dc.b	"banlieu de la ville."
+	dc.b	"banlieue de la ville."
 	dc.b	$FD
 	dc.b	"Ce serait le tombeau du premier"
 	dc.b	$FC
@@ -542,7 +542,7 @@
 	dc.b	$FF
 
 ; $10
-	dc.b	"14-10 Qu'est-ce que ce grand"
+	dc.b	"Qu'est-ce que ce grand"
 	dc.b	$FC
 	dc.b	"espace qui vient d'apparaître"
 	dc.b	$FD
@@ -588,7 +588,7 @@
 	dc.b	$FC
 	dc.b	"Parmaniennes comme celle-ci,"
 	dc.b	$FD
-	dc.b	"mais je ne les ai pas visité."
+	dc.b	"mais je ne les ai pas visitées."
 	dc.b	$FD
 	dc.b	"En fait, je ne tolère pas le"
 	dc.b	$FC

@@ -149,7 +149,7 @@
 	dc.b	$8A, $01
 	dc.b	"Vous n'êtes pas parfois perdu"
 	dc.b	$FC
-	dc.b	"dans vos pensée, comme tout le"
+	dc.b	"dans vos pensées, comme tout le"
 	dc.b	$FD
 	dc.b	"monde?"
 	dc.b	$FD
@@ -335,9 +335,9 @@
 	dc.b	$FC
 	dc.b	"tempête se calmerait."
 	dc.b	$FD
-	dc.b	"Mais il y a une rumeur...Elle..."
+	dc.b	"Mais il y a une rumeur...Ce..."
 	dc.b	$FC
-	dc.b	"Elle n'est qu'une farce, non?"
+	dc.b	"Ce n'est qu'une farce, non?"
 	dc.b	$FF
 
 ; $1B
@@ -808,7 +808,7 @@
 	dc.b	$FF
 
 ; $3A
-	dc.b	"AW 2284. L'épidémie de monstres"
+	dc.b	"An 2284. L'épidémie de monstres"
 	dc.b	$FF
 
 ; $3B

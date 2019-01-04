@@ -288,7 +288,7 @@
 	dc.b	$FD
 	dc.b	"La tempête a laissé plein de"
 	dc.b	$FC
-	dc.b	"bancs de neige, pis ça a toutte"
+	dc.b	"bancs de neige, pis ça a toute"
 	dc.b	$FD
 	dc.b	"compacté en glace."
 	dc.b	$FD

@@ -495,7 +495,7 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$06
-	dc.b	"Garde ça mort, Chaz."
+	dc.b	"Pas un mot de ça, Chaz."
 	dc.b	$FF
 
 ; $1E

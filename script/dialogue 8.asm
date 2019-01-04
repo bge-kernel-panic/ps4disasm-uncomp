@@ -35,9 +35,9 @@
 ; $3
 	dc.b	"C'était notre maison..."
 	dc.b	$FD
-	dc.b	"Oh, bien, on devrait se compter"
+	dc.b	"Oh, bien, on devrait s'estimer"
 	dc.b	$FC
-	dc.b	"chanceux d'être toujours vivant."
+	dc.b	"chanceux d'être encore en vie."
 	dc.b	$FF
 
 ; $4
@@ -49,7 +49,7 @@
 	dc.b	$FC
 	dc.b	"mais malheureusement, c'est un"
 	dc.b	$FD
-	dc.b	"peu épeurant et personne ne"
+	dc.b	"peu effrayant et personne ne"
 	dc.b	$FC
 	dc.b	"se porte volontaire."
 	dc.b	$FF
@@ -220,7 +220,7 @@
 	dc.b	$FC
 	dc.b	"Alors je tente de convaincre"
 	dc.b	$FD
-	dc.b	"le mari qu'on devrait y vivre"
+	dc.b	"mon mari qu'on devrait y vivre"
 	dc.b	$FC
 	dc.b	"un temps."
 	dc.b	$FF
@@ -448,7 +448,7 @@
 	dc.b	$FC
 	dc.b	"système solaire Algo,"
 	dc.b	$FD
-	dc.b	"fut détruite en AW 1284 quand"
+	dc.b	"fut détruite en l'an 1284 quand"
 	dc.b	$FC
 	dc.b	"Gaira, un satellite artificiel,"
 	dc.b	$FD

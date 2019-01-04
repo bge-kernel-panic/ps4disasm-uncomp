@@ -25,7 +25,7 @@
 	dc.b	$FD
 	dc.b	"Je suis Seth."
 	dc.b	$FC
-	dc.b	"Un archéologiste."
+	dc.b	"Un archéologue."
 	dc.b	$FD
 	dc.b	"Je suis venu ici pour trouver"
 	dc.b	$FC
@@ -51,17 +51,17 @@
 	dc.b	$FC
 	dc.b	"joinder à vous?"
 	dc.b	$FD
-	dc.b	"Je suis confiant de mes"
+	dc.b	"Je suis confiant dans mes"
 	dc.b	$FC
 	dc.b	"capacités."
 	dc.b	$FD
-	dc.b	"Je ne serai pas dans les"
+	dc.b	"Je ne serai pas dans vos"
 	dc.b	$FC
-	dc.b	"jambes."
+	dc.b	"pattes."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Hmm, un archéologiste..."
+	dc.b	"Hmm, un archéologue..."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$08
@@ -313,7 +313,7 @@
 	dc.b	$06
 	dc.b	"Le portail n'est pas encore"
 	dc.b	$FC
-	dc.b	"ouvert."
+	dc.b	"ouvert complètement."
 	dc.b	$FD
 	dc.b	"C'est notre chance, Chaz!"
 	dc.b	$FD
@@ -371,7 +371,7 @@
 ; $6
 	dc.b	$F4
 	dc.b	$07
-	dc.b	"Laissez-moi faire."
+	dc.b	"Laissez-le moi."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
@@ -395,7 +395,7 @@
 ; $8
 	dc.b	$F4
 	dc.b	$0A
-	dc.b	"Laissez-moi faire!"
+	dc.b	"Laissez-le moi!"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01

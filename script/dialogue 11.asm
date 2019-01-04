@@ -622,7 +622,7 @@
 	dc.b	$FD
 	dc.b	"C'est comme si quelque chose de"
 	dc.b	$FC
-	dc.b	"mauvais va m'arriver..."
+	dc.b	"mauvais allait m'arriver..."
 	dc.b	$FF
 
 ; $4B
@@ -634,7 +634,7 @@
 	dc.b	$01
 	dc.b	"Pas surprenant qu'il se soit"
 	dc.b	$FC
-	dc.b	"poussé..."
+	dc.b	"sauvé..."
 	dc.b	$FF
 
 ; $4C
@@ -666,7 +666,7 @@
 	dc.b	$FF
 
 ; $4E
-	dc.b	"Deux fille?"
+	dc.b	"Deux filles?"
 	dc.b	$FC
 	dc.b	"Vous voulez dire celles-là?"
 	dc.b	$FF
@@ -679,7 +679,7 @@
 ; $50
 	dc.b	"Ces deux soeurs? Elles ont"
 	dc.b	$FC
-	dc.b	"écopées d'une peine de dix ans,"
+	dc.b	"écopé d'une peine de dix ans,"
 	dc.b	$FD
 	dc.b	"je crois."
 	dc.b	$FD
@@ -740,7 +740,7 @@
 	dc.b	$FC
 	dc.b	"Je vais laisser la cellule"
 	dc.b	$FD
-	dc.b	"débarrée, vous pouvez aller les"
+	dc.b	"ouverte, vous pouvez aller les"
 	dc.b	$FC
 	dc.b	"chercher.", Dialogue_YesSelected	; IMPORTANT NOTE! This must end with "Dialogue_YesSelected"
 												; and the "no" answer must NOT! Otherwise,
@@ -748,7 +748,7 @@
 	dc.b	$FF
 
 ; $54
-	dc.b	"C'est débarré."
+	dc.b	"C'est ouvert."
 	dc.b	$FC
 	dc.b	"Allez-y, emmenez-les."
 	dc.b	$FF
@@ -816,7 +816,7 @@
 	dc.b	$79, $01
 	dc.b	"Nous sommes des ex-détenues."
 	dc.b	$FC
-	dc.b	"Personne ne voudra nous marier!"
+	dc.b	"Personne ne voudra nous épouser!"
 	dc.b	$FF
 
 ; $5D
@@ -858,7 +858,7 @@
 ; $5F
 	dc.b	"Nous sommes venues pour faire"
 	dc.b	$FC
-	dc.b	"du magasinage, mais nous avons"
+	dc.b	"du shopping, mais nous avons"
 	dc.b	$FD
 	dc.b	"manqué de retenue."
 	dc.b	$FC
@@ -866,11 +866,11 @@
 	dc.b	$FD
 	dc.b	"pour payer la chambre, et on"
 	dc.b	$FC
-	dc.b	"nous a mis aux arrêts."
+	dc.b	"nous a arrêtés."
 	dc.b	$FD
 	dc.b	"C'est vrai? Mes parents nous"
 	dc.b	$FC
-	dc.b	"demande de Uzo? Sérieusement?"
+	dc.b	"demandent de Uzo? Sérieusement?"
 	dc.b	$FD
 	dc.b	"Mais avec le garde qui"
 	dc.b	$FC

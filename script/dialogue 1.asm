@@ -9,7 +9,7 @@
 	dc.b	$FD
 	dc.b	"Êtes-vous ici pour nous"
 	dc.b	$FC
-	dc.b	"débarasser des monstres?"
+	dc.b	"débarrasser des monstres?"
 	dc.b	$FF
 
 ; $1
@@ -593,7 +593,7 @@
 	dc.b	$0C, $01
 	dc.b	"Nous lui interdisons de sortir"
 	dc.b	$FC
-	dc.b	"à la noirceur à cause de ces"
+	dc.b	"la nuit à cause de ces"
 	dc.b	$FD
 	dc.b	"horribles monstres, sauf que..."
 	dc.b	$FF

@@ -117,7 +117,7 @@
 	dc.b	$FD
 	dc.b	"Nous sommes coupés de tout sur"
 	dc.b	$FC
-	dc.b	"île, nous ne comprenons pas ce"
+	dc.b	"l'île, nous ne comprenons pas ce"
 	dc.b	$FD
 	dc.b	"qui se passe dans le monde."
 	dc.b	$FF
@@ -167,7 +167,7 @@
 	dc.b	$FF
 
 ; $1C
-	dc.b	"C'est quoi, le 'continent?'"
+	dc.b	"C'est quoi, le 'continent'?"
 	dc.b	$FC
 	dc.b	"C'est vraiment si bien que ça?"
 	dc.b	$FF
@@ -207,9 +207,9 @@
 	dc.b	$AF, $02
 	dc.b	$FA
 	dc.b	$AE, $01
-	dc.b	"L'home qui vit dans cette maison"
+	dc.b	"L'homme qui vit dans cette"
 	dc.b	$FC
-	dc.b	"est un peu bizarre."
+	dc.b	"maison est un peu bizarre."
 	dc.b	$FD
 	dc.b	"Il aime les oiseaux qui mangent"
 	dc.b	$FC

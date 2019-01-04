@@ -181,7 +181,7 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$02
-	dc.b	"Désolé. Je n'en ai pas envie"
+	dc.b	"Désolée. Je n'en ai pas envie"
 	dc.b	$FC
 	dc.b	"aujourd'hui."
 	dc.b	$FD
@@ -445,7 +445,7 @@
 	dc.b	$1F, $01
 	dc.b	$F4
 	dc.b	$11
-	dc.b	"Allez à la maison de Tinkerbell"
+	dc.b	"Allez à la maison de Clochette"
 	dc.b	$FC
 	dc.b	"pour tous les détails."
 	dc.b	$FF

@@ -5,13 +5,13 @@
 	dc.b	$98, $01
 	dc.b	"Bienvenue au Temple Gumbious."
 	dc.b	$FD
-	dc.b	"Même les Parmaniens sont le"
+	dc.b	"Même les Parmaniens sont les"
 	dc.b	$FC
-	dc.b	"bienvenue."
+	dc.b	"bienvenus."
 	dc.b	$FF
 
 ; $1
-	dc.b	"J'aimeras vous souhaiter la"
+	dc.b	"J'aimerai vous souhaiter la"
 	dc.b	$FC
 	dc.b	"bienvenue, mais le Flambeau..."
 	dc.b	$FF
@@ -55,7 +55,7 @@
 	dc.b	$FD
 	dc.b	"tempête, peu de gens peuvent"
 	dc.b	$FC
-	dc.b	"s'y déplacer."
+	dc.b	"y venir."
 	dc.b	$FF
 
 ; $7
@@ -143,7 +143,7 @@
 ; $F
 	dc.b	"Quelle horreur!"
 	dc.b	$FC
-	dc.b	"Notre flamme sacrée est volée!"
+	dc.b	"Notre flamme sacrée a été volée!"
 	dc.b	$FF
 
 ; $10
@@ -219,7 +219,7 @@
 	dc.b	$FD
 	dc.b	"Je vous en prie, cher Parmanien,"
 	dc.b	$FC
-	dc.b	"ramène-nous notre flamme sacrée!"
+	dc.b	"ramenez notre flamme sacrée!"
 	dc.b	$FF
 
 ; $16

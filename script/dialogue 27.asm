@@ -347,7 +347,7 @@
 ; $2B
 	dc.b	$F4
 	dc.b	$11
-		dc.b	"Selon les règlements de la"
+	dc.b	"Selon les règlements de la"
 	dc.b	$FC
 	dc.b	"guilde, vous ne pouvez postuler"
 	dc.b	$FD
@@ -595,7 +595,7 @@
 	dc.b	$FD
 	dc.b	"Je n'ai pas reçu le cachet de la"
 	dc.b	$FC
-	dc.b	"part du solliciteur."
+	dc.b	"part du demandeur."
 	dc.b	$FD
 	dc.b	"Ah ha! C'est un de ces brigands"
 	dc.b	$FC

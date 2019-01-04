@@ -431,7 +431,7 @@
 	dc.b	$FC
 	dc.b	"coin, mais je dois tenir jusqu'à"
 	dc.b	$FD
-	dc.b	"la fin des classes."
+	dc.b	"la fin des cours."
 	dc.b	$FD
 	dc.b	"Je veux manquer rien du"
 	dc.b	$FC
@@ -517,7 +517,7 @@
 	dc.b	$FD
 	dc.b	"Mais c'est terminé maintenant,"
 	dc.b	$FC
-	dc.b	"peut-être c'est pour le mieux"
+	dc.b	"peut-être c'est pour le mieux."
 	dc.b	$FF
 
 ; $25
@@ -557,7 +557,7 @@
 	dc.b	$FF
 
 ; $28
-	dc.b	"Le père de Hahn dis comme ça,"
+	dc.b	"Le père de Hahn dit comme ça,"
 	dc.b	$FC
 	dc.b	"mais..."
 	dc.b	$FD

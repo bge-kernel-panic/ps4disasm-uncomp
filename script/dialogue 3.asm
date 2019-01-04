@@ -38,9 +38,9 @@
 	dc.b	$FD
 	dc.b	"Zema est au nord-est, mais..."
 	dc.b	$FD
-	dc.b	"Dernièrement, il y a des rumeurs"
+	dc.b	"Dernièrement, des rumeurs disent"
 	dc.b	$FC
-	dc.b	"ce serait un village fantôme."
+	dc.b	"que ce serait une ville fantôme."
 	dc.b	$FD
 	dc.b	"Peut-être sont-ils tous partis"
 	dc.b	$FC
@@ -299,7 +299,7 @@
 	dc.b	$FC
 	dc.b	"trop tard."
 	dc.b	$FD
-	dc.b	"Ce fut peut-être un peu cruel"
+	dc.b	"C'était peut-être un peu cruel"
 	dc.b	$FC
 	dc.b	"envers les vers des sables,"
 	dc.b	$FD
@@ -767,7 +767,7 @@
 	dc.b	$FD
 	dc.b	"Eh bien, me voici, frais comme"
 	dc.b	$FC
-	dc.b	"une rose, alors pas de souçi!"
+	dc.b	"une rose, alors pas de souci!"
 	dc.b	$FD
 	dc.b	"Parfait. Recommençons nos"
 	dc.b	$FC
@@ -825,7 +825,7 @@
 	dc.b	$FC
 	dc.b	"après tout ce travail."
 	dc.b	$FD
-	dc.b	"Prenons ça relax aujourd'hui,"
+	dc.b	"Détendons-nous aujourd'hui,"
 	dc.b	$FC
 	dc.b	"d'accord, Chaz?"
 	dc.b	$FD
