@@ -1910,7 +1910,7 @@ WindowSize_CombatTransient = $13
 
 ; ---------------------------------------------------------------------------
 ; Delays for scrolling text, useful if you have to resize
-Intro_ScrollDelay = $2C				; scroll delay for intro text
+Intro_ScrollDelay = $2E				; scroll delay for intro text
 CreditsStage1_ScrollDelay = $3C0	; scroll delay for stage 1 credits; if you want to add text, 
 									; add $20 per additional screen, but you must always an even
 									; number of screens. Screens should be inserted before credits
