@@ -858,7 +858,7 @@
 ; $5F
 	dc.b	"Nous sommes venues pour faire"
 	dc.b	$FC
-	dc.b	"du shopping, mais nous avons"
+	dc.b	"les magasins, mais nous avons"
 	dc.b	$FD
 	dc.b	"manqué de retenue."
 	dc.b	$FC
