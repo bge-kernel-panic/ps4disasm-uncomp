@@ -454,7 +454,7 @@
 ; $88
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"C'est un puit."
+	dc.b	"C'est un puits."
 	dc.b	$FD
 	dc.b	"Il semble être à sec."
 	dc.b	$FF
@@ -502,7 +502,7 @@
 	dc.b	$FD
 	dc.b	"'Cette guilde est à tout le"
 	dc.b	$FC
-	dc.b	"monde. Utilisez-la avec calme.'"
+	dc.b	"monde. Utilisez-la avec calme'."
 	dc.b	$FF
 
 ; $8E
@@ -530,7 +530,7 @@
 	dc.b	$01
 	dc.b	"C'est un large assortiment de"
 	dc.b	$FC
-	dc.b	"pâte à dent dispendieuse."
+	dc.b	"dentifrices hors de prix."
 	dc.b	$FF
 
 ; $91
@@ -841,7 +841,7 @@
 ; $B1
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Je me demand si c'est un autel?"
+	dc.b	"Je me demande si c'est un autel?"
 	dc.b	$FC
 	dc.b	"...Vaut mieux ne pas y toucher."
 	dc.b	$FF
@@ -997,7 +997,7 @@
 	dc.b	$01
 	dc.b	"'Élever des Enfants pour les"
 	dc.b	$FC
-	dc.b	"nuls.'"
+	dc.b	"nuls'."
 	dc.b	$FF
 
 ; $C3
@@ -1099,7 +1099,7 @@
 ; $CF
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Une file de boissons gazeuses"
+	dc.b	"Une rangée de boissons gazeuses"
 	dc.b	$FC
 	dc.b	"bon marchées."
 	dc.b	$FF
@@ -1131,7 +1131,7 @@
 ; $D3
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Une file de boissons gazeuses"
+	dc.b	"Une rangée de boissons gazeuses"
 	dc.b	$FC
 	dc.b	"bon marché."
 	dc.b	$FF
@@ -1181,7 +1181,7 @@
 	dc.b	$01
 	dc.b	"Il y a un écriteau:"
 	dc.b	$FD
-	dc.b	"'Nous Vendons du Trimate.'"
+	dc.b	"'Nous Vendons du Trimate'."
 	dc.b	$FF
 
 ; $DA

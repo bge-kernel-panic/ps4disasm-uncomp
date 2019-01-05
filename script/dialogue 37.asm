@@ -706,7 +706,7 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"La 'Noirceur Profonde?'"
+	dc.b	"La 'Noirceur Profonde'?"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$1B
@@ -760,7 +760,7 @@
 	dc.b	$04
 	dc.b	"Archevêque, ce n'est pas clair."
 	dc.b	$FC
-	dc.b	"Qu'est-ce que 'Rykros?'"
+	dc.b	"Qu'est-ce que 'Rykros'?"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
@@ -806,7 +806,7 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$06
-	dc.b	"'Aero-Prisme!?'"
+	dc.b	"'Aero-Prisme'!?"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04
@@ -904,7 +904,7 @@
 ; $34
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"37-34 Rien à faire."
+	dc.b	"Rien à faire."
 	dc.b	$FD
 	dc.b	"Même bien équipé,"
 	dc.b	$FC

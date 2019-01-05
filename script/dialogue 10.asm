@@ -289,7 +289,7 @@
 ; $26
 	dc.b	"On a fait le voyage jusqu'ici"
 	dc.b	$FC
-	dc.b	"pour faire du shopping..."
+	dc.b	"pour faire les boutiques..."
 	dc.b	$FD
 	dc.b	"Mais on a tout flambé avec"
 	dc.b	$FC

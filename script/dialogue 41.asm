@@ -40,7 +40,7 @@
 	dc.b	$FC
 	dc.b	"m'ennuyer!"
 	dc.b	$FD
-	dc.b	"Comme vous avez passé l'examen"
+	dc.b	"Comme vous passez l'examen"
 	dc.b	$FC
 	dc.b	"de Le Roof,"
 	dc.b	$FD
@@ -134,7 +134,7 @@
 
 	dc.b	$F4
 	dc.b	$23
-	dc.b	"Tiens, tiens... 'Protecteur,'"
+	dc.b	"Tiens, tiens... 'Protecteur',"
 	dc.b	$FC
 	dc.b	"tu dis? Quelle mauviette!"
 	dc.b	$FD

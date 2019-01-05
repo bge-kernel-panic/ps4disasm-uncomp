@@ -87,7 +87,7 @@
 	dc.b	$FD
 	dc.b	"Alors c'est ce que signifiait"
 	dc.b	$FC
-	dc.b	"ce 'retour!'"
+	dc.b	"ce 'retour'!"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$06
@@ -147,7 +147,7 @@
 	dc.b	$FD
 	dc.b	"À votre retour, vous serez"
 	dc.b	$FC
-	dc.b	"confirmés comme 'Protecteurs,'"
+	dc.b	"confirmés comme 'Protecteurs',"
 	dc.b	$FD
 	dc.b	"et j'aurai réponse à vos"
 	dc.b	$FC
@@ -235,7 +235,7 @@
 	dc.b	$FD
 	dc.b	"une forme de vie spirituelle"
 	dc.b	$FC
-	dc.b	"s'est divisée en deux entitées"
+	dc.b	"s'est divisée en deux entités"
 	dc.b	$FD
 	dc.b	"inférieures, qui ont à terme"
 	dc.b	$FC
@@ -274,19 +274,19 @@
 	dc.b	$FC
 	dc.b	"La Noirceur Profonde ne revienne"
 	dc.b	$FD
-	dc.b	"à la vie et a placé une barrière"
+	dc.b	"à la vie et a placé un sceau"
 	dc.b	$FC
 	dc.b	"sur le portail dimensionnel..."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04
-	dc.b	"Une barrière?"
+	dc.b	"Un sceau?"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$00
 	dc.b	"C'est exact...Un gigantesque"
 	dc.b	$FC
-	dc.b	"barrière, formée de trois"
+	dc.b	"sceau, formée de trois"
 	dc.b	$FD
 	dc.b	"planètes autour d'un soleil..."
 	dc.b	$FD
@@ -309,7 +309,7 @@
 	dc.b	$00
 	dc.b	"La Lumière Suprème a éparpillé"
 	dc.b	$FC
-	dc.b	"des Protecteurs de la barrière"
+	dc.b	"des Protecteurs du sceau"
 	dc.b	$FD
 	dc.b	"parmis trois tribus --"
 	dc.b	$FC
@@ -317,13 +317,13 @@
 	dc.b	$FD
 	dc.b	"et Dezolisiens."
 	dc.b	$FD
-	dc.b	"Mais la barrière n'était pas"
+	dc.b	"Mais le sceau n'était pas"
 	dc.b	$FC
 	dc.b	"entièrement stable."
 	dc.b	$FD
 	dc.b	"Une fois tous les mille ans,"
 	dc.b	$FC
-	dc.b	"elle s'affaiblissait"
+	dc.b	"il s'affaiblissait"
 	dc.b	$FD
 	dc.b	"radicalement."
 	dc.b	$FD
@@ -357,9 +357,9 @@
 	dc.b	$FD
 	dc.b	"Donc, Rykros fût conçue pour"
 	dc.b	$FC
-	dc.b	"rompre son silence lorsque la"
+	dc.b	"rompre son silence lorsque le"
 	dc.b	$FD
-	dc.b	"barrière vivait ses derniers"
+	dc.b	"sceau vivait ses derniers"
 	dc.b	$FC
 	dc.b	"instants..."
 	dc.b	$FD
@@ -369,13 +369,13 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$06
-	dc.b	"Les derniers instants de la"
+	dc.b	"Les derniers instants du"
 	dc.b	$FC
-	dc.b	"barrière?"
+	dc.b	"sceau?"
 	dc.b	$FD
 	dc.b	"Que voulez-vous dire par"
 	dc.b	$FC
-	dc.b	"'derniers instants?'"
+	dc.b	"'derniers instants'?"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$00
@@ -389,13 +389,13 @@
 	dc.b	$FD
 	dc.b	"Et tout les mille ans, losrque"
 	dc.b	$FC
-	dc.b	"la barrière faiblit, la partie"
+	dc.b	"le sceau faiblit, la partie"
 	dc.b	$FD
 	dc.b	"la plus puissante de l'esprit"
 	dc.b	$FC
 	dc.b	"haineux de La Noirceur Profonde"
 	dc.b	$FD
-	dc.b	"arrive à passer la barrière et"
+	dc.b	"arrive à passer le sceau et"
 	dc.b	$FC
 	dc.b	"se manifester physiquement dans"
 	dc.b	$FD
@@ -427,9 +427,9 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$06
-	dc.b	"Alors, une partie de la"
+	dc.b	"Alors, une partie du"
 	dc.b	$FC
-	dc.b	"barrière n'est plus!"
+	dc.b	"sceau n'est plus!"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$00
@@ -443,9 +443,9 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Les derniers instants de la"
+	dc.b	"Les derniers instants du"
 	dc.b	$FC
-	dc.b	"barrière..."
+	dc.b	"sceau..."
 	dc.b	$FD
 	dc.b	"Vous voulez-dire que c'est ce"
 	dc.b	$FC
@@ -465,9 +465,9 @@
 	dc.b	$FC
 	dc.b	"brandir son pouvoir effroyable,"
 	dc.b	$FD
-	dc.b	"et réussir à détruire la"
+	dc.b	"et réussir à détruire le"
 	dc.b	$FC
-	dc.b	"barrière, ou bien..."
+	dc.b	"sceau, ou bien..."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
@@ -477,7 +477,7 @@
 	dc.b	$00
 	dc.b	"Quelqu'un la vaincra et rendra"
 	dc.b	$FC
-	dc.b	"la barrière inconséquente."
+	dc.b	"le sceau inutile."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
@@ -489,9 +489,9 @@
 	dc.b	$FC
 	dc.b	"attentivement..."
 	dc.b	$FD
-	dc.b	"Si La Noirceur se libère, la"
+	dc.b	"Si La Noirceur se libère, le"
 	dc.b	$FC
-	dc.b	"barrière, et par conséquent,"
+	dc.b	"sceau, et par conséquent,"
 	dc.b	$FD
 	dc.b	"le système solaire d'Algo,"
 	dc.b	$FC
@@ -574,7 +574,7 @@
 	dc.b	$FD
 	dc.b	"N'importe quoi!"
 	dc.b	$FD
-	dc.b	"Missions, 'Protecteurs,'"
+	dc.b	"Missions, 'Protecteurs',"
 	dc.b	$FC
 	dc.b	"qu'est-ce que ça peut faire?"
 	dc.b	$FD
