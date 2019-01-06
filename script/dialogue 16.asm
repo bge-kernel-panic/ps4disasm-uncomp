@@ -366,17 +366,17 @@
 
 ; $34
 	if raja_plainfrench=1
-	dc.b	"Je ne connais pas la cause de"
+	dc.b	"Je ne sais pas comment cette"
 	dc.b	$FC
-	dc.b	"cette tempête; elle est survenue"
+	dc.b	"tempête a pris fin."
 	dc.b	$FD
-	dc.b	"sans crier gare. Intervention"
+	dc.b	"Intervention divine, ou suite"
 	dc.b	$FC
-	dc.b	"divine, ou plaintes de Dezolis?"
+	dc.b	"aux lamentations de Dezolis?"
 	dc.b	$FD
-	dc.b	"Des rumeurs courent au sujet"
+	dc.b	"Et des rumeurs circulent au"
 	dc.b	$FC
-	dc.b	"du temple Gumbious..."
+	dc.b	"sujet du temple Gumbious..."
 	dc.b	$FD
 	dc.b	"Non, c'est impossible!"
 	dc.b	$FC
