@@ -30,8 +30,8 @@ French Translation task list:
 - Fix the "PRESS START BUTTON" text at title screen DONE
 - Munge the font for the credits so we can an apostrophe and
   can properly translate that for "Merci d'avoir joué" (thank you
-  for playing)
-- Make some modifications optional: DONE
+  for playing) - DONE
+- Make some modifications optional: - DONE
   - Raja's friend Quebec accent, not everybody knows how to decode
     that kind of French :)
   - Changes to credits
@@ -40,5 +40,5 @@ French Translation task list:
 French Translation WONTDO:
 
 - With changed credits, music will end before end of credits. I'm
-  keeping this as-is because it'd be silly to restart it for a couple
-  of frames. What I'll do instead is make the extra frames optional.
+  keeping this because it's not too bad, and I know nothing of the
+  sound driver.
