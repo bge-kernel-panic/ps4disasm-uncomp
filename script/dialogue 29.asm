@@ -502,7 +502,7 @@
 	dc.b	$FD
 	dc.b	"'Cette guilde est à tout le"
 	dc.b	$FC
-	dc.b	"monde. Utilisez-la avec calme'."
+	dc.b	"monde. Utilisez-la avec calme.'"
 	dc.b	$FF
 
 ; $8E
@@ -1181,7 +1181,7 @@
 	dc.b	$01
 	dc.b	"Il y a un écriteau:"
 	dc.b	$FD
-	dc.b	"'Nous Vendons du Trimate'."
+	dc.b	"'Nous Vendons du Trimate.'"
 	dc.b	$FF
 
 ; $DA

@@ -40,7 +40,7 @@
 	dc.b	$FC
 	dc.b	"m'ennuyer!"
 	dc.b	$FD
-	dc.b	"Comme vous passez l'examen"
+	dc.b	"Comme vous avez réussi l'examen"
 	dc.b	$FC
 	dc.b	"de Le Roof,"
 	dc.b	$FD

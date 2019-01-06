@@ -21,3 +21,24 @@ would like to extend thanks to the following people:
 
 If the translators have forgotten anybody, you may contact Benoit and
 request to be added to this file at bgoudreaultemond@gmail.com
+
+French Translation task list:
+
+- Fix width of "cannot flee" message window - DONE
+- Add credits screens for translation - DONE
+- Fix intro scroll length so people can read the last line - DONE
+- Fix the "PRESS START BUTTON" text at title screen DONE
+- Munge the font for the credits so we can an apostrophe and
+  can properly translate that for "Merci d'avoir joué" (thank you
+  for playing)
+- Make some modifications optional:
+  - Raja's friend Quebec accent, not everybody knows how to decode
+    that kind of French :)
+  - Changes to credits
+  - Font changes other than raw accents or missing letters
+
+French Translation WONTDO:
+
+- With changed credits, music will end before end of credits. I'm
+  keeping this as-is because it'd be silly to restart it for a couple
+  of frames. What I'll do instead is make the extra frames optional.

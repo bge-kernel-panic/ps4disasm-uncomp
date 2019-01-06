@@ -49,7 +49,7 @@
 	dc.b	$01
 	dc.b	"Il y a un écriteau."
 	dc.b	$FC
-	dc.b	"'Entrée interdite'."
+	dc.b	"'Entrée interdite.'"
 	dc.b	$FF
 
 ; $5
@@ -63,7 +63,7 @@
 	dc.b	$01
 	dc.b	"Il y a un écriteau."
 	dc.b	$FC
-	dc.b	"'Ne pas jouer dans les marches'."
+	dc.b	"'Ne pas jouer dans les marches.'"
 	dc.b	$FF
 
 ; $7
@@ -663,7 +663,7 @@
 	dc.b	$FC
 	dc.b	"au Personnel Non-Autorisé Passé"
 	dc.b	$FD
-	dc.b	"ce Point'."
+	dc.b	"ce Point.'"
 	dc.b	$FF
 
 ; $4C
