@@ -5,8 +5,10 @@
 	dc.b	$FC
 	dc.b	"appareils météorologiques."
 	dc.b	$FD
-	dc.b	"Ça paraît que nous sommes dans"
+	dc.b	"Ça nous fait bien ressentir"
 	dc.b	$FC
+	dc.b	"que nous sommes dans"
+	dc.b	$FD
 	dc.b	"une ville universitaire."
 	dc.b	$FF
 
@@ -47,7 +49,7 @@
 	dc.b	$01
 	dc.b	"Il y a un écriteau."
 	dc.b	$FC
-	dc.b	"'Entrée interdite.'"
+	dc.b	"'Entrée interdite'."
 	dc.b	$FF
 
 ; $5
@@ -61,7 +63,7 @@
 	dc.b	$01
 	dc.b	"Il y a un écriteau."
 	dc.b	$FC
-	dc.b	"'Ne pas jouer dans les marches.'"
+	dc.b	"'Ne pas jouer dans les marches'."
 	dc.b	$FF
 
 ; $7
@@ -87,7 +89,7 @@
 	dc.b	$01
 	dc.b	"Une collection de 20 volumes"
 	dc.b	$FC
-	dc.b	"poussièreux: 'Histoire d'Algo.'"
+	dc.b	"poussièreux: 'Histoire d'Algo'."
 	dc.b	$FF
 
 ; $A
@@ -109,7 +111,7 @@
 ; $C
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Un livre: 'La Géologie Moderne.'"
+	dc.b	"Un livre: 'La Géologie Moderne'."
 	dc.b	$FF
 
 ; $D
@@ -117,13 +119,13 @@
 	dc.b	$01
 	dc.b	"Un livre: 'La Littérature de"
 	dc.b	$FC
-	dc.b	"Parma.'"
+	dc.b	"Parma'."
 	dc.b	$FF
 
 ; $E
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Un livre: 'Le Polyglotte.'"
+	dc.b	"Un livre: 'Le Polyglotte'."
 	dc.b	$FF
 
 ; $F
@@ -137,7 +139,7 @@
 ; $10
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Un livre: 'Modernologie.'"
+	dc.b	"Un livre: 'Modernologie'."
 	dc.b	$FF
 
 ; $11
@@ -161,7 +163,7 @@
 	dc.b	$01
 	dc.b	"Voici un livre avec pour titre"
 	dc.b	$FC
-	dc.b	"'Phénomènes Célestes.'"
+	dc.b	"'Phénomènes Célestes'."
 	dc.b	$FF
 
 ; $14
@@ -219,7 +221,7 @@
 	dc.b	$01
 	dc.b	"Ce livre a pour titre"
 	dc.b	$FC
-	dc.b	"'Agents de Réaction Chimiques.'"
+	dc.b	"'Agents de Réaction Chimiques'."
 	dc.b	$FF
 
 ; $1B
@@ -233,7 +235,7 @@
 ; $1C
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"C'est un livre de mathématique"
+	dc.b	"C'est un livre de mathématiques"
 	dc.b	$FC
 	dc.b	"totalement épouvantable."
 	dc.b	$FF
@@ -269,7 +271,7 @@
 ; $21
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Cette armoire est barrée."
+	dc.b	"Cette armoire est verrouillée."
 	dc.b	$FF
 
 ; $22
@@ -313,7 +315,7 @@
 	dc.b	$01
 	dc.b	"C'est la cuisine."
 	dc.b	$FC
-	dc.b	"Elle est vraiment malpropre!"
+	dc.b	"Elle est vraiment négligée!"
 	dc.b	$FF
 
 ; $27
@@ -355,7 +357,7 @@
 	dc.b	$01
 	dc.b	"C'est un foyer."
 	dc.b	$FC
-	dc.b	"Aucun feu y brûle."
+	dc.b	"Aucun feu n'y brûle."
 	dc.b	$FF
 
 ; $2C
@@ -395,7 +397,7 @@
 	dc.b	$01
 	dc.b	"C'est écrit, 'Le Grand Ranch des"
 	dc.b	$FC
-	dc.b	"Vers des Sables.'"
+	dc.b	"Vers des Sables'."
 	dc.b	$FF
 
 ; $31
@@ -415,13 +417,13 @@
 	dc.b	$FD
 	dc.b	"On dirait qu'il sert à stocker"
 	dc.b	$FC
-	dc.b	"l'eau du puit."
+	dc.b	"l'eau du puits."
 	dc.b	$FF
 
 ; $33
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"C'est un puit. À sec..."
+	dc.b	"C'est un puits. À sec..."
 	dc.b	$FF
 
 ; $34
@@ -437,7 +439,7 @@
 	dc.b	$01
 	dc.b	"C'est un foyer."
 	dc.b	$FC
-	dc.b	"Aucun feu y brûle."
+	dc.b	"Aucun feu n'y brûle."
 	dc.b	$FF
 
 ; $36
@@ -539,7 +541,7 @@
 	dc.b	$FD
 	dc.b	"Elle n'a pas l'air d'avoir"
 	dc.b	$FC
-	dc.b	"vu beaucoup d'usage récemment."
+	dc.b	"beaucoup servi récemment."
 	dc.b	$FF
 
 ; $40
@@ -581,7 +583,7 @@
 ; $44
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"'Comment Conclure une Vente.'"
+	dc.b	"'Comment Conclure une Vente'."
 	dc.b	$FC
 	dc.b	"Un propriétaire studieux."
 	dc.b	$FF
@@ -591,7 +593,9 @@
 	dc.b	$33, $01
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"C'est barré de l'intérieur..."
+	dc.b	"C'est verrouillé de"
+	dc.b	$FC
+	dc.b	"l'intérieur..."
 	dc.b	$FF
 
 ; $46
@@ -611,7 +615,7 @@
 	dc.b	$FD
 	dc.b	"Veuillez suivre la ligne au"
 	dc.b	$FC
-	dc.b	"plancher."
+	dc.b	"sol."
 	dc.b	$FF
 
 ; $48
@@ -659,7 +663,7 @@
 	dc.b	$FC
 	dc.b	"au Personnel Non-Autorisé Passé"
 	dc.b	$FD
-	dc.b	"ce Point.'"
+	dc.b	"ce Point'."
 	dc.b	$FF
 
 ; $4C
@@ -681,7 +685,7 @@
 ; $4E
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"'L'Histoire de Motavia.'"
+	dc.b	"'L'Histoire de Motavia'."
 	dc.b	$FC
 	dc.b	"Ça n'a pas l'air commode!"
 	dc.b	$FF
@@ -705,7 +709,7 @@
 	dc.b	$01
 	dc.b	"La pensée du jour..."
 	dc.b	$FC
-	dc.b	"'Une Bonne Action Par Jour.'"
+	dc.b	"'Une Bonne Action Par Jour'."
 	dc.b	$FF
 
 ; $52
@@ -735,7 +739,7 @@
 	dc.b	$01
 	dc.b	"C'est un livre pour enfants."
 	dc.b	$FD
-	dc.b	"'Le Lapin Gâté des Prairies...'"
+	dc.b	"'Le Lapin Gâté des Prairies'..."
 	dc.b	$FF
 
 ; $56
@@ -743,9 +747,9 @@
 	dc.b	$01
 	dc.b	"Regardez-moi ce livre illustré!"
 	dc.b	$FD
-	dc.b	"'La Fourmie à Huit Bras et"
+	dc.b	"'La Fourmi à Huit Bras et"
 	dc.b	$FC
-	dc.b	"l'Araignée à Six Jambes...'"
+	dc.b	"l'Araignée à Six Jambes'..."
 	dc.b	$FF
 
 ; $57
@@ -753,7 +757,7 @@
 	dc.b	$01
 	dc.b	"C'est un livre pour enfants."
 	dc.b	$FC
-	dc.b	"'Golden Axe, Volume 3...'"
+	dc.b	"'Golden Axe, Volume 3'..."
 	dc.b	$FF
 
 ; $58
@@ -761,7 +765,7 @@
 	dc.b	$01
 	dc.b	"Regardez-moi ce livre illustré."
 	dc.b	$FC
-	dc.b	"'Les Soldats de Céramique...'"
+	dc.b	"'Les Soldats de Céramique'..."
 	dc.b	$FF
 
 ; $59
@@ -769,7 +773,7 @@
 	dc.b	$01
 	dc.b	"C'est un livre pour enfants"
 	dc.b	$FC
-	dc.b	"'La Reine Dévoilée...'"
+	dc.b	"'La Reine Dévoilée'..."
 	dc.b	$FF
 
 ; $5A
@@ -777,7 +781,7 @@
 	dc.b	$01
 	dc.b	"Regardez-moi ce livre illustré."
 	dc.b	$FC
-	dc.b	"'Une Journée de la Vie d'Ecco.'"
+	dc.b	"'Une Journée de la Vie d'Ecco'."
 	dc.b	$FF
 
 ; $5B
@@ -787,7 +791,7 @@
 	dc.b	$FD
 	dc.b	"'Biographie du Grand Professeur"
 	dc.b	$FC
-	dc.b	"Lubetz.'"
+	dc.b	"Lubetz'."
 	dc.b	$FF
 
 ; $5C
@@ -821,7 +825,7 @@
 	dc.b	$FD
 	dc.b	"Hmm... 'Motavia, Présent et"
 	dc.b	$FC
-	dc.b	"Futur...'"
+	dc.b	"Futur'..."
 	dc.b	$FF
 
 ; $60
@@ -891,7 +895,7 @@
 	dc.b	$01
 	dc.b	"Cette armoire est pleine de"
 	dc.b	$FC
-	dc.b	"boisson gazeuse à l'orange."
+	dc.b	"boissons gazeuses à l'orange."
 	dc.b	$FF
 
 ; $66
@@ -901,7 +905,7 @@
 	dc.b	$FD
 	dc.b	"On dirait un livre à propos des"
 	dc.b	$FC
-	dc.b	"matériaux brutes pour armures."
+	dc.b	"matériaux bruts pour armures."
 	dc.b	$FF
 
 ; $67
@@ -923,7 +927,7 @@
 	dc.b	$01
 	dc.b	"C'est une cuisine."
 	dc.b	$FC
-	dc.b	"...Elle est un peu malpropre."
+	dc.b	"...Elle est un peu négligée."
 	dc.b	$FF
 
 ; $6A
@@ -975,7 +979,7 @@
 ; $70
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"C'est un puit..."
+	dc.b	"C'est un puits..."
 	dc.b	$FF
 
 ; $71
@@ -1003,7 +1007,7 @@
 	dc.b	$01
 	dc.b	"Il y a plein de livres sur"
 	dc.b	$FC
-	dc.b	"l'ingénérie!"
+	dc.b	"l'Ingénierie!"
 	dc.b	$FF
 
 ; $74
@@ -1083,9 +1087,9 @@
 ; $7D
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Cette porte est barrée à double"
+	dc.b	"Cette porte est verrouillée"
 	dc.b	$FC
-	dc.b	"tour."
+	dc.b	"à double tour."
 	dc.b	$FF
 
 ; $7E

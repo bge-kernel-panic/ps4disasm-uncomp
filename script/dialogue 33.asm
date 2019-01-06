@@ -64,9 +64,9 @@
 	dc.b	$FC
 	dc.b	"mêle."
 	dc.b	$FD
-	dc.b	"Partez et cessez de me le"
+	dc.b	"Partez et cessez de"
 	dc.b	$FC
-	dc.b	"mentionner."
+	dc.b	"venir ici."
 	dc.b	$FF
 
 ; $6
@@ -366,7 +366,7 @@
 	dc.b	$FC
 	dc.b	"pas pouvoir nous accompagner"
 	dc.b	$FD
-	dc.b	"et être dans nos jambes gratis?"
+	dc.b	"et être dans nos pattes gratis?"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$03
@@ -504,7 +504,7 @@
 	dc.b	$0E
 	dc.b	"Que...Qui a-t-il?"
 	dc.b	$FC
-	dc.b	"Vous semblez vexés."
+	dc.b	"Vous semblez contrariés."
 	dc.b	$FD
 	dc.b	"Avez-vous pu vaincre tous"
 	dc.b	$FC
@@ -841,7 +841,7 @@
 	dc.b	$FD
 	dc.b	"S'il-vous-plaît, je vous en"
 	dc.b	$FC
-	dc.b	"conjure, éliminez ces horreures!"
+	dc.b	"conjure, éliminez ces horreurs!"
 	dc.b	$FD
 	dc.b	"Et... J'aimerais que vous"
 	dc.b	$FC

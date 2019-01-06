@@ -35,7 +35,7 @@
 	dc.b	$06
 	dc.b	"Je ne vois pas comment il peut"
 	dc.b	$FC
-	dc.b	"y avoir des ordres erronnés"
+	dc.b	"y avoir des ordres erronés"
 	dc.b	$FD
 	dc.b	"transmis, étant donnée que nous"
 	dc.b	$FC
@@ -255,7 +255,7 @@
 	dc.b	$FD
 	dc.b	"Celles-ci doivent être"
 	dc.b	$FC
-	dc.b	"erronnées."
+	dc.b	"erronées."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
@@ -339,7 +339,7 @@
 	dc.b	$FC
 	dc.b	"déterioration environnementale"
 	dc.b	$FD
-	dc.b	"plus important que prévue."
+	dc.b	"plus importante que prévue."
 	dc.b	$FD
 	dc.b	"Ainsi, les conséquences de la"
 	dc.b	$FC
@@ -663,7 +663,7 @@
 	dc.b	$FC
 	dc.b	"à longue portée, qui émet des"
 	dc.b	$FD
-	dc.b	"rafales d'énergie termiques."
+	dc.b	"rafales d'énergie thermiques."
 	dc.b	$FD
 	dc.b	"Il est compatible avec mes"
 	dc.b	$FC

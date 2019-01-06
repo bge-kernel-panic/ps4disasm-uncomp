@@ -91,7 +91,7 @@
 	dc.b	$0A, $00
 	dc.b	"Je vais demander une audience"
 	dc.b	$FC
-	dc.b	"avec 'Lutz!'"
+	dc.b	"avec 'Lutz'!"
 	dc.b	$FD
 	dc.b	"Direction, le Manoir Esper!"
 	dc.b	$FD
@@ -131,7 +131,7 @@
 	dc.b	$FD
 	dc.b	"arbres carnivores. Allons vite"
 	dc.b	$FC
-	dc.b	"au 'Temple Gumbious,' à l'ouest"
+	dc.b	"au 'Temple Gumbious', à l'ouest"
 	dc.b	$FD
 	dc.b	"du Manoir Esper!"
 	dc.b	$FD
@@ -443,7 +443,7 @@
 	dc.b	$06, $01
 	dc.b	"'La Tour du Courage' et"
 	dc.b	$FC
-	dc.b	"'La Tour de la Force...'"
+	dc.b	"'La Tour de la Force'..."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04, $02

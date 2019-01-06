@@ -113,7 +113,7 @@
 	dc.b	$FD
 	dc.b	"destruction totale après le"
 	dc.b	$FC
-	dc.b	"'Grand Effondrement.'"
+	dc.b	"'Grand Effondrement'."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$03
@@ -235,7 +235,7 @@
 	dc.b	$FD
 	dc.b	"et des changements violents"
 	dc.b	$FC
-	dc.b	"de la croûte de la planète."
+	dc.b	"de la surface de la planète."
 	dc.b	$FD
 	dc.b	"Motavia sera détruite!"
 	dc.b	$F7
@@ -280,7 +280,7 @@
 	dc.b	$FC
 	dc.b	"avons à faire, c'est désactiver"
 	dc.b	$FD
-	dc.b	"'Nurvus,' l'installation qui"
+	dc.b	"'Nurvus', l'installation qui"
 	dc.b	$FC
 	dc.b	"fournit l'énergie aux autres."
 	dc.b	$FD
@@ -292,7 +292,7 @@
 	dc.b	$00
 	dc.b	"D'abord, veuillez porter secours"
 	dc.b	$FC
-	dc.b	"à 'Demi,' l'androïde-contrôle."
+	dc.b	"à 'Demi', l'androïde-contrôle."
 	dc.b	$FD
 	dc.b	$F2, $00
 	dc.w	$0035
@@ -477,7 +477,7 @@
 	dc.b	$FD
 	dc.b	"Nous devons disséminer ces"
 	dc.b	$FC
-	dc.b	"information le plus possible."
+	dc.b	"informations le plus possible."
 	dc.b	$FF
 
 ; $2
@@ -826,7 +826,7 @@
 	dc.b	$06
 	dc.b	"Comment? Le système n'est pas"
 	dc.b	$FC
-	dc.b	"devenu incontrollable à cause"
+	dc.b	"devenu Incontrôlable à cause"
 	dc.b	$FD
 	dc.b	"des agissements de Zio?"
 	dc.b	$FD

@@ -337,7 +337,9 @@
 	dc.b	$FC
 	dc.b	"plaisir, mais..."
 	dc.b	$FD
-	dc.b	"j'imagine qu'on a pas le choix!"
+	dc.b	"j'imagine que nous n'avons"
+	dc.b	$FC
+	dc.b	"pas le choix!"
 	dc.b	$FF
 
 ; $F
@@ -347,7 +349,7 @@
 	dc.b	$FC
 	dc.b	"magique de Zio, nous devons"
 	dc.b	$FD
-	dc.b	"obtenir le 'Bâton-psy.'"
+	dc.b	"obtenir le 'Bâton-psy'."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$06, $02

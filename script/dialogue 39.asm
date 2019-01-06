@@ -97,7 +97,7 @@
 	dc.b	$FD
 	dc.b	"Nous en étions sûrs dès notre"
 	dc.b	$FC
-	dc.b	"arrivé sur Motavia."
+	dc.b	"arrivée sur Motavia."
 	dc.b	$FD
 	dc.b	"C'est à cause de l'Onde"
 	dc.b	$FC
@@ -109,7 +109,7 @@
 	dc.b	$FD
 	dc.b	"Elle a finalement réussi à créer"
 	dc.b	$FC
-	dc.b	"une brèche vers sa dimension."
+	dc.b	"une brèche depuis sa dimension."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$03
@@ -331,7 +331,7 @@
 	dc.b	$09
 	dc.b	"...Je vois. Bon, je vous"
 	dc.b	$FC
-	dc.b	"attendrez ici, dépêchez-vous!"
+	dc.b	"attendrai ici, dépêchez-vous!"
 	dc.b	$FF
 
 ; $12
@@ -379,7 +379,7 @@
 	dc.b	$0A
 	dc.b	"Je vois. J'attendrai ici, Chaz."
 	dc.b	$FC
-	dc.b	"Revenez en un morceau!"
+	dc.b	"Revenez en un seul morceau!"
 	dc.b	$FF
 
 ; $16
