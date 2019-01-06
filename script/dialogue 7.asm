@@ -666,7 +666,7 @@
 	dc.b	$F4
 	dc.b	$0F
 	dc.b	"Minute! Personne n'utilise cet"
-	dc.b	$FD
+	dc.b	$FC
 	dc.b	"endroit pour le moment, alors"
 	dc.b	$FD
 	dc.b	"c'est peut-être un peu"
