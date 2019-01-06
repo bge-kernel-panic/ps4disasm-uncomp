@@ -31,7 +31,7 @@ French Translation task list:
 - Munge the font for the credits so we can an apostrophe and
   can properly translate that for "Merci d'avoir joué" (thank you
   for playing)
-- Make some modifications optional:
+- Make some modifications optional: DONE
   - Raja's friend Quebec accent, not everybody knows how to decode
     that kind of French :)
   - Changes to credits
