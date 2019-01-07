@@ -879,7 +879,7 @@
 	dc.b	$FC
 	dc.b	"d'entrer dans la Vallée."
 	dc.b	$FD
-	dc.b	"de l'Éclosion.  Elles semblent"
+	dc.b	"de l'Éclosion. Elles semblent"
 	dc.b	$FC
 	dc.b	"innoffensives, mais nous sommes"
 	dc.b	$FD

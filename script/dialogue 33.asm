@@ -863,7 +863,7 @@
 	dc.b	$FD
 	dc.b	"Habituellement, ils se tiennent"
 	dc.b	$FC
-	dc.b	"loins des endroits habités."
+	dc.b	"loin des endroits habités."
 	dc.b	$FD
 	dc.b	"Vous n'avez aucune idée"
 	dc.b	$FC
@@ -889,7 +889,7 @@
 ; $18
 	dc.b	$F4
 	dc.b	$0E
-	dc.b	"Bonne chance.  Je compte sur"
+	dc.b	"Bonne chance. Je compte sur"
 	dc.b	$FC
 	dc.b	"vous."
 	dc.b	$FF

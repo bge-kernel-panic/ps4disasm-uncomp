@@ -561,7 +561,7 @@
 	dc.b	$FC
 	dc.b	"je suis habile à construire"
 	dc.b	$FD
-	dc.b	"des machines.  Par contre, je"
+	dc.b	"des machines. Par contre, je"
 	dc.b	$FC
 	dc.b	"ne vaux rien en cuisine."
 	dc.b	$FD
@@ -789,7 +789,7 @@
 	dc.b	$FD
 	dc.b	"C'est ce qu'on appelle de la"
 	dc.b	$FC
-	dc.b	"'magie.'"
+	dc.b	"'magie'."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01

@@ -148,7 +148,7 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$0C
-	dc.b	"Ravi de vous connaître.  Je"
+	dc.b	"Ravi de vous connaître. Je"
 	dc.b	$FC
 	dc.b	"m'appelle Saya."
 	dc.b	$F7

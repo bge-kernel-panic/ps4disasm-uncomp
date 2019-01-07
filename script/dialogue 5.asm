@@ -246,7 +246,7 @@
 	dc.b	$F4
 	dc.b	$03
 	dc.b	"Ne t'inquiète pas, tout ira"
-	dc.b	$FD
+	dc.b	$FC
 	dc.b	"bien."
 	dc.b	$F7
 
