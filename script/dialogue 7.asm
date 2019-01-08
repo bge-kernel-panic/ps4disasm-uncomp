@@ -126,9 +126,9 @@
 	dc.b	"Krup."
 	dc.b	$FD
 	dc.b	"De là, allez au nord, et vous"
-	dc.b	$FD
-	dc.b	"trouverez une vallée qui mène"
 	dc.b	$FC
+	dc.b	"trouverez une vallée qui mène"
+	dc.b	$FD
 	dc.b	"à Tonoe."
 	dc.b	$FD
 	dc.b	$F4
@@ -700,9 +700,9 @@
 	dc.b	$F4
 	dc.b	$04
 	dc.b	"Enlève-toi l'idée stupide de"
-	dc.b	$FD
-	dc.b	"te mesurer à Zio de cette"
 	dc.b	$FC
+	dc.b	"te mesurer à Zio de cette"
+	dc.b	$FD
 	dc.b	"petite tête!"
 	dc.b	$FD
 	dc.b	$F2, $03

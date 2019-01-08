@@ -55,7 +55,7 @@
 	dc.b	$FD
 	dc.b	"De plus, l'entrée de Tonoe"
 	dc.b	$FC
-	dc.b	"est bloqué par un rocher."
+	dc.b	"est bloquée par un rocher."
 	dc.b	$FD
 	dc.b	"C'est ce qu'on dit dernièrement."
 	dc.b	$FF
@@ -481,7 +481,7 @@
 	dc.b	$FD
 	dc.b	"Tu n'aide pas dans l'entreprise"
 	dc.b	$FC
-	dc.b	"familiale, tu perds to temps à"
+	dc.b	"familiale, tu perds ton temps à"
 	dc.b	$FD
 	dc.b	"étudier!"
 	dc.b	$FD
@@ -535,7 +535,7 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$03
-	dc.b	"Je sais ça, m'man...Mais ma"
+	dc.b	"Je sais ça, m'man... Mais ma"
 	dc.b	$FC
 	dc.b	"décision est finale!"
 	dc.b	$FF

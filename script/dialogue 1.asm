@@ -281,7 +281,7 @@
 	dc.b	$03
 	dc.b	"Il n'a pas tort. Depuis peu,"
 	dc.b	$FC
-	dc.b	"l'environnement se déteriore"
+	dc.b	"l'environnement se détériore"
 	dc.b	$FD
 	dc.b	"à une vitesse accélérée."
 	dc.b	$FF
@@ -437,7 +437,7 @@
 	dc.b	$DA, $01
 	dc.b	"Il y a mille ans, notre"
 	dc.b	$FC
-	dc.b	"civilisation a été boulversée"
+	dc.b	"civilisation a été bouleversée"
 	dc.b	$FD
 	dc.b	"par la destruction de Mother"
 	dc.b	$FC

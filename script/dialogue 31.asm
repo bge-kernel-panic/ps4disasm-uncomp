@@ -116,10 +116,10 @@
 	dc.b	$F4
 	dc.b	$01, $00
 	dc.b	"Ça ira, Hahn. Nous pouvons"
-	dc.b	$FD
-	dc.b	"obtenir le médicament d'Alshline"
 	dc.b	$FC
-	dc.b	"à Molcum."
+	dc.b	"obtenir le médicament d'Alshline"
+	dc.b	$FD
+	dc.b	"dans le village de Molcum."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$03, $02
@@ -229,7 +229,7 @@
 	dc.b	$FC
 	dc.b	"trouver de l'Alshline et"
 	dc.b	$FD
-	dc.b	"renverser sa pétréfication..."
+	dc.b	"renverser sa pétrification..."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$02, $00

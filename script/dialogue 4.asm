@@ -39,7 +39,7 @@
 	dc.b	$FC
 	dc.b	"à l'Académie Motavia, mais"
 	dc.b	$FD
-	dc.b	"suite aux mauvaise récoltes"
+	dc.b	"suite aux mauvaises récoltes"
 	dc.b	$FC
 	dc.b	"nous n'avons pas pu lui envoyer"
 	dc.b	$FD
@@ -67,7 +67,7 @@
 	dc.b	$FC
 	dc.b	"à l'Académie Motavia."
 	dc.b	$FD
-	dc.b	"Hé, vous m'agacez!"
+	dc.b	"Hé, vous me dérangez!"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$02
@@ -680,7 +680,7 @@
 	dc.b	$FF
 
 ; $53
-	dc.b	"Tant mieux, tant mieux."
+	dc.b	"Youpi! Je suis heureux."
 	dc.b	$FF
 
 ; $54

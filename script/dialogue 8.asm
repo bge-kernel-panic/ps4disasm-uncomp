@@ -8,9 +8,9 @@
 
 ; $1
 	dc.b	"Il y a trois mois, une grosse"
-	dc.b	$FD
-	dc.b	"météorite est tombée près de"
 	dc.b	$FC
+	dc.b	"météorite est tombée près de"
+	dc.b	$FD
 	dc.b	"la ville..."
 	dc.b	$FD
 	dc.b	"Et voyez le résultat!"

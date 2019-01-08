@@ -370,7 +370,7 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$03
-	dc.b	"Euh... Je crois pas que le"
+	dc.b	"Euh... Je ne crois pas que le"
 	dc.b	$FC
 	dc.b	"directeur me cède tel montant..."
 	dc.b	$FD
@@ -438,7 +438,7 @@
 	dc.b	$FC
 	dc.b	"cultivez des monstres ici?"
 	dc.b	$FD
-	dc.b	"Si c'est le cas, tout ces trucs"
+	dc.b	"Si c'est le cas, tous ces trucs"
 	dc.b	$FC
 	dc.b	"à propos des monstres, ce n'est"
 	dc.b	$FD
@@ -540,7 +540,7 @@
 	dc.b	$FC
 	dc.b	"temps. Me cacher des faits,"
 	dc.b	$FD
-	dc.b	"c'est la sixième choses la plus"
+	dc.b	"c'est la sixième chose la plus"
 	dc.b	$FC
 	dc.b	"périlleuse au monde!"
 	dc.b	$FD
@@ -726,7 +726,7 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$02
-	dc.b	"Ce sont d'inquiétant présages."
+	dc.b	"Ce sont d'inquiétants présages."
 	dc.b	$FD
 	dc.b	$F2, $01
 	dc.b	$F2, $06

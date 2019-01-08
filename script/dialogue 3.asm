@@ -323,7 +323,9 @@
 	dc.b	$FD
 	dc.b	"pas faire grand-chose, je dois"
 	dc.b	$FC
-	dc.b	"travailler et faire ce que peut."
+	dc.b	"travailler et faire"
+	dc.b	$FD
+	dc.b	"ce que je peux."
 	dc.b	$FF
 
 ; $1D

@@ -337,7 +337,7 @@
 	dc.b	$FD
 	dc.b	"La panne de système a mené à une"
 	dc.b	$FC
-	dc.b	"déterioration environnementale"
+	dc.b	"détérioration environnementale"
 	dc.b	$FD
 	dc.b	"plus importante que prévue."
 	dc.b	$FD

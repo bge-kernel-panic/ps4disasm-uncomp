@@ -123,7 +123,7 @@
 	dc.b	$0D
 	dc.b	"Si c'est le cas, pourquoi"
 	dc.b	$FC
-	dc.b	"cette déterioration environe-"
+	dc.b	"cette détérioration environne-"
 	dc.b	$FD
 	dc.b	"mentale récente se manifeste?"
 	dc.b	$FD
@@ -270,13 +270,13 @@
 	dc.b	$01
 	dc.b	"Mais ces systèmes sont"
 	dc.b	$FC
-	dc.b	"éparpillées aux quatre coins de"
+	dc.b	"éparpillés aux quatre coins de"
 	dc.b	$FD
 	dc.b	"la planète!"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$06
-	dc.b	"Aucun souçi. Tout ce que nous"
+	dc.b	"Aucun souci. Tout ce que nous"
 	dc.b	$FC
 	dc.b	"avons à faire, c'est désactiver"
 	dc.b	$FD
@@ -369,7 +369,7 @@
 	dc.b	$FC
 	dc.b	"côté, mais après avoir entendu"
 	dc.b	$FD
-	dc.b	"tout ça, on a pas le choix."
+	dc.b	"tout ça, on n'a pas le choix."
 	dc.b	$FD
 	dc.b	"Hé hé, ça fait un bon moment"
 	dc.b	$FC
@@ -381,7 +381,7 @@
 	dc.b	$FD
 	dc.b	"pas en profiter pour se"
 	dc.b	$FC
-	dc.b	"débarasser de cet horrible Zio!"
+	dc.b	"débarrasser de cet horrible Zio!"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$05

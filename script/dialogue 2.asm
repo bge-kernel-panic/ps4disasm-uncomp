@@ -331,7 +331,7 @@
 	dc.b	$DA, $01
 	dc.b	"C'est quoi votre problème?"
 	dc.b	$FD
-	dc.b	"Vous êtes bien trop amicals!"
+	dc.b	"Vous êtes bien trop amicaux!"
 	dc.b	$FF
 
 ; $4C
@@ -341,7 +341,7 @@
 ; $4D
 	dc.b	$FA
 	dc.b	$DA, $01
-	dc.b	"Je suis étudiante en geologie."
+	dc.b	"Je suis étudiante en géologie."
 	dc.b	$FD
 	dc.b	"Dernièrement, la qualité des"
 	dc.b	$FC
