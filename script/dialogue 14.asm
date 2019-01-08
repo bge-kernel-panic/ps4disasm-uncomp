@@ -314,7 +314,7 @@
 	dc.b	$09
 	dc.b	"Impossible. Mais...ah ha!"
 	dc.b	$FC
-	dc.b	"J'ai de magnifique nouvelles"
+	dc.b	"J'ai de magnifiques nouvelles"
 	dc.b	$FD
 	dc.b	"à vous faire."
 	dc.b	$FD
@@ -410,7 +410,7 @@
 	dc.b	$FC
 	dc.b	"Il y a bien longtemps, des"
 	dc.b	$FD
-	dc.b	"Paramniens ont aterri sur"
+	dc.b	"Paramaniens ont aterri sur"
 	dc.b	$FC
 	dc.b	"Dezolis sur un vaisseau spatial."
 	dc.b	$FD
@@ -664,7 +664,7 @@
 	dc.b	$FD
 	dc.b	"Et selon la légende, ils ont"
 	dc.b	$FC
-	dc.b	"construit un tombeau en banlieu"
+	dc.b	"construit un tombeau en banlieue"
 	dc.b	$FD
 	dc.b	"de la ville pour honorer sa"
 	dc.b	$FC
@@ -891,7 +891,7 @@
 	dc.b	$08
 	dc.b	"Ce vaisseau a été maintenu dans"
 	dc.b	$FC
-	dc.b	"un état de conservation quaisi"
+	dc.b	"un état de conservation quasi"
 	dc.b	$FD
 	dc.b	"optimal. Il sera parfaitement"
 	dc.b	$FC

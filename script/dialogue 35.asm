@@ -486,7 +486,7 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Tu as dis Dark Force!?"
+	dc.b	"Tu as dit Dark Force!?"
 	dc.b	$FD
 	dc.b	"Tu veux dire la Dark Force qui"
 	dc.b	$FC

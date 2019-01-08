@@ -213,7 +213,7 @@
 	dc.b	$03
 	dc.b	"Peut-on la sauver si nous"
 	dc.b	$FC
-	dc.b	"déactivons Nurvus?"
+	dc.b	"désactivons Nurvus?"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$07

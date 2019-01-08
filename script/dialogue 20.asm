@@ -331,7 +331,7 @@
 	dc.b	$F4
 	dc.b	$04
 	dc.b	"Kyra! Calme-toi... c'est vrai"
-	dc.b	$FD
+	dc.b	$FC
 	dc.b	"que Lutz n'est plus de ce monde."
 	dc.b	$FD
 	dc.b	"Mais même si son corps n'est"
@@ -361,14 +361,12 @@
 	dc.b	$F4
 	dc.b	$04
 	dc.b	"Non. Il n'est plus là. Mais si"
-	dc.b	$FD
+	dc.b	$FC
 	dc.b	"la personne choisie s'approche,"
-	dc.b	$FC
-	dc.b	"la volonté et la mémoire de Lutz"
 	dc.b	$FD
-	dc.b	"seront transmis dans cette"
+	dc.b	"la volonté et la mémoire de Lutz"
 	dc.b	$FC
-	dc.b	"personne."
+	dc.b	"lui seront transmises."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$0A

@@ -295,7 +295,7 @@
 	dc.b	$FC
 	dc.b	"enfuir deux fois!"
 	dc.b	$FD
-	dc.b	"Oh, entitée adorée!"
+	dc.b	"Oh, entité adorée!"
 	dc.b	$FC
 	dc.b	"Prête-moi ta force!"
 	dc.b	$FF

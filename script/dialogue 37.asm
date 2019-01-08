@@ -606,11 +606,11 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$08
-	dc.b	"La planète Param fut détruite,"
+	dc.b	"La planète Parma fut détruite,"
 	dc.b	$FC
 	dc.b	"et tout ce qu'il en reste est"
 	dc.b	$FD
-	dc.b	"une ceinture d'astéroïde qui"
+	dc.b	"une ceinture d'astéroïdes qui"
 	dc.b	$FC
 	dc.b	"occupe sont ancien orbite."
 	dc.b	$FD

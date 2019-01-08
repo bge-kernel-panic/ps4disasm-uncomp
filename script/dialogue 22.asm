@@ -210,7 +210,7 @@
 ; $37
 	dc.b	$F4
 	dc.b	$1C
-	dc.b	"Alors, tu t'est décidé à"
+	dc.b	"Alors, tu t'es décidé à"
 	dc.b	$FC
 	dc.b	"venir...Lutz!"
 	dc.b	$FD

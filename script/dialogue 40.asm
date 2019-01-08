@@ -247,7 +247,7 @@
 	dc.b	$FC
 	dc.b	"bataille, il y eut un vainqueur."
 	dc.b	$FD
-	dc.b	"Celui-ci bannit l'entitée"
+	dc.b	"Celui-ci bannit l'entité"
 	dc.b	$FC
 	dc.b	"ennemie dans une autre"
 	dc.b	$FD
