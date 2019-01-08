@@ -479,7 +479,7 @@
 	dc.b	$FD
 	dc.b	"Ça me fait de la peine de voir"
 	dc.b	$FC
-	dc.b	"mes enfants aussi déprimés."
+	dc.b	"ma fille aussi déprimée."
 	dc.b	$FF
 
 ; $40

@@ -165,7 +165,7 @@
 	dc.b	$FD
 	dc.b	"...Si vous voulez en savoir"
 	dc.b	$FC
-	dc.b	"plus, adressez-vous à 'Seed.'"
+	dc.b	"plus, adressez-vous à 'Seed'."
 	dc.b	$FD
 	dc.b	"Il est juste ici."
 	dc.b	$FD

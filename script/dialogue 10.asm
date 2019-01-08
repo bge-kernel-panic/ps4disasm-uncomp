@@ -401,9 +401,9 @@
 	dc.b	$FC
 	dc.b	"ne comprends pas pourquoi vous"
 	dc.b	$FD
-	dc.b	"mettez votre comptoir à la cave"
+	dc.b	"mettez votre comptoir aussi"
 	dc.b	$FC
-	dc.b	"aussi."
+	dc.b	"à la cave."
 	dc.b	$FF
 
 ; $2F
@@ -486,7 +486,7 @@
 ; $35
 	dc.b	$FA
 	dc.b	$42, $01
-	dc.b	"Oh, je suis honoré de votre"
+	dc.b	"Oh, je suis honorée de votre"
 	dc.b	$FC
 	dc.b	"visite, Alys."
 	dc.b	$FD

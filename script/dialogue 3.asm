@@ -951,7 +951,7 @@
 	dc.b	$01
 	dc.b	"...Une malédiction...Qu'y a-t-il"
 	dc.b	$FC
-	dc.b	"à l'intérieur"
+	dc.b	"à l'intérieur?"
 	dc.b	$FD
 	dc.b	$F2, $00
 	dc.w	$002F
