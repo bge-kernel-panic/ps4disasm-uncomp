@@ -341,7 +341,7 @@
 	dc.b	$FF
 
 ; $16
-	dc.b	"Toutes les mamans sont ensemble"
+	dc.b	"Toutes les mamans sont ensembles"
 	dc.b	$FC
 	dc.b	"et on l'air tristes."
 	dc.b	$FD

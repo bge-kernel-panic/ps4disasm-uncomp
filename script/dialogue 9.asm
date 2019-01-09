@@ -88,7 +88,7 @@
 ; $17
 	dc.b	$FA
 	dc.b	$65, $01
-	dc.b	"Un Église qui enseigne les"
+	dc.b	"Une Église qui enseigne les"
 	dc.b	$FC
 	dc.b	"préceptes de Zio a été"
 	dc.b	$FD
@@ -243,7 +243,7 @@
 	dc.b	$FC
 	dc.b	"cet endroit, mais dernièrement,"
 	dc.b	$FD
-	dc.b	"je ne peux y aller même si"
+	dc.b	"je ne pourrais y aller même si"
 	dc.b	$FC
 	dc.b	"je le voulais..."
 	dc.b	$FF
@@ -353,7 +353,7 @@
 	dc.b	$FD
 	dc.b	"Comme c'est magnifique!"
 	dc.b	$FC
-	dc.b	"Ça me donne le frisson!"
+	dc.b	"Ça me donne des frissons!"
 	dc.b	$FF
 
 ; $2F
@@ -367,7 +367,7 @@
 	dc.b	$FF
 
 ; $30
-	dc.b	"Seuls les fidèles accompagnerons"
+	dc.b	"Seuls les fidèles accompagneront"
 	dc.b	$FC
 	dc.b	"Zio dans le monde nouveau!"
 	dc.b	$FF
@@ -477,7 +477,7 @@
 ; $3E
 	dc.b	"Je travaillerai ici, à"
 	dc.b	$FC
-	dc.b	"l'auberge, pour repayer ma"
+	dc.b	"l'auberge, pour rembourser ma"
 	dc.b	$FD
 	dc.b	"dette envers l'établissement."
 	dc.b	$FF

@@ -633,7 +633,7 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Loin d'ici, avant qu'Alys me"
+	dc.b	"Loin d'ici, avant qu'Alys ne me"
 	dc.b	$FC
 	dc.b	"prenne sous son aile, j'ai fait"
 	dc.b	$FD
@@ -764,7 +764,7 @@
 	dc.b	$FD
 	dc.b	"Il vaut mieux que je fasse"
 	dc.b	$FC
-	dc.b	"rapport des évènements."
+	dc.b	"un rapport des évènements."
 	dc.b	$FD
 	dc.b	"J'espère les convaincre de"
 	dc.b	$FC
