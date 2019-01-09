@@ -413,7 +413,7 @@
 	dc.b	$FD
 	dc.b	"Alors, en commençant du haut,"
 	dc.b	$FC
-	dc.b	"trente-six, vingt..."
+	dc.b	"quatre-vingt-huit, cinquante..."
 	dc.b	$F7
 
 	dc.b	$F4
