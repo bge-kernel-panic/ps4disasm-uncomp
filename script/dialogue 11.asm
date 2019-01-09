@@ -505,7 +505,7 @@
 	dc.b	$FC
 	dc.b	"détails, même s'ils semblent"
 	dc.b	$FD
-	dc.b	"inconséquents."
+	dc.b	"sans importance."
 	dc.b	$FF
 
 ; $41
@@ -704,7 +704,7 @@
 	dc.b	$01, $00
 	dc.b	"Pas surprenant!"
 	dc.b	$FC
-	dc.b	"Je m'y attendait."
+	dc.b	"Je m'y attendais."
 	dc.b	$FF
 
 ; $52

@@ -505,13 +505,13 @@
 
 ; $37
 	dc.b	"De nos jours, les chasseurs"
-	dc.b	$FD
+	dc.b	$FC
 	dc.b	"tirent bien leur épingle du"
-	dc.b	$FC
-	dc.b	"jeux. Mais les monstres sont"
 	dc.b	$FD
-	dc.b	"devenus de plus en plus"
+	dc.b	"jeu. Mais les monstres sont"
 	dc.b	$FC
+	dc.b	"devenus de plus en plus"
+	dc.b	$FD
 	dc.b	"puissants."
 	dc.b	$FD
 	dc.b	"Seuls les plus habiles sont"

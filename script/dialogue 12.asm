@@ -59,7 +59,7 @@
 ; $5
 	dc.b	"Vous avez remarqué la Tour"
 	dc.b	$FC
-	dc.b	"Ladéa?"
+	dc.b	"Ladea?"
 	dc.b	$FD
 	dc.b	"Elle se dresse sur la péninsule"
 	dc.b	$FC
@@ -266,7 +266,7 @@
 	dc.b	$61, $01
 	dc.b	"Ha, ha, ha! Si le séisme a"
 	dc.b	$FC
-	dc.b	"cassé vos affaires, vous n'avez"
+	dc.b	"abimé vos affaires, vous n'avez"
 	dc.b	$FD
 	dc.b	"qu'à en acheter des neuves dans"
 	dc.b	$FC
@@ -276,7 +276,7 @@
 ; $17
 	dc.b	"Bah, avec les tremblements de"
 	dc.b	$FC
-	dc.b	"terre qui ont cessés, plus"
+	dc.b	"terre qui ont cessé, plus"
 	dc.b	$FD
 	dc.b	"personne n'achète ici."
 	dc.b	$FF
