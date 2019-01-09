@@ -700,9 +700,9 @@
 	dc.b	$F4
 	dc.b	$04
 	dc.b	"Enlève-toi l'idée stupide de"
-	dc.b	$FC
-	dc.b	"te mesurer à Zio de cette"
 	dc.b	$FD
+	dc.b	"te mesurer à Zio de cette"
+	dc.b	$FC
 	dc.b	"petite tête!"
 	dc.b	$FD
 	dc.b	$F2, $03
