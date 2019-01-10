@@ -170,7 +170,7 @@
 	dc.b	$FC
 	dc.b	"intérieur, et plus loin..."
 	dc.b	$FD
-	dc.b	"Il y a une chambre applée la"
+	dc.b	"Il y a une chambre appelée la"
 	dc.b	$FC
 	dc.b	"Chambre de Lutz."
 	dc.b	$FD
@@ -507,7 +507,7 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04
-	dc.b	"Je perçoit ton potentiel."
+	dc.b	"Je perçois ton potentiel."
 	dc.b	$FD
 	dc.b	"Nous saurons bientôt si mon"
 	dc.b	$FC
@@ -738,11 +738,11 @@
 	dc.b	$F4
 	dc.b	$01
 	dc.b	"Oui! Nous faisons cela pour"
-	dc.b	$FD
-	dc.b	"toute vie dans Algo, et pour"
 	dc.b	$FC
-	dc.b	"forger un avenir réellement"
+	dc.b	"toute vie dans Algo, et pour"
 	dc.b	$FD
+	dc.b	"forger un avenir réellement"
+	dc.b	$FC
 	dc.b	"délivré du mal!"
 	dc.b	$FD
 	dc.b	"Un avenir finalement libre"
@@ -757,7 +757,7 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04
-	dc.b	"Nous vainquerons, Chaz!"
+	dc.b	"Nous vaincrons, Chaz!"
 	dc.b	$FC
 	dc.b	"Pour Algo!"
 	dc.b	$F9

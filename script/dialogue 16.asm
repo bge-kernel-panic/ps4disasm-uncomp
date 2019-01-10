@@ -185,7 +185,7 @@
 	dc.b	$FD
 	dc.b	"Mais la glace n'a toujours pas"
 	dc.b	$FC
-	dc.b	"fondue malgré que la tempête"
+	dc.b	"fondu malgré que la tempête"
 	dc.b	$FD
 	dc.b	"se soit calmée, et je suis"
 	dc.b	$FC

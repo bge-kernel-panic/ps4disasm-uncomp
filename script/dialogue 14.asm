@@ -316,7 +316,7 @@
 	dc.b	$FC
 	dc.b	"J'ai de magnifiques nouvelles"
 	dc.b	$FD
-	dc.b	"à vous faire."
+	dc.b	"pour vous."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
@@ -410,7 +410,7 @@
 	dc.b	$FC
 	dc.b	"Il y a bien longtemps, des"
 	dc.b	$FD
-	dc.b	"Paramaniens ont aterri sur"
+	dc.b	"Paramaniens ont atterri sur"
 	dc.b	$FC
 	dc.b	"Dezolis sur un vaisseau spatial."
 	dc.b	$FD
@@ -518,7 +518,7 @@
 	dc.b	$FF
 
 ; $E
-	dc.b	"Le vent c'est finalement calmé."
+	dc.b	"Le vent s'est finalement calmé."
 	dc.b	$FD
 	dc.b	"La météo est un peu plus"
 	dc.b	$FC
@@ -650,9 +650,9 @@
 	dc.b	$FD
 	dc.b	"Ici, c'est l'endroit où les"
 	dc.b	$FC
-	dc.b	"Parmaniens ont attérit en"
+	dc.b	"Parmaniens ont atterri en"
 	dc.b	$FD
-	dc.b	"premier quand ils ont migrés sur"
+	dc.b	"premier quand ils ont migré sur"
 	dc.b	$FC
 	dc.b	"Dezolis, il y a longtemps."
 	dc.b	$FD
@@ -660,7 +660,7 @@
 	dc.b	$FC
 	dc.b	"ville en l'honneur du capitaine"
 	dc.b	$FD
-	dc.b	"du vaisseau qui les a amené."
+	dc.b	"du vaisseau qui les a amenés."
 	dc.b	$FD
 	dc.b	"Et selon la légende, ils ont"
 	dc.b	$FC
@@ -682,7 +682,7 @@
 	dc.b	$FD
 	dc.b	"Nous n'avons pas beaucoup de"
 	dc.b	$FC
-	dc.b	"contacts, mais j'espère qu'elles"
+	dc.b	"contacts, mais j'espère qu'ils"
 	dc.b	$FD
 	dc.b	"se portent bien!"
 	dc.b	$FF

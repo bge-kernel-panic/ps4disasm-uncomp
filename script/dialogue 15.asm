@@ -11,7 +11,7 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$09
-	dc.b	"Je ne peux m'éviter de passer"
+	dc.b	"Je ne peux m'empêcher de passer"
 	dc.b	$FC
 	dc.b	"ici quand je suis dans le coin,"
 	dc.b	$FD
@@ -35,7 +35,7 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$09
-	dc.b	"Je ne peux m'éviter de passer"
+	dc.b	"Je ne peux m'empêcher de passer"
 	dc.b	$FC
 	dc.b	"ici quand je suis dans le coin,"
 	dc.b	$FD
@@ -225,7 +225,7 @@
 	dc.b	$FC
 	dc.b	"des compagnons de voyage très"
 	dc.b	$FD
-	dc.b	"étrange aujourd'hui!"
+	dc.b	"étranges aujourd'hui!"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01
@@ -263,7 +263,7 @@
 	dc.b	$FC
 	dc.b	"des compagnons de voyage très"
 	dc.b	$FD
-	dc.b	"étrange aujourd'hui!"
+	dc.b	"étranges aujourd'hui!"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01

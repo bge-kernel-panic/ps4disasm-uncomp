@@ -174,7 +174,7 @@
 	dc.b	$FF
 
 ; $30
-	dc.b	"Finalement! Je pourrai cesser"
+	dc.b	"Ah enfin! Je peux cesser"
 	dc.b	$FC
 	dc.b	"ce travail inhabituel."
 	dc.b	$FF
@@ -511,7 +511,7 @@
 	dc.b	$95, $02
 	dc.b	$FA
 	dc.b	$94, $01
-	dc.b	"Nous sommes plusieurs gens avec"
+	dc.b	"Il y a d'autres gens avec"
 	dc.b	$FC
 	dc.b	"de tels pouvoirs au Manoir"
 	dc.b	$FD

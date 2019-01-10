@@ -3,7 +3,7 @@
 	dc.b	$FC
 	dc.b	"un soupir de soulagement! Nous"
 	dc.b	$FD
-	dc.b	"redonnerons à Reshel sa "
+	dc.b	"redonnerons à Reshel sa"
 	dc.b	$FC
 	dc.b	"splendeur d'origine! Non,"
 	dc.b	$FD
@@ -43,7 +43,7 @@
 ; $4
 	dc.b	"Vous verrez! Les gens qui ont"
 	dc.b	$FC
-	dc.b	"abandonnés la ville reviendront"
+	dc.b	"abandonné la ville reviendront"
 	dc.b	$FD
 	dc.b	"si on travaille dur."
 	dc.b	$FF
@@ -101,7 +101,7 @@
 ; $B
 	dc.b	"Les gens qui ont quitté la ville"
 	dc.b	$FC
-	dc.b	"revienne peu à peu."
+	dc.b	"reviennent peu à peu."
 	dc.b	$FF
 
 ; $C
@@ -117,7 +117,7 @@
 	dc.b	$FD
 	dc.b	"Est-ce qu'il s'est passé quelque"
 	dc.b	$FC
-	dc.b	"d'étrange chose récemment?"
+	dc.b	"d'étranges choses récemment?"
 	dc.b	$FF
 
 ; $E

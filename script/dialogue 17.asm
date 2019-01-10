@@ -45,7 +45,7 @@
 	dc.b	$FD
 	dc.b	"Selon les rumeurs, elle a"
 	dc.b	$FC
-	dc.b	"disparue."
+	dc.b	"disparu."
 	dc.b	$FD
 	dc.b	"Est-il vrai que le temple"
 	dc.b	$FC
@@ -489,7 +489,7 @@
 	dc.b	$FC
 	dc.b	"bonté, il n'est pas surprenant"
 	dc.b	$FD
-	dc.b	"qu'on vous aille laissés entrer."
+	dc.b	"qu'on vous ait laissé entrer."
 	dc.b	$FD
 	dc.b	"C'est vraiment étrange..."
 	dc.b	$FC
@@ -519,7 +519,7 @@
 	dc.b	$FC
 	dc.b	"bonté, il n'est pas surprenant"
 	dc.b	$FD
-	dc.b	"qu'on vous aille laissés entrer."
+	dc.b	"qu'on vous ait laissé entrer."
 	dc.b	$FD
 	dc.b	"C'est vraiment étrange..."
 	dc.b	$FC
@@ -572,7 +572,7 @@
 	dc.b	$08
 	dc.b	"Comme nous le pensions, ceci"
 	dc.b	$FC
-	dc.b	"doit être à la base du climat"
+	dc.b	"doit être à la cause du climat"
 	dc.b	$FD
 	dc.b	"anormal."
 	dc.b	$FD
@@ -604,7 +604,7 @@
 	dc.b	$08
 	dc.b	"Comme nous le pensions, ceci"
 	dc.b	$FC
-	dc.b	"doit être à la base du climat"
+	dc.b	"doit être à la cause du climat"
 	dc.b	$FD
 	dc.b	"anormal."
 	dc.b	$FD
@@ -666,7 +666,7 @@
 	dc.b	$FD
 	dc.b	"Il semblait croire que Dark"
 	dc.b	$FC
-	dc.b	"Force est toujours actif!"
+	dc.b	"Force est toujours en vie!"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04
@@ -704,7 +704,7 @@
 	dc.b	$FD
 	dc.b	"Il semblait croire que Dark"
 	dc.b	$FC
-	dc.b	"Force est toujours actif!"
+	dc.b	"Force est toujours en vie!"
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04

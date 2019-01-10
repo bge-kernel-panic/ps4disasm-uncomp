@@ -181,7 +181,7 @@
 ; $33
 	dc.b	"Notre héroïne était très belle."
 	dc.b	$FD
-	dc.b	"J'ai beaucoup d'admiration pour."
+	dc.b	"J'ai beaucoup d'admiration pour"
 	dc.b	$FC
 	dc.b	"elle!"
 	dc.b	$FF
@@ -946,7 +946,7 @@
 	dc.b	$07
 	dc.b	"Hum..."
 	dc.b	$FC
-	dc.b	"D'accord, j'ai terminé."
+	dc.b	"C'est bon, j'ai terminé."
 	dc.b	$FD
 	dc.b	"J'ai gagné en puissance!"
 	dc.b	$FD
