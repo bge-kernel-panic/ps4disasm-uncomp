@@ -301,9 +301,11 @@
 	dc.b	$FD
 	dc.b	"Qu'en dis-tu?"
 	dc.b	$FD
-	dc.b	"Si je viens avec vous, tu n'aura"
+	dc.b	"Si je viens avec vous, tu"
 	dc.b	$FC
-	dc.b	"pas le temps de t'ennuyer! Haha!"
+	dc.b	"n'auras pas le temps"
+	dc.b	$FD
+	dc.b	"de t'ennuyer! Ha ha!"
 	dc.b	$FF
 
 ; $F
@@ -478,7 +480,7 @@
 	dc.b	$FD
 	dc.b	"Heureuse de vous revoir."
 	dc.b	$FD
-	dc.b	"Je me réjouit de vous voir"
+	dc.b	"Je me réjouis de vous voir"
 	dc.b	$FC
 	dc.b	"tous en bonne condition!"
 	dc.b	$FD

@@ -61,7 +61,7 @@
 ; $14
 	dc.b	"Ici, c'est le village de"
 	dc.b	$FC
-	dc.b	"Tornico."
+	dc.b	"Torinco."
 	dc.b	$FD
 	dc.b	"C'est un village agraire connu"
 	dc.b	$FC
@@ -482,7 +482,7 @@
 	dc.b	$FD
 	dc.b	"Tiens. Elle est à toi."
 	dc.b	$FC
-	dc.b	"Maintenant, guérit vite!"
+	dc.b	"Maintenant, guéris vite!"
 	dc.b	$FD
 	dc.b	$F2, $03
 	dc.b	$9E

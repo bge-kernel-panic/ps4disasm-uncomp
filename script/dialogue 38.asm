@@ -95,13 +95,15 @@
 	dc.b	$FC
 	dc.b	"uniquement l'endroit où l'on"
 	dc.b	$FD
-	dc.b	"préserve la Torche de l'Éclipse,"
+	dc.b	"préserve le Flambeau de"
 	dc.b	$FC
-	dc.b	"le symbole des croyances"
+	dc.b	"l'Éclipse, le symbole des"
 	dc.b	$FD
-	dc.b	"Dezolisiennes. Nous sommes aussi"
+	dc.b	"croyances Dezolisiennes. Nous"
 	dc.b	$FC
-	dc.b	"le siège du gouvernement."
+	dc.b	"sommes aussi le siège"
+	dc.b	$FD
+	dc.b	"du gouvernement."
 	dc.b	$FF
 
 ; $C
@@ -428,7 +430,7 @@
 	dc.b	$F3
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Alors voilà la Torche de"
+	dc.b	"Alors voilà le Flambeau de"
 	dc.b	$FC
 	dc.b	"l'Éclipse?"
 	dc.b	$FF

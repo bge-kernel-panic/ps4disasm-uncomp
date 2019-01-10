@@ -401,7 +401,7 @@
 	dc.b	$FC
 	dc.b	"nuage sombre était levé et que"
 	dc.b	$FD
-	dc.b	"la méchancetée n'était plus...!"
+	dc.b	"la méchanceté n'était plus...!"
 	dc.b	$FF
 
 ; $30
@@ -485,7 +485,7 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$1D
-	dc.b	"Eh, toi... le gars habillé tut"
+	dc.b	"Eh, toi... le gars habillé tout"
 	dc.b	$FC
 	dc.b	"en blanc!"
 	dc.b	$FD
@@ -612,7 +612,7 @@
 	dc.b	$FD
 	dc.b	"une ceinture d'astéroïdes qui"
 	dc.b	$FC
-	dc.b	"occupe sont ancien orbite."
+	dc.b	"occupe son ancien orbite."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$04

@@ -15,7 +15,7 @@
 	dc.b	$01, $01
 	dc.b	"Alors c'est lui qui nous a"
 	dc.b	$FC
-	dc.b	"donnée le mandat."
+	dc.b	"donné le mandat."
 	dc.b	$FD
 	dc.b	"Je me demande où il se trouve?"
 	dc.b	$FF
@@ -235,7 +235,7 @@
 	dc.b	$02, $00
 	dc.b	"Ton professeur est vraiment"
 	dc.b	$FC
-	dc.b	"un vrai casse-pied!"
+	dc.b	"un vrai casse-pieds!"
 	dc.b	$FF
 
 ; $B
@@ -481,9 +481,9 @@
 	dc.b	$06, $02
 	dc.b	"Le satellite artificiel Kuran..."
 	dc.b	$FC
-	dc.b	"...que disiez-vous se passe-t-il"
+	dc.b	"...vous dites qu'il se passe"
 	dc.b	$FD
-	dc.b	"là-bas?"
+	dc.b	"quoi là-bas?"
 	dc.b	$FF
 
 ; $15

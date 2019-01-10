@@ -495,7 +495,7 @@
 ; $2B
 	dc.b	$F4
 	dc.b	$01, $00
-	dc.b	"Que diable veux-tu dire est"
+	dc.b	"Que diable dis-tu qu'il est"
 	dc.b	$FC
 	dc.b	"arrivé sur Motavia?"
 	dc.b	$FD

@@ -688,7 +688,7 @@
 	dc.b	$FD
 	dc.b	"Tour Ladea. Je n'ai pas encore"
 	dc.b	$FC
-	dc.b	"réussi à l'obtenir."
+	dc.b	"mis la main dessus."
 	dc.b	$FD
 	dc.b	"C'est là que j'allais me"
 	dc.b	$FC

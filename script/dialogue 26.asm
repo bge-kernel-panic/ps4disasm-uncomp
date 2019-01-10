@@ -9,7 +9,7 @@
 	dc.b	$FD
 	dc.b	"Même si vous aviez un nombre"
 	dc.b	$FC
-	dc.b	"infini de vie, ça ne serait pas"
+	dc.b	"infini de vies, ça ne serait pas"
 	dc.b	$FD
 	dc.b	"suffisant!"
 	dc.b	$FF
@@ -336,7 +336,7 @@
 ; $17
 	dc.b	$F4
 	dc.b	$11
-	dc.b	"Selon les règlements de la"
+	dc.b	"Selon le règlement de la"
 	dc.b	$FC
 	dc.b	"guilde, vous ne pouvez postuler"
 	dc.b	$FD
@@ -453,7 +453,7 @@
 ; $1D
 	dc.b	$F4
 	dc.b	$11
-	dc.b	"Selon les règlements de la"
+	dc.b	"Selon le règlement de la"
 	dc.b	$FC
 	dc.b	"guilde, vous ne pouvez postuler"
 	dc.b	$FD

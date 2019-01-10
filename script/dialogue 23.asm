@@ -542,7 +542,7 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$06
-	dc.b	"Vous devez êtes un merveilleux"
+	dc.b	"Vous devez être un merveilleux"
 	dc.b	$FC
 	dc.b	"prêtre."
 	dc.b	$FF
@@ -588,7 +588,7 @@
 ; $32
 	dc.b	"Il se passe plein de choses"
 	dc.b	$FC
-	dc.b	"étrange sur cette planète!"
+	dc.b	"étranges sur cette planète!"
 	dc.b	$FD
 	dc.b	"Que diable nous réserve"
 	dc.b	$FC

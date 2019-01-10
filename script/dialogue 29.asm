@@ -518,7 +518,7 @@
 ; $8F
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Des journeaux de chasseurs?"
+	dc.b	"Des journaux de chasseurs?"
 	dc.b	$FD
 	dc.b	"Je ne savais même pas que ça"
 	dc.b	$FC
@@ -687,7 +687,7 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$06
-	dc.b	"Il vaudrait mieux que tu te"
+	dc.b	"Il vaudrait mieux que tu les"
 	dc.b	$FC
 	dc.b	"ramasse."
 	dc.b	$FF
@@ -1101,7 +1101,7 @@
 	dc.b	$01
 	dc.b	"Une rangée de boissons gazeuses"
 	dc.b	$FC
-	dc.b	"bon marchées."
+	dc.b	"bon marché."
 	dc.b	$FF
 
 ; $D0

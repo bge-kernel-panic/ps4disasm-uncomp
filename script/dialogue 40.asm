@@ -697,7 +697,7 @@
 	dc.b	$FD
 	dc.b	"épaules!"
 	dc.b	$FD
-	dc.b	"En plus, cette foutu mission"
+	dc.b	"En plus, cette foutue mission"
 	dc.b	$FC
 	dc.b	"nous a été imposée par La"
 	dc.b	$FD

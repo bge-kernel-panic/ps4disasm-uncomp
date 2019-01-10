@@ -129,7 +129,7 @@
 	dc.b	$FC
 	dc.b	"demandez les détails directement"
 	dc.b	$FD
-	dc.b	"du concierge."
+	dc.b	"au concierge."
 	dc.b	$FD
 	dc.b	"Les dortoirs sont dans le"
 	dc.b	$FC
@@ -151,7 +151,7 @@
 ; $22
 	dc.b	$F4
 	dc.b	$11
-	dc.b	"Selon les règlements de la"
+	dc.b	"Selon le règlement de la"
 	dc.b	$FC
 	dc.b	"guilde, vous ne pouvez postuler"
 	dc.b	$FD
@@ -234,7 +234,7 @@
 	dc.b	$FD
 	dc.b	"Sa maison est située dans le"
 	dc.b	$FC
-	dc.b	"quartier est de Monson, juste au"
+	dc.b	"quartier est de Monsen, juste au"
 	dc.b	$FD
 	dc.b	"milieu des failles dues au"
 	dc.b	$FC
@@ -244,7 +244,7 @@
 ; $26
 	dc.b	$F4
 	dc.b	$11
-	dc.b	"Selon les règlements de la"
+	dc.b	"Selon le règlement de la"
 	dc.b	$FC
 	dc.b	"guilde, vous ne pouvez postuler"
 	dc.b	$FD
@@ -315,7 +315,7 @@
 	dc.b	"Vous êtes preneur?"
 	dc.b	$F5
 	dc.b	$01, $00
-	dc.b	"Je voie."
+	dc.b	"Je vois."
 	dc.b	$FC
 	dc.b	"Dommage."
 	dc.b	$FF
@@ -347,7 +347,7 @@
 ; $2B
 	dc.b	$F4
 	dc.b	$11
-	dc.b	"Selon les règlements de la"
+	dc.b	"Selon le règlement de la"
 	dc.b	$FC
 	dc.b	"guilde, vous ne pouvez postuler"
 	dc.b	$FD
@@ -415,7 +415,7 @@
 	dc.b	$FC
 	dc.b	"perdu..."
 	dc.b	$FD
-	dc.b	"Je laisserais tomber pour cette"
+	dc.b	"Laisse tomber pour cette"
 	dc.b	$FC
 	dc.b	"fois-ci, Chaz."
 	dc.b	$FF
@@ -474,7 +474,7 @@
 ; $2F
 	dc.b	$F4
 	dc.b	$11
-	dc.b	"Selon les règlements de la"
+	dc.b	"Selon le règlement de la"
 	dc.b	$FC
 	dc.b	"guilde, vous ne pouvez postuler"
 	dc.b	$FD
@@ -569,7 +569,7 @@
 ; $33
 	dc.b	$F4
 	dc.b	$11
-	dc.b	"Selon les règlements de la"
+	dc.b	"Selon le règlement de la"
 	dc.b	$FC
 	dc.b	"guilde, vous ne pouvez postuler"
 	dc.b	$FD
@@ -692,7 +692,7 @@
 ; $38
 	dc.b	$F4
 	dc.b	$11
-	dc.b	"Selon les règlements de la"
+	dc.b	"Selon le règlement de la"
 	dc.b	$FC
 	dc.b	"guilde, vous ne pouvez postuler"
 	dc.b	$FD

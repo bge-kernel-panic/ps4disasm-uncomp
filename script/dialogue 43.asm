@@ -295,7 +295,7 @@
 	dc.b	$FD
 	dc.b	"Toute IA n'obéissant pas à mes"
 	dc.b	$FC
-	dc.b	"ordres et l'ennemie d'Algo."
+	dc.b	"ordres est l'ennemie d'Algo."
 	dc.b	$FD
 	dc.b	"Par conséquent, ma mission est"
 	dc.b	$FC
@@ -574,7 +574,7 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$08
-	dc.b	"Exact. En temps normaux,"
+	dc.b	"Exact. En temps normal,"
 	dc.b	$FC
 	dc.b	"je m'abstiendrais d'utiliser"
 	dc.b	$FD

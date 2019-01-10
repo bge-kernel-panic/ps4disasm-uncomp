@@ -830,7 +830,7 @@
 	dc.b	$FD
 	dc.b	"Les spécifications ne semblent"
 	dc.b	$FC
-	dc.b	"pas contenir d'incompatibilité,"
+	dc.b	"pas présenter d'incompatibilité,"
 	dc.b	$FD
 	dc.b	"je vais donc me l'implanter."
 	dc.b	$FD

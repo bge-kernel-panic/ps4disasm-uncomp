@@ -91,7 +91,7 @@
 	dc.b	$FD
 	dc.b	"générations. L'un de nos"
 	dc.b	$FC
-	dc.b	"ancètres adorait jouer la flute."
+	dc.b	"ancêtres adorait jouer la flûte."
 	dc.b	$FF
 
 ; $8
