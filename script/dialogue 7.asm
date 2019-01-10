@@ -270,13 +270,13 @@
 	dc.b	$FF
 
 ; $8
-	dc.b	"Bon, vous avez trouvez ce que"
+	dc.b	"Bon, vous avez trouvé ce que"
 	dc.b	$FC
 	dc.b	"vous cherchiez?"
 	dc.b	$FD
 	dc.b	"Le Père Dorin a réponse à"
 	dc.b	$FC
-	dc.b	"pas mal toute question!"
+	dc.b	"pas mal de questions!"
 	dc.b	$FF
 
 ; $9
@@ -413,7 +413,7 @@
 	dc.b	$FD
 	dc.b	"Alors, en commençant du haut,"
 	dc.b	$FC
-	dc.b	"trente-six, vingt..."
+	dc.b	"quatre-vingt-huit, cinquante..."
 	dc.b	$F7
 
 	dc.b	$F4

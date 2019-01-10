@@ -380,7 +380,7 @@
 ; $47
 	dc.b	$F4
 	dc.b	$01
-	dc.b	"Il y a des...lumières qui"
+	dc.b	"Il y a des... lumières qui"
 	dc.b	$FC
 	dc.b	"clignotent."
 	dc.b	$FD
@@ -510,7 +510,7 @@
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$06
-	dc.b	"Attends... Ce n'etait pas le"
+	dc.b	"Attends... Ce n'était pas le"
 	dc.b	$FC
 	dc.b	"seul vaisseau venant de Parma!"
 	dc.b	$FD
@@ -518,7 +518,7 @@
 	dc.b	$FC
 	dc.b	"semblables ont pu s'échapper."
 	dc.b	$FD
-	dc.b	"La plupart ont attéri sur"
+	dc.b	"La plupart ont atterri sur"
 	dc.b	$FC
 	dc.b	"Motavia ou Dezolis, mais il"
 	dc.b	$FD
@@ -530,7 +530,7 @@
 	dc.b	$FC
 	dc.b	"mais ce doit être de l'ordre"
 	dc.b	$FD
-	dc.b	"d'une dizaine de vaisseau."
+	dc.b	"d'une dizaine de vaisseaux."
 	dc.b	$FD
 	dc.b	$F4
 	dc.b	$01

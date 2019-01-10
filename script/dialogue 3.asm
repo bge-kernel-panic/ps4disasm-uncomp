@@ -84,7 +84,7 @@
 	dc.b	$FC
 	dc.b	"de cette secte dont je vous"
 	dc.b	$FD
-	dc.b	"ai déjà parlé."
+	dc.b	"avais parlé."
 	dc.b	$FD
 	dc.b	"Les jeunes de nos jours sont"
 	dc.b	$FC
@@ -201,9 +201,9 @@
 	dc.b	$FC
 	dc.b	"vers des sables, mais..."
 	dc.b	$FD
-	dc.b	"Peut-être on leur a donné trop"
+	dc.b	"Peut-être qu'on leur a donné"
 	dc.b	$FC
-	dc.b	"à manger, ils sont énormes!"
+	dc.b	"trop à manger, ils sont énormes!"
 	dc.b	$FD
 	dc.b	"À vrai dire, ils ne sont"
 	dc.b	$FC

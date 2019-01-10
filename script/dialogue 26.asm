@@ -293,7 +293,7 @@
 	dc.b	$FD
 	dc.b	"'Les vers des sables de mon"
 	dc.b	$FC
-	dc.b	"ranch ont tellement grandis que"
+	dc.b	"ranch ont tellement grandit que"
 	dc.b	$FD
 	dc.b	"je ne sais plus quoi faire."
 	dc.b	$FC

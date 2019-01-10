@@ -279,7 +279,9 @@
 	dc.b	$FC
 	dc.b	"monstres furent vaincus par un"
 	dc.b	$FD
-	dc.b	"chasseur dont j'oublie le nom."
+	dc.b	"chasseur dont j'ai"
+	dc.b	$FC
+	dc.b	"oublié le nom."
 	dc.b	$FF
 
 ; $47
@@ -491,7 +493,7 @@
 	dc.b	$FD
 	dc.b	"Euh, aussi... J'apprécierais"
 	dc.b	$FC
-	dc.b	"si vous pourriez garder toute"
+	dc.b	"si vous pouviez garder toute"
 	dc.b	$FD
 	dc.b	"cette affaire sous silence."
 	dc.b	$FF
