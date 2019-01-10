@@ -572,7 +572,7 @@
 	dc.b	$08
 	dc.b	"Comme nous le pensions, ceci"
 	dc.b	$FC
-	dc.b	"doit être à la cause du climat"
+	dc.b	"doit être la cause du climat"
 	dc.b	$FD
 	dc.b	"anormal."
 	dc.b	$FD
@@ -604,7 +604,7 @@
 	dc.b	$08
 	dc.b	"Comme nous le pensions, ceci"
 	dc.b	$FC
-	dc.b	"doit être à la cause du climat"
+	dc.b	"doit être la cause du climat"
 	dc.b	$FD
 	dc.b	"anormal."
 	dc.b	$FD
