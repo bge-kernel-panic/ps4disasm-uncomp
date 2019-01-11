@@ -126,8 +126,8 @@ Version non-publiée.
 BGE        : Traduction initiale, hackeur.
 (B.Goudreault-Emond)
 
-galletteuh : Nombreuses corrections au texte, beta-testeur.
-(A.Gallet)
+galletteuh : Nombreuses corrections au texte, beta-testeur,
+(A.Gallet)   changement à la police de dialogue.
 
 
 4. Contacts
