@@ -13,7 +13,7 @@
 	dc.b	$09
 	dc.b	"Nul besoin de m'accompagner"
 	dc.b	$FC
-	dc.b	"pour cette fois, alors montez"
+	dc.b	"cette fois-ci, alors montez"
 	dc.b	$FD
 	dc.b	"bien la garde sur ce qui reste"
 	dc.b	$FC

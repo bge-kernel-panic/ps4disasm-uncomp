@@ -483,7 +483,7 @@
 	dc.b	$FC
 	dc.b	"...vous dites qu'il se passe"
 	dc.b	$FD
-	dc.b	"quoi là-bas?"
+	dc.b	"quoi, là-bas?"
 	dc.b	$FF
 
 ; $15

@@ -115,7 +115,7 @@
 ; $D
 	dc.b	"Je viens d'emménager ici..."
 	dc.b	$FD
-	dc.b	"Est-ce qu'il s'est passé quelque"
+	dc.b	"Est-ce qu'il s'est passé"
 	dc.b	$FC
 	dc.b	"d'étranges choses récemment?"
 	dc.b	$FF
